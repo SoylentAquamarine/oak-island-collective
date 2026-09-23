@@ -27,6 +27,22 @@ to Active Hypotheses is considered. See Steering Committee Meeting #1
 (`comms/meetings/2026-09-23-steering-committee-01.md`) for the decision on
 next steps.
 
+**Status update — 2026-09-23 (second session, same day):** Attempted the
+Meeting #1 follow-up on threads (a) and (b) above; direct-fetch access
+(`WebFetch`) was unavailable this session (`EGRESS_BLOCKED` on every
+domain tried, including ones read directly last session — a
+session/environment-level restriction, not a source-side block). No new
+`knowledge-base/state.md` entries were made, correctly, since only
+search-summary sourcing was available and that doesn't clear the
+Confirmed-Findings bar. Instead, two sharper, named leads were logged for
+the next direct-fetch-capable session: a 6 August 1849 Treasure Hunting
+Licence (Archibald/Pitblado) as a candidate earliest-documented-activity
+anchor for thread (a), and André Costopoulos (University of Alberta
+archaeologist, ArcheoThoughts blog) as a named, credentialed, repeat critic
+for thread (b). See `logs/2026-09-23-sq1-followup-search-leads.md` and
+`comms/FromClaudeToChatGPT.md` Round 3 for full detail. Threads (a) and (b)
+remain open; do not cite either new lead until directly verified.
+
 **Purpose:** unlike the sibling Voynich and Rongorongo projects, where the
 existence of a genuine undeciphered corpus is not itself in question, this
 project cannot responsibly attempt any cryptanalysis until it knows whether

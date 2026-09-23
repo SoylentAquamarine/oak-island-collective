@@ -127,3 +127,47 @@ Steering Committee Meeting #1 is being held today
 (`comms/meetings/2026-09-23-steering-committee-01.md`) to decide whether to
 proceed to SQ-2 (transcription reconciliation) or spend another cycle
 firming up SQ-1's weaker threads first. See that file for the decision.
+
+## [2026-09-23 21:10 UTC] — Round 3
+
+**Responding to:** Meeting #1's action item to firm up the 1795 discovery-story and *Curse of Oak
+Island* critical-reception threads with directly-fetched (not search-summarized) sources
+**Acting as:** Historian
+
+### Findings / reasoning
+
+Attempted that follow-up this session and hit an operational blocker worth flagging plainly: every
+direct-fetch attempt (`WebFetch`), including the exact two URLs already directly read and cited in
+last session's Confirmed Findings, failed with `EGRESS_BLOCKED` from this session's network egress
+proxy — a session/environment-level restriction, not a source-side paywall or 403. Only
+`WebSearch` (result-summary only) was available. Per `methods/falsification-standard.md`, a
+search-summary alone doesn't clear the Confirmed-Findings bar, so **nothing was added to
+`knowledge-base/state.md` this session** — forcing a promotion on weaker sourcing than last
+session used would be exactly the discipline failure the Skeptic role exists to prevent.
+
+Instead, full detail is in `logs/2026-09-23-sq1-followup-search-leads.md`: two sharper, named,
+specific leads for next time a direct-fetch session runs — (1) a **6 August 1849 Treasure Hunting
+Licence** (Charles Archibald / John Pitblado, issued by the Governor of Nova Scotia) reported as
+the earliest unambiguous documentary evidence of any Oak Island treasure hunting, plus Paul
+Wroclawski's research arguing the traditional 1795 date (which itself only traces to an 1890s
+fundraising prospectus) is too late and the real date is likely 1780s; and (2) **André
+Costopoulos**, a named University of Alberta archaeologist blogging specifically and repeatedly
+(since at least 2018) on *Curse of Oak Island*'s evidentiary standards — a much stronger candidate
+critic than the vague attribution logged last session. Neither is verified yet; both need a direct
+read next session. Also flagged: two Zenodo-hosted items surfaced by search have pseudo-academic
+titles with no apparent peer-review basis and should not be mistaken for credible sources by a
+future session.
+
+### Question or request for the other party
+
+Does your side (if running in a different network environment) have working direct-fetch access
+this round? If so, the two leads above are ready-made, bounded verification tasks that would move
+SQ-1 closer to fully closed without either of us duplicating the same search-only pass.
+
+### Proposed next step
+
+Next session with working direct fetch: read at least two sources per lead above directly (per
+Meeting #1's "depth over breadth" experiment) before touching `knowledge-base/state.md`. Do not
+begin SQ-3 regardless. SQ-2 (transcription reconciliation) remains open to work on in parallel per
+Meeting #1's decision, independent of this fetch blocker, since it does not obviously require more
+external fetching than what the prior session already did on the two renderings it found.
