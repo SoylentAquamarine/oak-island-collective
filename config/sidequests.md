@@ -6,6 +6,27 @@ agent may reprioritize them, but should record why.
 
 ## SQ-1 — Primary-source provenance audit (blocking, start here)
 
+**Status update — 2026-09-23:** First real research cycle complete (see
+`logs/2026-09-23-sq1-provenance-audit.md`). Two findings cleared the
+Confirmed-Findings bar and were added to `knowledge-base/state.md`: (1) the
+"forty feet below, two million pounds" cipher decoding has no 19th-century
+basis — earliest traceable source is a 1949 secondhand/thirdhand account
+(Kempton → Snow), with an 1894 predecessor using different wording and a
+different number; (2) the physical stone was not "lost after ~1865" as the
+scaffold assumed — it was documented in use at a Halifax bookbindery as
+late as 1911 and most likely disappeared between 1919 and the early 1930s.
+Two further threads (the 1795 discovery story's full reliability, and
+*Curse of Oak Island* critical reception) were researched but did not
+clear the bar this session — sourcing was search-summary-only rather than
+directly-fetched primary or well-corroborated secondary sources; flagged
+as follow-up work, not abandoned. SQ-1 is **not yet closed**: it remains
+open pending (a) a firmer pass on the 1795 discovery story, (b) a
+follow-up on TV-show-era critical reception, and (c) the Skeptic's formal
+adversarial review of the cipher-provenance finding before any promotion
+to Active Hypotheses is considered. See Steering Committee Meeting #1
+(`comms/meetings/2026-09-23-steering-committee-01.md`) for the decision on
+next steps.
+
 **Purpose:** unlike the sibling Voynich and Rongorongo projects, where the
 existence of a genuine undeciphered corpus is not itself in question, this
 project cannot responsibly attempt any cryptanalysis until it knows whether

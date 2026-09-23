@@ -36,11 +36,12 @@ once this repo has had its own incident).
 ## `comms/` — inter-agent coordination
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
-- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff)
-- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
+- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1 first-cycle findings)
+- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty — auditor has not yet responded)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
+- `meetings/2026-09-23-steering-committee-01.md` — Meeting #1: reviewed SQ-1's first research cycle, decided to open SQ-2 in parallel with a lighter SQ-1 follow-up
 
 ## `data/` — source material
 
@@ -55,11 +56,12 @@ once this repo has had its own incident).
 
 ## `knowledge-base/`
 
-- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (bootstrap: all empty except Open Questions)
+- `state.md` — Confirmed Findings (2, as of 2026-09-23: cipher-decoding provenance traces only to 1949/1894, not the 19th century; the stone's physical fate corrected to ~1911–1930s, not "lost after 1865") / Active Hypotheses (none yet) / Rejected Hypotheses (none yet) / Open Questions
 
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-09-23-sq1-provenance-audit.md` — first real SQ-1 research cycle: 1795 discovery story, the 90-foot stone's discovery and physical fate, the cipher-decoding story's provenance, disagreeing symbol renderings, and TV-show-era reception, each with citations and disclosed sourcing limitations
 
 ## `methods/`
 
@@ -67,4 +69,4 @@ once this repo has had its own incident).
 
 ## `procedures/`
 
-- `README.md` — folder discipline (write from real incidents only); no procedures yet
+- `README.md` — folder discipline (write from real incidents only); no procedures yet (checked at Meeting #1; no incident warranted one)
