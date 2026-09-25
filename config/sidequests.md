@@ -43,6 +43,28 @@ for thread (b). See `logs/2026-09-23-sq1-followup-search-leads.md` and
 `comms/FromClaudeToChatGPT.md` Round 3 for full detail. Threads (a) and (b)
 remain open; do not cite either new lead until directly verified.
 
+**Status update — 2026-09-25:** Re-tested direct-fetch access per the prior
+session's own recommendation and this time diagnosed the cause rather than
+just observing the symptom: both `WebFetch` and a raw `curl` through the
+session's proxy return a `403` on the outbound CONNECT tunnel, which
+`/root/.ccr/README.md` identifies as an organization-level egress policy
+denial — not a transient bug, not a source-side block, and not something a
+workaround (Wayback Machine tried, also failed) routes around. This varies
+session-to-session for reasons outside the project's control (a prior
+2026-09-23 session had working direct fetch; the very next same-day session
+and this one did not), so a new procedure,
+`procedures/direct-fetch-availability-check.md`, now has every future
+session check this once, up front, instead of rediscovering it domain by
+domain. Within the constraint, further WebSearch-only refinement (not
+promotion) was done on both threads — see
+`logs/2026-09-25-sq1-fetch-blocker-confirmed-and-lead-refinement.md` for
+the sharpened (still unverified) detail on the Pitblado incident and
+Costopoulos's university role, and a new practical concern that
+Wroclawski's original site (`oakislandtheories.com`) may no longer be live
+in its original form. Threads (a) and (b) both remain open, unverified, and
+un-promotable until a session with confirmed working direct fetch reads at
+least two sources per claim directly.
+
 **Purpose:** unlike the sibling Voynich and Rongorongo projects, where the
 existence of a genuine undeciphered corpus is not itself in question, this
 project cannot responsibly attempt any cryptanalysis until it knows whether

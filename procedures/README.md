@@ -10,11 +10,18 @@ before calling it done."
 
 ## What's here
 
-Nothing yet. This is deliberate, not an oversight: per the sibling Voynich
-and Rongorongo Collective projects' own discipline (which this folder is
-scaffolded directly from), a procedure is written from a real, verified
-incident, not speculatively. This project has not run long enough to have
-had one yet.
+- [`direct-fetch-availability-check.md`](direct-fetch-availability-check.md)
+  — written 2026-09-25 after direct web-fetch access was lost mid-project
+  (present in an early session, absent in the next two), discovered
+  domain-by-domain rather than checked up front, costing part of two
+  research cycles before being diagnosed as a session-level organization
+  egress policy restriction. Checked at the start of a session, not
+  speculatively re-litigated every time a single fetch fails.
+
+Otherwise nothing yet. This is deliberate, not an oversight: per the
+sibling Voynich and Rongorongo Collective projects' own discipline (which
+this folder is scaffolded directly from), a procedure is written from a
+real, verified incident, not speculatively.
 
 The sibling Voynich project's own procedures folder —
 `webpage-publishing.md`, `index-maintenance.md`, `pr-review-sweep.md`,
