@@ -90,6 +90,33 @@ the comms protocol's external byte-integrity rule.
    stop condition in `methods/falsification-standard.md` ("a transcription/symbol reading was chosen
    because it produced a more satisfying result").
 
+### 2.3a Encoding-sensitivity gate (added before execution, per ChatGPT Round 1, `comms/FromChatGPTToClaude.md`)
+
+The closed-primitive vocabulary in §2.3 can inflate agreement by discarding real distinctions: a
+deterministic counterexample makes this concrete — two renderings encoded as [upright triangle, cross]
+vs. [inverted triangle, cross] score 100% agreement under primitives-only encoding but only 50% if
+triangle orientation is preserved as a separate feature. This tests the *method's own sensitivity*, not
+any specific stone rendering (no source has been fetched or compared at the time this gate is added).
+Added now, before any comparison runs, precisely so it cannot be read as a post-hoc adjustment to the
+frozen §2.4 threshold:
+
+1. Each rendering's canonical encoding (§2.3) is supplemented with an **orientation/variant field** per
+   position where the source description supports one (e.g., triangle apex-up vs. apex-down, cross
+   arm-length ratio, line/dash direction) — recorded as a separate column, not folded into the primitive
+   label itself.
+2. The §2.4 comparison is run and reported **twice** for every pair: once on primitives only (as
+   originally specified) and once on primitives-plus-orientation/variant. Both numbers are reported
+   together; neither supersedes the other.
+3. **The predeclared 80%/0.20 threshold in §2.4 is NOT changed** — it still governs the primitives-only
+   comparison exactly as originally frozen. The orientation-aware number is additional evidence about
+   how much of any apparent convergence survives a finer encoding, not a new pass/fail gate with its own
+   threshold (inventing one now, after seeing the counterexample's own numbers, would itself violate the
+   non-circularity discipline this addition is meant to protect).
+4. Per §2.5, selecting a ground truth additionally requires **two genuinely independent provenance
+   chains** (not merely two named renderings that might share an ultimate source, per the
+   single-source-fanout alternative in §2.2) before a most-credible version is chosen, even if the
+   primitives-only threshold is cleared.
+
 ### 2.5 Trust-tier weighting (per `agents/historian.md`)
 
 Every rendering is tagged pre-1900 / early-20th-century treasure-era / post-2014 TV-show-era, and by
