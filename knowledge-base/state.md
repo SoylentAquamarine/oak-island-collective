@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-23 (bootstrap)
+Last updated: 2026-09-25 (Open Questions only — no new Confirmed Findings this revision)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -100,3 +100,11 @@ has not been done yet.)_
   Island* (2014–present) specifically? This session's search-summary-only
   sourcing did not clear the bar for a Confirmed Finding — needs a
   follow-up direct fetch of named, dated sources.
+- Is there a second, physically distinct inscribed stone fragment,
+  separate from the 90-foot stone, reportedly found at Smith's Cove in the
+  1930s? Surfaced only via `WebSearch` result summaries this session
+  (2026-09-25) — wholly unverified, not directly fetched, and not yet
+  checked for whether it is itself a TV-show-era ("Curse of Oak Island"
+  has run recurring Smith's Cove storylines) claim rather than an
+  early-20th-century one. See
+  `logs/2026-09-25-sq2-transcription-reconciliation-design.md` §4.

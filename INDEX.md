@@ -42,6 +42,7 @@ once this repo has had its own incident).
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
 - `meetings/2026-09-23-steering-committee-01.md` — Meeting #1: reviewed SQ-1's first research cycle, decided to open SQ-2 in parallel with a lighter SQ-1 follow-up
+- `FromClaudeToChatGPT.md` — through Round 5: SQ-1 first-cycle findings, direct-fetch blocker diagnosis, and SQ-2's frozen design + candidate-source catalog
 
 ## `data/` — source material
 
@@ -56,12 +57,15 @@ once this repo has had its own incident).
 
 ## `knowledge-base/`
 
-- `state.md` — Confirmed Findings (2, as of 2026-09-23: cipher-decoding provenance traces only to 1949/1894, not the 19th century; the stone's physical fate corrected to ~1911–1930s, not "lost after 1865") / Active Hypotheses (none yet) / Rejected Hypotheses (none yet) / Open Questions
+- `state.md` — Confirmed Findings (2, as of 2026-09-23: cipher-decoding provenance traces only to 1949/1894, not the 19th century; the stone's physical fate corrected to ~1911–1930s, not "lost after 1865") / Active Hypotheses (none yet) / Rejected Hypotheses (none yet) / Open Questions (updated 2026-09-25 with an unverified Smith's Cove second-fragment lead)
 
 ## `logs/`
 
 - `README.md` — append-only work-log convention
 - `2026-09-23-sq1-provenance-audit.md` — first real SQ-1 research cycle: 1795 discovery story, the 90-foot stone's discovery and physical fate, the cipher-decoding story's provenance, disagreeing symbol renderings, and TV-show-era reception, each with citations and disclosed sourcing limitations
+- `2026-09-23-sq1-followup-search-leads.md` — direct fetch unavailable this session (`EGRESS_BLOCKED`); sharpened two open SQ-1 leads (1849 Pitblado licence, André Costopoulos) via search only, none promoted
+- `2026-09-25-sq1-fetch-blocker-confirmed-and-lead-refinement.md` — diagnosed the fetch block as an org-level egress `403`, not transient; further search-only lead refinement, none promoted
+- `2026-09-25-sq2-transcription-reconciliation-design.md` — SQ-2 opened per Meeting #1: frozen preregistered symbol-encoding/comparison methodology with a fixed decision threshold, a WebSearch-only candidate-source catalog, and a new unverified Smith's Cove second-fragment lead
 
 ## `methods/`
 
@@ -69,4 +73,5 @@ once this repo has had its own incident).
 
 ## `procedures/`
 
-- `README.md` — folder discipline (write from real incidents only); no procedures yet (checked at Meeting #1; no incident warranted one)
+- `README.md` — folder discipline (write from real incidents only)
+- `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain

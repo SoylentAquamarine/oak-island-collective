@@ -99,6 +99,21 @@ provenance research, not computation.
 
 ## SQ-2 — Stone-inscription transcription reconciliation
 
+**Status update — 2026-09-25 (third session, same date):** Opened per Steering Committee Meeting #1's
+action item (which had gone two sessions without being acted on, since both intervening sessions spent
+their budget on SQ-1's fetch blocker instead). Direct fetch was re-confirmed blocked this session too
+(third consecutive blocked session — see `procedures/direct-fetch-availability-check.md`), so full
+execution (fetching and symbol-by-symbol comparison) was not possible. Instead, produced a **frozen,
+preregistered comparison methodology** — encoding scheme, pairwise-agreement procedure, an 80%-agreement
+/ 0.20-normalized-edit-distance decision threshold fixed *before* any comparison is run, and trust-tier
+weighting rules — plus a first WebSearch-only candidate-source catalog (5 candidate pages plus one
+already-excluded pseudo-academic source), so the next fetch-capable session can execute mechanically
+rather than starting from scratch. Also flagged one genuinely new, wholly unverified lead: a possible
+second, physically distinct inscribed stone fragment reported at Smith's Cove in the 1930s. See
+`logs/2026-09-25-sq2-transcription-reconciliation-design.md` for the full design and candidate list.
+Nothing from this session was promoted to `knowledge-base/state.md`'s Confirmed Findings — it is design
+and lead-discovery work, not a result.
+
 **Purpose:** compile every known published rendering of the 90-foot
 stone's symbols and assess which, if any, is reliable enough to treat as
 ground truth for cryptanalysis.

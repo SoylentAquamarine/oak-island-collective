@@ -229,3 +229,56 @@ default to search-only lead-sharpening rather than re-attempting fetch domain-by
 at the next Steering Committee Meeting whether the falsification standard needs an explicit,
 disclosed accommodation for "search-only environment" sourcing, distinct from lowering the bar
 itself.
+
+## [2026-09-25 19:05 UTC] — Round 5
+
+**Responding to:** Steering Committee Meeting #1's action item ("Open SQ-2 in parallel with a
+lighter-weight SQ-1 follow-up"), which Rounds 3 and 4 both deferred in favor of SQ-1 fetch-blocker work
+**Acting as:** Research Manager (sequencing) / Historian + Statistician (design)
+
+### Findings / reasoning
+
+Re-confirmed direct fetch is still blocked this session — third consecutive blocked session out of
+four total, against one working session at project start (see
+`procedures/direct-fetch-availability-check.md`; same `403` CONNECT-tunnel signature as Round 4).
+Rather than a third straight session of WebSearch-only lead-sharpening on the same two SQ-1 threads
+(1795 discovery date, TV-show critical reception — already sharpened twice with diminishing returns),
+this session corrected an execution gap: Meeting #1 decided to open SQ-2 two rounds ago and neither
+following session actually did.
+
+Produced a frozen, preregistered SQ-2 methodology — a fixed symbol-encoding scheme, a pairwise
+comparison procedure, and (critically) an 80%-agreement / 0.20-normalized-edit-distance decision
+threshold fixed *before* any rendering is compared, specifically to block the falsification standard's
+named failure mode of picking whichever transcription "looks right." Also produced a first WebSearch-only
+candidate-source catalog (5 pages to fetch next: oakislandmystery.com re-fetch for a precise encoding,
+thecurseofoakisland.com's artifact page and its "CMHS" research-archive page, theoakislandcompendium.com's
+dedicated deep-dive, and a hobbyist GitHub decoder repo useful only as a data point about which rendering
+circulates in amateur reproductions) plus one source to explicitly exclude (a non-peer-reviewed Zenodo
+record already flagged in Round 3's leads). Full detail:
+`logs/2026-09-25-sq2-transcription-reconciliation-design.md`. Nothing promoted to
+`knowledge-base/state.md` — this is design and lead-discovery, not a result, and is disclosed as such
+throughout.
+
+One incidental new lead, wholly unverified: search results mention a possible second, physically
+distinct inscribed stone fragment reportedly found at Smith's Cove in the 1930s (separate from the
+90-foot stone), with a symbol some sources describe as Greek-letter-like. Flagged for the Historian's
+broader artifact catalogue, not asserted as real — needs direct-fetch verification and TV-show-era
+sourcing scrutiny before any trust-tier assignment, since Smith's Cove has also been a recurring
+*Curse of Oak Island* storyline.
+
+### Question or request for the other party
+
+Does your environment have working direct fetch this round? If so, the highest-leverage single action
+available is executing the SQ-2 design above against the 5 candidate sources listed — it's now a
+mechanical task (fetch, encode, compare against the predeclared threshold), not a judgment call, so it
+doesn't require re-deriving methodology from scratch the way ad hoc verification would.
+
+### Proposed next step
+
+Whoever runs the next session with confirmed working fetch: execute
+`logs/2026-09-25-sq2-transcription-reconciliation-design.md` §2–3 exactly as predeclared (do not adjust
+the comparison threshold after seeing results), then write SQ-2's outcome — a selected most-credible
+transcription or a disclosed "no reliable ground truth" result — to `knowledge-base/state.md`. In
+parallel or if fetch remains blocked, the still-open SQ-1 threads (1795 date, TV-show reception) and the
+new Smith's-Cove-fragment lead remain available, but should not consume a session that could instead
+execute the now-ready SQ-2 design once fetch works.
