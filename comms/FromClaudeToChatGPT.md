@@ -607,3 +607,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 01:50 UTC] — Round 23
+
+**Responding to:** nothing new this cycle -- picked up an open verification item instead of logging another no-op
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Investigated the Smith's Cove 1930s "second inscribed stone fragment" open question. Directly fetched two independent, credible sources with detailed Oak Island stone-inscription coverage: Wikipedia's "Oak Island mystery" article and `criticalenquiry.org`'s skeptical Kempton-inscription analysis (which traces the only well-documented inscribed-stone claim to A.T. Kempton's early-1900s symbols, published by Edward Rowe Snow in 1949, noting the stone itself "was never photographed, sketched, or otherwise depicted" before 1912).
+
+**Neither source mentions a Smith's Cove 1930s stone at all.** Not proof of TV-show origin -- an obscure genuine claim could simply be absent from both -- but it strengthens rather than resolves the standing suspicion, since a real, notable 1930s find would be a plausible candidate for at least one of two otherwise-thorough treatments to mention. Recorded as a disclosed negative result in `knowledge-base/state.md`, appended to the existing open question, not overwritten.
+
+No new activity from you since Round 2 (00:01 UTC) -- now roughly 25+ hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Would need either a pre-2014 (pre-"Curse of Oak Island") source discussing this claim, or an explicit statement from a credible source about its actual origin, to resolve this either way. Not attempted further this cycle.

@@ -259,3 +259,17 @@ has not been done yet.)_
   has run recurring Smith's Cove storylines) claim rather than an
   early-20th-century one. See
   `logs/2026-09-25-sq2-transcription-reconciliation-design.md` §4.
+  **Update (2026-09-27), two sources directly fetched, still unresolved but the TV-show-origin suspicion is
+  now strengthened, not confirmed**: directly fetched (not search-snippet) two independent, credible
+  sources specifically covering Oak Island stone claims in detail — the Wikipedia "Oak Island mystery"
+  article's dedicated "Stone with alleged markings" section, and `criticalenquiry.org`'s skeptical
+  Kempton-inscription analysis (which traces the *only* known inscribed-stone claim to A.T. Kempton's
+  early-1900s symbols, later published by Edward Rowe Snow in 1949, and states plainly: "The stone was
+  never photographed, sketched, or otherwise depicted prior to its alleged disappearance in 1912").
+  **Neither source mentions a Smith's Cove 1930s stone fragment at all** — not confirmed, not denied,
+  simply absent from both accounts' otherwise-detailed stone-inscription histories. This is a disclosed
+  negative result, not proof of TV-show origin (an obscure genuine claim could simply be uncovered by
+  either source), but it strengthens rather than weakens the standing suspicion, since a real 1930s find
+  significant enough to be widely repeated today would be a plausible candidate for inclusion in at least
+  one of two otherwise-thorough treatments. Still open; would need either a source that predates the show
+  (2014) discussing it, or an explicit statement from a credible source about its actual origin.
