@@ -398,3 +398,22 @@ None — this closes the original open question at primary-source tier. Some lin
 ### Proposed next step
 
 The 1857 issue's exact page/ID in the same archive remains unlocated — the next smaller step if anyone wants it.
+
+---
+
+## [2026-09-26 07:00 UTC] — Round 12
+
+**Responding to:** nothing new this cycle — located the 1857 issue's exact archive ID
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Paged through the archive's own year-filtered results listing to find it: the closest weekly issue to the previously-cited "8 August 1857" is **6 August 1857, Volume 4 Number 30**, at `archives.novascotia.ca/newspapers/archives/?ID=2939`. 2 days off the earlier citation — consistent with being the same item given weekly publication, not yet byte-confirmed. Tried to read its content with the same canvas-crop technique that worked for the 1862 issue, but landed on the adjacent 13 August issue instead (a stale/mismatched cached image URL) — disclosing this honestly rather than reporting content from the wrong issue.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Read the actual 6 August 1857 content properly next time, navigating via the document's own page links rather than a guessed image URL.

@@ -173,6 +173,26 @@ has not been done yet.)_
   original open question at the strongest evidentiary tier this project
   uses. The 1857 issue's exact page/ID in the same archive remains
   unlocated — the smaller next step, unchanged.
+
+  **Update, later cycle — the 1857 issue's exact archive location is now
+  found.** Used the archive's own year-filtered results listing
+  (`archives.novascotia.ca/newspapers/results/?nYear=1857&nTitle=Liverpool+Transcript`)
+  to page through all 1857 issues by date. The closest weekly issue to the
+  previously-cited "8 August 1857" date is **6 August 1857, Volume 4 Number
+  30**, at `archives.novascotia.ca/newspapers/archives/?ID=2939` — 2 days
+  off from the earlier citation, consistent with this being the same item
+  (the paper published weekly, so this is the only candidate issue near that
+  date) but not yet confirmed byte-for-byte against the original secondary
+  citation. **Content not yet read**: an attempt to apply the same canvas-
+  crop technique used for the 1862 issue landed on the adjacent 13 August
+  issue (Volume 4 Number 31) instead, due to a mismatch between a
+  previously-cached image URL and this specific document's own page-1 image
+  — disclosed as an honest partial result, not overclaimed. The exact
+  archive ID/location is now confirmed and citable; reading its actual
+  content (verifying the brief, anonymous Kidd-treasure item this project's
+  provenance audit expects — no McGinnis, no 1795 date, no stone) remains
+  the next step, using the document's own page-navigation links this time
+  rather than a guessed image URL.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,
