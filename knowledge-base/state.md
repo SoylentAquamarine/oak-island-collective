@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25 (Open Questions only — no new Confirmed Findings this revision)
+Last updated: 2026-09-26 (new Confirmed Finding: a named academic source on Curse of Oak Island's pseudoarchaeology concerns, closing a previously-flagged sourcing gap)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -59,6 +59,22 @@ git log of this file — nothing here is ever silently overwritten.
   the exact disappearance year is itself disputed between the secondary
   sources consulted.
 
+- **A named, credentialed academic source documents specific pseudoarchaeology concerns with
+  *The Curse of Oak Island* (2014–present)**, closing the "search-summary-only" gap the previous
+  cycle flagged as insufficient for a Confirmed Finding. Directly fetched (not WebSearch-summary):
+  Andre Costopoulos — archaeology professor, University of Alberta —
+  `archeothoughts.wordpress.com/2018/12/18/pseudo-archaeology-and-self-correction-in-curse-of-oak-island-fan-communities/`
+  (published 2018-12-18, updated 2020-07-09). Costopoulos documents a specific case: the show's
+  team, aided by "self-described antiques expert Gabriel Vandervort," identified an iron object as
+  a Roman pilum point, in a context where "a previous claim of a roman find on the island, this one
+  a sword, had been debunked on the show itself by St-Mary's university materials experts, back in
+  2016" — i.e. the show had already had one of its own artifact-identification claims disproven by
+  actual university materials scientists, on-camera, and repeated a similar unverified
+  identification pattern two years later. This is one specific, named, dated, directly-quoted
+  academic critique, not an aggregate reception summary — it does not establish "the" scholarly
+  consensus on the show, only that at least one credentialed archaeologist has published a specific,
+  documented pseudoarchaeology concern about it.
+
 ## Active Hypotheses
 
 _(none yet — no candidate has undergone the independent adversarial review
@@ -97,9 +113,11 @@ has not been done yet.)_
   after the claimed event? Needs a follow-up direct-source session — see
   `logs/2026-09-23-sq1-provenance-audit.md` §1 and "Next steps."
 - What is the documented critical/scholarly reception of *The Curse of Oak
-  Island* (2014–present) specifically? This session's search-summary-only
-  sourcing did not clear the bar for a Confirmed Finding — needs a
-  follow-up direct fetch of named, dated sources.
+  Island* (2014–present) specifically? **Partially answered** — see
+  Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,
+  directly-fetched source now exists; this is not yet a survey of "the"
+  scholarly reception, and a broader search for additional named academic
+  critiques (rather than aggregate WebSearch summaries) remains open.
 - Is there a second, physically distinct inscribed stone fragment,
   separate from the 90-foot stone, reportedly found at Smith's Cove in the
   1930s? Surfaced only via `WebSearch` result summaries this session
