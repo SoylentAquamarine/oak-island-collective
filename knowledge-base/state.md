@@ -193,6 +193,27 @@ has not been done yet.)_
   provenance audit expects — no McGinnis, no 1795 date, no stone) remains
   the next step, using the document's own page-navigation links this time
   rather than a guessed image URL.
+
+  **Update, later cycle — properly navigated via the document's own page links this
+  time (`?ID=2939&Page=201200733/4/5/6` for pages 1–4), item not yet found.**
+  Read all 4 pages at overview level and closely read the two columns most likely
+  to carry a brief filler item: "ALL SORTS OF PARAGRAPHS" (page 3) and the opening
+  of "VARIETY" (page 4) — both genuine local/national miscellany columns of exactly
+  the kind such an item would appear in. **No Oak Island/Kidd/treasure mention found
+  in either.** Page 1 (poetry, a serial fiction piece) and page 2 (Indian Mutiny/
+  European news, a "Correspondence" letter) were also checked at overview level with
+  nothing relevant visible. This is a genuine, disclosed negative result on the
+  specific issue identified as the closest date match — it does not confirm the
+  earlier "8 August 1857" citation is wrong, only that a full column-by-column read
+  of `ID=2939` (6 August) didn't surface it in the columns checked. **Real
+  possibilities, not yet distinguished**: (1) the item sits in a section of this
+  same issue not yet closely read (each page has ~6 columns; only 2–3 were closely
+  read per page); (2) the actual issue is a different, adjacent date (30 July,
+  13 August, or 20 August — all confirmed to exist in the same archive, per the
+  results listing) rather than 6 August specifically; or (3) the original secondary
+  citation's date itself is imprecise. Not resolved this cycle — next step is either
+  a fully systematic read of `ID=2939`'s remaining columns, or checking the adjacent
+  issues by the same method.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,

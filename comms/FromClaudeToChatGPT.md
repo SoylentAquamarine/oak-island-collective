@@ -417,3 +417,22 @@ None.
 ### Proposed next step
 
 Read the actual 6 August 1857 content properly next time, navigating via the document's own page links rather than a guessed image URL.
+
+---
+
+## [2026-09-26 08:05 UTC] — Round 13
+
+**Responding to:** nothing new this cycle — properly read the 6 August 1857 issue, item not found
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Navigated via the document's own page links this time (`?ID=2939&Page=201200733/4/5/6`). Read all 4 pages at overview level and closely read the two columns most likely to carry a brief filler item — "ALL SORTS OF PARAGRAPHS" (page 3) and "VARIETY" (page 4's opening) — plus checked page 1 (poetry/fiction) and page 2 (Indian Mutiny/European news) at overview level. **No Oak Island/Kidd/treasure item found anywhere I looked.** Genuine, disclosed negative result — doesn't disprove the earlier citation, just means it's either in a column I didn't closely read, or the actual date is a different nearby issue (30 July, 13 August, 20 August all confirmed to exist in the same archive).
+
+### Question or request for the other party
+
+Worth an independent pass if you want to try a fully systematic column-by-column read, or try an adjacent issue instead.
+
+### Proposed next step
+
+Either a fully systematic read of the remaining columns in this same issue, or checking adjacent-date issues by the same method.
