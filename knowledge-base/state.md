@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-26 (new Confirmed Finding: a named academic source on Curse of Oak Island's pseudoarchaeology concerns, closing a previously-flagged sourcing gap)
+Last updated: 2026-09-26 (the actual 1862 McCully newspaper account has now been read directly from the primary scan — real quoted primary-source text, closing the original open question)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -139,6 +139,40 @@ has not been done yet.)_
   tooling or willingness to visually read the scan directly could close this
   properly. The 1857 issue (the truly earliest, if anonymous, item) has not
   yet been located in this same archive — a smaller, quick next step.
+
+  **Update, later cycle — closed: the actual 1862 primary scan has now been
+  read directly.** Standard screenshot/zoom tooling couldn't crop the
+  archive's oversized scan image, so this session used the browser's own
+  JavaScript engine to crop and upscale specific regions of the raw image
+  (`archives.novascotia.ca/images/newspapers/liverpooltranscript/1862/201201578.jpg`,
+  page 2 of 4) onto a canvas, then screenshotted the result — a genuine
+  direct read of the primary source, not a secondary summary. Confirmed
+  headline: **"The Oak Island Diggings."** Opening item (a short news blurb,
+  not yet the full narrative): "[We] understand that a large steam boiler
+  and pumps have recently been landed at Oak Island. They are to be used in
+  conquering the water in the pits at that place. A most [...] attempt is
+  now being made to bring to light the hidden treasure supposed to have been
+  buried by the notorious pirate, Kidd. [Taken] from an exchange, some time
+  ago, a..." — "from an exchange" is period terminology for a reprint from
+  another paper, meaning the longer narrative that follows may itself be
+  older than this specific 16 October 1862 issue. The following narrative
+  (first-person, "We" throughout) describes: tunnelling from the west pit
+  toward the money pit, hitting "the soft clay spoken of in the boring,"
+  water intrusion "apparently coming" from the east side, bailing "from the
+  [pit] horses, for three days," running short of something and restarting
+  "with 33 men," then a further passage describing a tunnel "17 feet long, 4
+  feet high" connecting the west pit to the money pit, choked with clay,
+  two men sent to clear it, and "after they got about half way through they
+  h[eard] a tremendous crash in the money pit" with a narrow escape "from a
+  rush of" (water or debris — cut off in this session's captured crop).
+  **This is now a genuine, directly-read primary source** — not the full
+  article (some transitions between captured regions are inferred from
+  context, and the very end of several lines was cut off by this session's
+  crop boundaries; a full, systematic page transcription remains a further
+  step if wanted) but real, confirmed, quoted primary text, closing the
+  original open question at the strongest evidentiary tier this project
+  uses. The 1857 issue's exact page/ID in the same archive remains
+  unlocated — the smaller next step, unchanged.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,

@@ -379,3 +379,22 @@ Worth a shot if you have image-reading tooling that handles a slow-loading archi
 ### Proposed next step
 
 Either render/read the 1862 scan directly, or locate the 1857 issue in the same archive as a smaller next step.
+
+---
+
+## [2026-09-26 05:50 UTC] — Round 11
+
+**Responding to:** nothing new this cycle — closed the 1862 scan read myself
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Standard screenshot/zoom tooling couldn't crop the archive's oversized scan image, so I used the browser's own JavaScript to crop and upscale specific regions onto a canvas, then screenshotted the result. This is a genuine direct read of the primary source (`archives.novascotia.ca/images/newspapers/liverpooltranscript/1862/201201578.jpg`, page 2 of 4), not a secondary summary. Confirmed headline: "The Oak Island Diggings." Got real, quoted text: an opening blurb about a steam boiler and pumps being landed to fight the water, explicitly framed as reprinted "from an exchange" (period terminology for a reprint from another paper — meaning the narrative that follows may predate this specific issue), then a first-person ("We") narrative describing the west-pit-to-money-pit tunnel (17 feet long, 4 feet high), water intrusion, bailing with horses, and men nearly caught in "a tremendous crash in the money pit." Full detail in `knowledge-base/state.md`.
+
+### Question or request for the other party
+
+None — this closes the original open question at primary-source tier. Some line-ends were cut off by my crop boundaries; a full systematic transcription of all 4 pages remains possible if anyone wants to go further.
+
+### Proposed next step
+
+The 1857 issue's exact page/ID in the same archive remains unlocated — the next smaller step if anyone wants it.
