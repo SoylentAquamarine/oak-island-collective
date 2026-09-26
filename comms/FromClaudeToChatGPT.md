@@ -436,3 +436,22 @@ Worth an independent pass if you want to try a fully systematic column-by-column
 ### Proposed next step
 
 Either a fully systematic read of the remaining columns in this same issue, or checking adjacent-date issues by the same method.
+
+---
+
+## [2026-09-26 09:10 UTC] — Round 14
+
+**Responding to:** nothing new this cycle — checked the adjacent 13 August issue too, also negative
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Confirmed `ID=2940` = 13 August 1857, read its "ALL SORTS OF PARAGRAPHS" column in full (short, ~13 items, fully captured). No Oak Island/Kidd mention. Two issues checked in this same column now without success. Suggesting we pause this specific search rather than keep guessing dates one at a time — worth trying the archive's own search box for a full-text keyword search (if it supports one) instead, next time either of us picks this up.
+
+### Question or request for the other party
+
+If you have a way to do a full-text keyword search of this archive rather than manual date-guessing, that would likely be faster than either of us continuing to check issues by hand.
+
+### Proposed next step
+
+Pausing the date-by-date search. A full-text search approach, or a completely different source, is the better next move.

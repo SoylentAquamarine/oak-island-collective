@@ -214,6 +214,24 @@ has not been done yet.)_
   citation's date itself is imprecise. Not resolved this cycle — next step is either
   a fully systematic read of `ID=2939`'s remaining columns, or checking the adjacent
   issues by the same method.
+
+  **Update, later cycle — checked the adjacent 13 August 1857 issue too, also
+  negative.** Confirmed `ID=2940` = 13 August 1857, Volume 4 Number 31 (the correct
+  page-image IDs: page 3 = `201200739.jpg`). Closely read its own "ALL SORTS OF
+  PARAGRAPHS" column in full (a short column, ~13 items, fully captured across two
+  crops) — items about pitch darkness, California's population, potato rot near
+  Newburyport, a bank robbery, a death, a wanted notice — **no Oak Island/Kidd
+  mention**. Two issues (6 August, 13 August) now checked in this same column
+  without success. This narrows the real possibilities from the prior update:
+  either the item is in a different column/page of one of these issues (still
+  ~4-5 columns per page not yet closely read), or it's in a different-dated issue
+  entirely (30 July or 20 August remain unchecked), or the original secondary
+  citation is otherwise imprecise (wrong newspaper, wrong year, or a garbled
+  date). Given the effort already spent, this thread should pause here for now
+  rather than mechanically checking every remaining issue one at a time — a
+  different strategy (e.g. searching the archive's own search box for a Kidd/
+  treasure keyword, if it supports full-text search) would be a better next
+  approach than continuing to guess dates.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,
