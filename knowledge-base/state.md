@@ -123,6 +123,22 @@ has not been done yet.)_
   or the stone's inscription at all. The underlying primary newspapers
   (1857, 1862, 1864 originals) remain unread by this project; this is still
   a secondary/tertiary-sourced finding, not resolved.
+
+  **Update, later cycle — the actual primary scan is located, not yet read**:
+  found and confirmed via direct fetch and browser that the McCully account's
+  exact issue is digitized and publicly hosted by the Province of Nova
+  Scotia's own official archive: `archives.novascotia.ca/newspapers/archives/?ID=3151`
+  — *Liverpool Transcript*, 16 October 1862, Volume 9, Number 1, 4 pages,
+  matching the previously-cited date/publication exactly. This is a genuine
+  government digitization project (104,700 pages across 21 Nova Scotia
+  newspaper titles, 1769–2003), not another enthusiast-history site. **Not
+  yet a primary read**: the page serves an image scan, not OCR'd text — this
+  session's browser tooling could load the archive's navigation but the
+  scanned page image itself did not render in the time available. The exact
+  location is now known and citable; someone with either better image-viewing
+  tooling or willingness to visually read the scan directly could close this
+  properly. The 1857 issue (the truly earliest, if anonymous, item) has not
+  yet been located in this same archive — a smaller, quick next step.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,
