@@ -111,7 +111,18 @@ has not been done yet.)_
   reliable, given the earliest print source (1857) predates any named
   details by five years and the full narrative (1862+) is ~67 years
   after the claimed event? Needs a follow-up direct-source session — see
-  `logs/2026-09-23-sq1-provenance-audit.md` §1 and "Next steps."
+  `logs/2026-09-23-sq1-provenance-audit.md` §1 and "Next steps." **Update,
+  later cycle**: attempted to fetch the original two cited sources directly.
+  `oakislandcompendium.ca`'s specific 1861/1857-item page has gone dead —
+  the whole domain now redirects to an unrelated Nova Scotia tourism resort
+  site, a real source-stability disclosure worth recording. Directly fetched
+  `oakislandmystery.com/the-mystery/early-accounts` fresh: it corroborates
+  the existing finding without adding primary-source detail — its own
+  "earliest accounts" list starts at McCully's 1862 *Liverpool Transcript*
+  piece and doesn't mention the 1857 item, the 1795 date, McGinnis by name,
+  or the stone's inscription at all. The underlying primary newspapers
+  (1857, 1862, 1864 originals) remain unread by this project; this is still
+  a secondary/tertiary-sourced finding, not resolved.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,
