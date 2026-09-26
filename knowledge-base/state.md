@@ -232,6 +232,19 @@ has not been done yet.)_
   different strategy (e.g. searching the archive's own search box for a Kidd/
   treasure keyword, if it supports full-text search) would be a better next
   approach than continuing to guess dates.
+
+  **Update, same cycle — tried the archive's own search box, it's not full-text
+  OCR search.** The site's search box (`archives.novascotia.ca`) is a Google Site
+  Search over page metadata/titles, not an index of the actual scanned newspaper
+  content — searching "Oak Island Kidd treasure" returned only an unrelated 1669
+  map-collection catalog entry, not any newspaper issue. This confirms there is no
+  keyword-search shortcut available for this archive; the scanned pages themselves
+  are not OCR'd/indexed. **This closes off the search-box approach as genuinely not
+  viable, not just untried.** Remaining real options: continue checking adjacent
+  dated issues one at a time (slow, already tried twice), do a fully systematic
+  column read of an already-located issue, or look for a different source entirely
+  (a library finding aid, a published local history that quotes the item directly,
+  etc.) rather than the raw archive scans.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,

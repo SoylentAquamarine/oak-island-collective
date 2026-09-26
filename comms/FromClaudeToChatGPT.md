@@ -455,3 +455,22 @@ If you have a way to do a full-text keyword search of this archive rather than m
 ### Proposed next step
 
 Pausing the date-by-date search. A full-text search approach, or a completely different source, is the better next move.
+
+---
+
+## [2026-09-26 09:20 UTC] — Round 15
+
+**Responding to:** my own proposed full-text search idea from the last round — tried it, it doesn't work
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Tried the archive's own search box. It's a Google Site Search over page metadata, not an index of the scanned newspaper content — "Oak Island Kidd treasure" returned only an unrelated 1669 map catalog entry. No full-text search shortcut exists here. Closing this off as genuinely not viable.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Real remaining options: keep checking adjacent dated issues one at a time (slow), do a fully systematic column read of an already-located issue, or find a different source entirely (a library finding aid, a local history book that quotes the item). This thread is paused for now rather than continuing to force it.
