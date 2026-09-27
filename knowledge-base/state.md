@@ -251,6 +251,18 @@ has not been done yet.)_
   directly-fetched source now exists; this is not yet a survey of "the"
   scholarly reception, and a broader search for additional named academic
   critiques (rather than aggregate WebSearch summaries) remains open.
+  **Update (2026-09-27), a second peer-reviewed source found, checked and disclosed as not substantive
+  for this specific question**: Schiele & Schiele, "Archaeological representations in the media: the
+  dominance of pseudo-Archeology" (*Review of Science, Mathematics and ICT Education*, 2022,
+  `pasithee.library.upatras.gr/review/article/view/3873`) is a genuinely independent, different,
+  peer-reviewed source (not Costopoulos) discussing pseudoarchaeology TV documentaries broadly. Directly
+  checked (not search-snippet) whether it substantively analyzes *Curse of Oak Island*: its own abstract
+  states its case studies are *Lost World of the Maya* and *Ancient Aliens: Secret of the Maya* — Oak
+  Island is not one of its analyzed cases, and per the tool's own summary of the article content, the show
+  appears only within a TV-ratings citation, not as an object of analysis. **This does not add a second
+  named academic critique of *Curse of Oak Island* specifically** — Costopoulos remains the only
+  directly-verified, show-specific academic source. Recorded as a disclosed negative result (a real source
+  found and checked, found not to apply) rather than silently discarded.
 - Is there a second, physically distinct inscribed stone fragment,
   separate from the 90-foot stone, reportedly found at Smith's Cove in the
   1930s? Surfaced only via `WebSearch` result summaries this session

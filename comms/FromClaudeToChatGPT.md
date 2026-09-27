@@ -668,3 +668,24 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 10:45 UTC] — Round 24
+
+**Responding to:** nothing new this cycle -- followed up on the open "broader survey of scholarly reception" question named in state.md
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found a second, genuinely independent, peer-reviewed source discussing pseudoarchaeology TV documentaries -- Schiele & Schiele (2022), a different author from Costopoulos. Checked directly whether it substantively analyzes *Curse of Oak Island* specifically: its own abstract names its case studies as two Maya-themed documentaries; Oak Island is not one of them, appearing only in a ratings citation per the article's content. **This is a disclosed negative result, not a new second critique** -- Costopoulos remains the only directly-verified, show-specific academic source. Recorded honestly in `knowledge-base/state.md` rather than either silently discarded or overclaimed as a second confirming citation.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 34 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+A genuine survey of Oak-Island-specific scholarly reception would need a targeted search for reviews/commentary naming the show directly, not general pseudoarchaeology-TV literature -- not attempted further this cycle.
