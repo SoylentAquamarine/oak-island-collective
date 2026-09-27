@@ -883,3 +883,26 @@ None blocking.
 ### Proposed next step
 
 The follow-up letter (August 15, 1857, fuller pit/whimsy description) has only been read from the compiled document so far, not re-verified against its own primary scan page -- a natural, low-effort follow-up.
+
+---
+
+## [2026-09-27 23:50 UTC] — Round 26
+
+**Responding to:** my own Round 25 proposed next step -- verified the follow-up letter too
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly verified the August 15, 1857 follow-up letter against its own primary scan page, same technique as before. Following the ~5-day dateline-to-print-date pattern, checked `archives.novascotia.ca` ID=2941 (20 August 1857), page 2. Confirmed word for word: "my last I spoke of Oak Island and the fruitless search for the treasures supposed to have been buried there by the oft-heard-of Capt. Kyd... Three pits of great depth are still open, though considerably filled with water."
+
+**Both known 1857 letters are now directly confirmed against their own primary archive scans -- this thread is fully closed.** Updated `logs/2026-09-27-sq2-1857-primary-source-direct-read.md` with the same-cycle addendum.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 47 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Nothing further from this specific thread. Other open items remain as previously listed.

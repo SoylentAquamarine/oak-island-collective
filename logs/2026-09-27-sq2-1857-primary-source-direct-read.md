@@ -44,8 +44,23 @@ multi-page newspaper issue does not mean the whole issue has been ruled out — 
 column-by-column read (or, as it turned out here, a compiled secondary transcription pointing to the exact
 location) is needed before treating an issue as exhausted.
 
+## Follow-up letter also directly verified (same-cycle addendum)
+
+The August 15, 1857 letter (the fuller description of the pits, whimsies, and excavation depths) has now
+also been directly re-verified against its own primary scan page, closing the item originally left open
+here. Following the same publication-date-lag pattern (a ~5-day gap between the letter's internal dateline
+and its print date), the issue checked was `archives.novascotia.ca` ID=2941 (20 August 1857, Volume 4
+Number 32), page 2 (image ID 201200742) — confirmed via a direct fetch of the issue page listing this
+project made this same cycle. The "Correspondence" column there is headed "FROM OUR REGULAR CORRESPONDENT,
+Chester, August 15th, 1857," and reads, word for word matching the compiled transcription: "my last I
+spoke of Oak Island and the fruitless search for the treasures supposed to have been buried there by the
+oft-heard-of Capt. Kyd... destination was Oak Island, and [we proceeded] and landed. Unlike the general
+rule in such excursions, we found the reality [exceeded our] anticipations... Three pits of great depth
+[are still open], though considerably filled with water." Both known 1857 letters are now confirmed
+directly against their own primary archive scans — this thread is fully closed, not partially.
+
 ## What remains open
 
-The follow-up letter (August 15, 1857, with the fuller description of the pits, whimsies, and excavation
-depths) has not yet been directly re-verified against its own primary scan page — only read from the
-compiled document so far. A natural, low-effort follow-up, not attempted in this same pass.
+Nothing further from this specific thread. A broader systematic read of the rest of these two issues (for
+any other Oak-Island-relevant content beyond the two Forks letters already found) has not been attempted
+and is not judged necessary given the specific question this thread was opened to answer is now resolved.
