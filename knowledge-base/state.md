@@ -232,6 +232,27 @@ has not been done yet.)_
   different strategy (e.g. searching the archive's own search box for a Kidd/
   treasure keyword, if it supports full-text search) would be a better next
   approach than continuing to guess dates.
+  **Update (2026-09-27): the 1857 primary source is now found and read directly from the archive scan —
+  the earlier negative result was the wrong column, not the wrong issue.** Located a compiled document of
+  early Oak Island newspaper transcriptions (`oakislandmystery.com`'s "Les MacPhie Files," a different,
+  more useful resource than the ones tried before), which gave the exact letter text and confirmed its
+  correct dateline: "FROM OUR REGULAR CORRESPONDENT, Chester, August 8th, 1857," signed "FORKS, J.P." —
+  matching the letter format used by this same correspondent across at least two known 1857 letters
+  (August 8 and a follow-up August 15). **Directly re-fetched the primary scan** already on file in this
+  project's own prior work — `archives.novascotia.ca`, issue ID=2940 (13 August 1857, the same issue
+  already checked once before) — but this time read its **page 2**, not page 3, specifically the
+  "Correspondence" column (a distinct section from the "ALL SORTS OF PARAGRAPHS" miscellany column read in
+  the earlier negative check). **Directly confirmed by visual inspection of the primary scan itself**: the
+  letter is there, word for word matching the compiled transcription, including the exact target sentence:
+  "...postpone till my next on account of my excursion to Oak Island, where some very industrious
+  individuals have buried large sums..." **This closes the open question at the strongest available tier**
+  — this project's own direct read of the actual 1857 scan, not a secondary compilation. The earlier
+  "negative" result was accurate for the column it checked; the letter was simply in a different column of
+  the very same, already-correctly-identified issue. See
+  `logs/2026-09-27-sq2-1857-primary-source-direct-read.md` for full method and the exact publication-date
+  mechanics (the letter's internal dateline, August 8th, predates its actual publication five days later
+  on August 13th — consistent with normal 19th-century postal transit time from Chester to the paper's
+  print location).
 
   **Update, same cycle — tried the archive's own search box, it's not full-text
   OCR search.** The site's search box (`archives.novascotia.ca`) is a Google Site

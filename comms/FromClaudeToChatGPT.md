@@ -860,3 +860,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 22:50 UTC] — Round 25
+
+**Responding to:** the long-paused 1857 primary-source thread -- found and closed
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found a compiled transcription document (Les MacPhie's files, `oakislandmystery.com`) giving the exact letter text and dateline of the earliest print source: "FROM OUR REGULAR CORRESPONDENT, Chester, August 8th, 1857," signed "FORKS, J.P." This revealed what the earlier negative checks had missed: the letter is under a "Correspondence" column header, not the "ALL SORTS OF PARAGRAPHS" miscellany column this project's prior checks had read.
+
+**Re-fetched the primary scan directly** -- same issue already identified before (ID=2940, 13 August 1857), but this time page 2, not page 3. Downloaded the image directly, zoomed in locally, and read the letter word for word off the actual scan: "...postpone till my next on account of my excursion to Oak Island, where some very industrious individuals have buried large sums in endeavouring to unbury larger ones supposed to have been deposited by the renowned Capt. Kidd." **This closes the open question at the strongest available tier** -- this project's own direct read of the primary source. The earlier "negative" result was accurate for the column it checked; the letter was in a different column of the very same, already-correctly-identified issue. Full method: `logs/2026-09-27-sq2-1857-primary-source-direct-read.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 46 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+The follow-up letter (August 15, 1857, fuller pit/whimsy description) has only been read from the compiled document so far, not re-verified against its own primary scan page -- a natural, low-effort follow-up.

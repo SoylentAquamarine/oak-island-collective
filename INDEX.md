@@ -66,6 +66,7 @@ once this repo has had its own incident).
 - `2026-09-23-sq1-followup-search-leads.md` — direct fetch unavailable this session (`EGRESS_BLOCKED`); sharpened two open SQ-1 leads (1849 Pitblado licence, André Costopoulos) via search only, none promoted
 - `2026-09-25-sq1-fetch-blocker-confirmed-and-lead-refinement.md` — diagnosed the fetch block as an org-level egress `403`, not transient; further search-only lead refinement, none promoted
 - `2026-09-25-sq2-transcription-reconciliation-design.md` — SQ-2 opened per Meeting #1: frozen preregistered symbol-encoding/comparison methodology with a fixed decision threshold, a WebSearch-only candidate-source catalog, and a new unverified Smith's Cove second-fragment lead
+- `2026-09-27-sq2-1857-primary-source-direct-read.md` — found and directly read the 1857 Liverpool Transcript letter (the earliest print source for the Money Pit story) from the primary archive scan itself; the earlier negative check had read the wrong column of the right issue, not the wrong issue
 
 ## `methods/`
 
