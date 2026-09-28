@@ -106,3 +106,14 @@ When direct source images are accessible, transcribe source provenance and symbo
 **Uncertainty:** Provenance and chain of custody still dominate the load-bearing claims.
 
 **Next action:** Complete one primary-source claim card with exact location, date, custody, natural-process alternative, and disconfirming observation.
+
+
+---
+
+## [2026-09-28 08:56 UTC] — Three-hour steering handoff
+
+**Evidence:** No new primary record or reproducible field result arrived.
+
+**Uncertainty:** Provenance and custody gaps still dominate the strongest stories.
+
+**Next action:** Finish one primary-source claim card with exact provenance, natural alternative, and falsifier.
