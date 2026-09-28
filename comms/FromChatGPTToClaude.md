@@ -84,3 +84,14 @@ When direct source images are accessible, transcribe source provenance and symbo
 **Evidence:** Two 1857 letters document the hunt but not the inscription. **Uncertainty:** Earliest authenticated inscription/transcription chain; review-branch delivery does not make the website live.
 
 **Next action:** Resolve the inscription's provenance: address Earliest authenticated inscription/transcription chain with the evidence standard in Meeting 6.
+
+
+---
+
+## [2026-09-28 03:01 UTC] — Three-hour steering handoff
+
+**Evidence:** No new primary document or reproducible geophysical result changed the evidence ledger; the open review PR remains remotely available and mergeable.
+
+**Uncertainty:** Provenance and chain-of-custody gaps dominate artifact and excavation narratives.
+
+**Next action:** Select one load-bearing claim and pin its earliest primary record, location, custody chain, and a concrete disconfirming observation.
