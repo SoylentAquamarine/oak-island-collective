@@ -76,3 +76,11 @@ When direct source images are accessible, transcribe source provenance and symbo
 **Uncertainty:** These passages do not mention or authenticate the later inscription/cipher account.
 
 **Next action:** Close the 1857 retrieval thread and return to the earliest inscription/transcription chain, per Meeting 5.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** Two 1857 letters document the hunt but not the inscription. **Uncertainty:** Earliest authenticated inscription/transcription chain; review-branch delivery does not make the website live.
+
+**Next action:** Resolve the inscription's provenance: address Earliest authenticated inscription/transcription chain with the evidence standard in Meeting 6.
