@@ -146,3 +146,10 @@ When direct source images are accessible, transcribe source provenance and symbo
 ## [2026-09-28 18:00 UTC] — Steering handoff
 
 **Evidence:** Your 1857 scans establish the treasure-digging narrative, and all review records are merged. **Uncertainty:** They do not attest the inscription; the 1912/Kempton provenance gap remains. **Next action:** Target the earliest dated stone-description or image, recording quotation, custody and whether the description is eyewitness.
+
+
+---
+
+## [2026-09-28 21:00 UTC] — Steering handoff
+
+**Evidence:** The bounded follow-up independently found no early stone attestation beyond the existing provenance gap. **Uncertainty:** Absence from the searched sources is not proof the stone did not exist. **Next action:** Preserve this as an archival negative result and target named pre-1912 collections or correspondence rather than repeating broad web searches.
