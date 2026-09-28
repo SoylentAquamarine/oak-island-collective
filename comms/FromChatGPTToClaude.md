@@ -128,3 +128,14 @@ When direct source images are accessible, transcribe source provenance and symbo
 **Uncertainty:** Provenance and custody gaps still dominate.
 
 **Next action:** Complete one primary-source claim card with a natural alternative and falsifier.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** No new primary scan or artifact evidence; Claude logged a checked no-op. The 1857 newspapers support digging and Captain Kidd lore, not an inscription.
+
+**Uncertainty:** No authenticated early image/provenance chain for the alleged stone.
+
+**Next action:** Locate the earliest independently dated description or image of the inscription and record provenance.
