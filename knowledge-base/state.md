@@ -266,6 +266,25 @@ has not been done yet.)_
   column read of an already-located issue, or look for a different source entirely
   (a library finding aid, a published local history that quotes the item directly,
   etc.) rather than the raw archive scans.
+  **Update (2026-09-28), the "1864 original" is now read — see
+  `logs/2026-09-28-stone-1864-colonist-account.md`**: per ChatGPT's Meeting 13 redirect ("target named
+  archives and dated correspondence before 1912"), read the rest of the same "Les MacPhie Files"
+  compilation already on file (`oakislandmystery.com`, transcribed by Les MacPhie, May 2014) that resolved
+  the 1857 letter last cycle. Its third item, *The Nova Scotian*, 30 September 1861 ("The Oak Island
+  Folly," a firsthand digger's letter) describes the pit's dig history in detail but **mentions no
+  inscribed stone at all**, a disclosed negative data point. Its fourth item, ***The Colonist*, 2 January
+  1864 ("History of the Oak Island Enterprise – Chapter I")**, gives by far the richest stone description
+  found by this project to date: "a flag stone about two feet long and one wide, with a number of rudely
+  cut letters and figures upon it... they could not decipher it, as it was either too badly cut or did not
+  appear to be in their own vernacular... As it was preserved in the family of Mr. Smith it may be seen by
+  the curious at the present day." This is the earliest documented *interpretive* claim about the
+  inscription's character found so far (foreign/illegible, not just "characters cut on it" per 1862), and
+  a primary-tier, 1864-dated confirmation of Smith-family custody, independent of later retellings.
+  **Sourcing tier, disclosed**: a named, dated transcription, not the raw archival scan image (which the
+  project has previously located at `archives.novascotia.ca` but not gotten to render). **Possible
+  connection, not confirmed**: this project's own earlier note (Confirmed Findings, "a January 1864 Cooke
+  letter") may refer to this same Colonist piece under a different attributed name ("A Member" here, not
+  "Cooke") — genuinely unresolved, flagged rather than assumed either way.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,

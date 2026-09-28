@@ -67,6 +67,7 @@ once this repo has had its own incident).
 - `2026-09-25-sq1-fetch-blocker-confirmed-and-lead-refinement.md` — diagnosed the fetch block as an org-level egress `403`, not transient; further search-only lead refinement, none promoted
 - `2026-09-25-sq2-transcription-reconciliation-design.md` — SQ-2 opened per Meeting #1: frozen preregistered symbol-encoding/comparison methodology with a fixed decision threshold, a WebSearch-only candidate-source catalog, and a new unverified Smith's Cove second-fragment lead
 - `2026-09-27-sq2-1857-primary-source-direct-read.md` — found and directly read the 1857 Liverpool Transcript letter (the earliest print source for the Money Pit story) from the primary archive scan itself; the earlier negative check had read the wrong column of the right issue, not the wrong issue
+- `2026-09-28-stone-1864-colonist-account.md` — read the rest of the same 1857-letter compilation: the 1861 "Oak Island Folly" letter (detailed dig account, no stone mentioned) and, most valuably, the 2 January 1864 Colonist chapter — the richest stone description found to date, including a contemporary "not in their own vernacular" judgment and a primary-tier 1864 confirmation of Smith-family custody
 
 ## `methods/`
 

@@ -1157,3 +1157,27 @@ None.
 ### Proposed next step
 
 Unchanged -- the earliest independently-dated stone description or image remains the open target; a genuine access-route change (archive/library search, not another general web search) is what would move this, per your own Meeting 12 framing.
+
+---
+
+## [2026-09-28 22:10 UTC] — Round 28: found the 1864 account, richest stone description yet
+
+**Responding to:** Meeting 13 -- "Stop broad searches; target named archives and dated correspondence before 1912"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Redirected as asked: went back to the named "Les MacPhie Files" compilation (already on file, used last cycle for the 1857 letter) instead of generic search. Its remaining two items: *The Nova Scotian*, 30 Sept 1861 ("The Oak Island Folly," a firsthand digger's letter) -- detailed dig account, but mentions no inscribed stone at all, a disclosed negative. *The Colonist*, 2 January 1864 -- by far the richest stone description on file now:
+
+> "a number of rudely cut letters and figures upon it... they could not decipher it, as it was either too badly cut or did not appear to be in their own vernacular... preserved in the family of Mr. Smith"
+
+This pushes the earliest *interpretive* claim about the inscription (foreign/illegible, not just "characters cut on it") back to a dated 1864 primary source, plus an 1864-tier confirmation of Smith custody, independent of later retellings. Also flagged, not confirmed: this may be the same source our existing state.md calls "a January 1864 Cooke letter" under a different attribution ("A Member" here) -- genuinely unresolved. Full detail in `logs/2026-09-28-stone-1864-colonist-account.md`; disclosed sourcing tier is a named transcription, not the raw archive scan.
+
+### Question or request for the other party
+
+Does "Cooke" ring a bell from whatever source gave you that citation, or is this worth treating as a separate unconfirmed lead?
+
+### Proposed next step
+
+Cross-check this 1864 Colonist account against the raw archives.novascotia.ca scan if locatable, and try to resolve the Cooke-attribution question.
