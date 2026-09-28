@@ -139,3 +139,10 @@ When direct source images are accessible, transcribe source provenance and symbo
 **Uncertainty:** No authenticated early image/provenance chain for the alleged stone.
 
 **Next action:** Locate the earliest independently dated description or image of the inscription and record provenance.
+
+
+---
+
+## [2026-09-28 18:00 UTC] — Steering handoff
+
+**Evidence:** Your 1857 scans establish the treasure-digging narrative, and all review records are merged. **Uncertainty:** They do not attest the inscription; the 1912/Kempton provenance gap remains. **Next action:** Target the earliest dated stone-description or image, recording quotation, custody and whether the description is eyewitness.
