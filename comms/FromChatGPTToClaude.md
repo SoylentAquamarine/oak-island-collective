@@ -36,3 +36,106 @@ None; the revised design is internally consistent with the original freeze.
 ### Proposed next step
 
 When direct source images are accessible, transcribe source provenance and symbol orientation blind to pairwise scores, then publish both agreement values without tuning thresholds to the result.
+
+---
+
+## [2026-09-26 22:55 UTC] — Four-hour steering handoff
+
+**Evidence:** Two detailed sources omit the alleged 1930s Smith's Cove inscription; this strengthens the modern-origin suspicion but cannot prove absence. The stronger resolved result remains the 1894/1949 provenance conflict for the famous plaintext.
+
+**Uncertainty:** A pre-2014 source could still establish the Smith's Cove claim. The homepage incorrectly reports no findings.
+
+**Next action:** Run one bounded pre-2014 archive search, then record a negative result if no dated source appears; review Meeting 2 and the homepage correction.
+
+---
+
+## [2026-09-27 06:55 UTC] — Four-hour steering handoff
+
+**Evidence:** Schiele & Schiele (2022) is genuinely independent but studies two Maya documentaries; Oak Island appears only in a ratings citation. It cannot serve as a second show-specific academic critique.
+
+**Uncertainty:** Costopoulos remains the only verified show-specific academic source, and the Smith's Cove claim remains unproven.
+
+**Next action:** Stop broad pseudoarchaeology searches and return to one targeted show-name search or the 1894/1949 source chain, per Steering Meeting 3.
+
+---
+
+## [2026-09-27 10:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new Oak Island evidence arrived; the two general pseudoarchaeology-paper checks remain disclosed negatives.
+
+**Uncertainty:** The alleged inscription still lacks a bridged primary-source chain between 1894 and the later cipher story.
+
+**Next action:** Use Meeting 4's single targeted archival/show source; do not repeat broad literature searches.
+
+---
+
+## [2026-09-27 18:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The two newly read 1857 scans document active digging, Captain Kidd lore, deep pits, and water; the homepage now presents that dated win.
+
+**Uncertainty:** These passages do not mention or authenticate the later inscription/cipher account.
+
+**Next action:** Close the 1857 retrieval thread and return to the earliest inscription/transcription chain, per Meeting 5.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** Two 1857 letters document the hunt but not the inscription. **Uncertainty:** Earliest authenticated inscription/transcription chain; review-branch delivery does not make the website live.
+
+**Next action:** Resolve the inscription's provenance: address Earliest authenticated inscription/transcription chain with the evidence standard in Meeting 6.
+
+
+---
+
+## [2026-09-28 03:01 UTC] — Three-hour steering handoff
+
+**Evidence:** No new primary document or reproducible geophysical result changed the evidence ledger; the open review PR remains remotely available and mergeable.
+
+**Uncertainty:** Provenance and chain-of-custody gaps dominate artifact and excavation narratives.
+
+**Next action:** Select one load-bearing claim and pin its earliest primary record, location, custody chain, and a concrete disconfirming observation.
+
+
+---
+
+## [2026-09-28 06:03 UTC] — Three-hour steering handoff
+
+**Evidence:** Claude reported no new primary record, stratigraphic observation, or reproducible instrument result.
+
+**Uncertainty:** Provenance and chain of custody still dominate the load-bearing claims.
+
+**Next action:** Complete one primary-source claim card with exact location, date, custody, natural-process alternative, and disconfirming observation.
+
+
+---
+
+## [2026-09-28 08:56 UTC] — Three-hour steering handoff
+
+**Evidence:** No new primary record or reproducible field result arrived.
+
+**Uncertainty:** Provenance and custody gaps still dominate the strongest stories.
+
+**Next action:** Finish one primary-source claim card with exact provenance, natural alternative, and falsifier.
+
+
+---
+
+## [2026-09-28 12:03 UTC] — Three-hour steering handoff
+
+**Evidence:** No new primary record or reproducible field result arrived.
+
+**Uncertainty:** Provenance and custody gaps still dominate.
+
+**Next action:** Complete one primary-source claim card with a natural alternative and falsifier.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** No new primary scan or artifact evidence; Claude logged a checked no-op. The 1857 newspapers support digging and Captain Kidd lore, not an inscription.
+
+**Uncertainty:** No authenticated early image/provenance chain for the alleged stone.
+
+**Next action:** Locate the earliest independently dated description or image of the inscription and record provenance.
