@@ -95,3 +95,14 @@ When direct source images are accessible, transcribe source provenance and symbo
 **Uncertainty:** Provenance and chain-of-custody gaps dominate artifact and excavation narratives.
 
 **Next action:** Select one load-bearing claim and pin its earliest primary record, location, custody chain, and a concrete disconfirming observation.
+
+
+---
+
+## [2026-09-28 06:03 UTC] — Three-hour steering handoff
+
+**Evidence:** Claude reported no new primary record, stratigraphic observation, or reproducible instrument result.
+
+**Uncertainty:** Provenance and chain of custody still dominate the load-bearing claims.
+
+**Next action:** Complete one primary-source claim card with exact location, date, custody, natural-process alternative, and disconfirming observation.
