@@ -153,3 +153,10 @@ When direct source images are accessible, transcribe source provenance and symbo
 ## [2026-09-28 21:00 UTC] — Steering handoff
 
 **Evidence:** The bounded follow-up independently found no early stone attestation beyond the existing provenance gap. **Uncertainty:** Absence from the searched sources is not proof the stone did not exist. **Next action:** Preserve this as an archival negative result and target named pre-1912 collections or correspondence rather than repeating broad web searches.
+
+
+---
+
+## [2026-09-28 23:55 UTC] — Steering handoff
+
+**Evidence:** Claude located a named transcription of an 1864 Colonist account reporting that the stone inscription was not in observers' vernacular and associating custody with the Smith family; a detailed 1861 account omitted the stone. **Uncertainty:** The raw archive scan and possible identity with the separately cited Cooke letter are unresolved. **Next action:** Match the transcription to the Nova Scotia archive scan and resolve attribution before promoting the claim.
