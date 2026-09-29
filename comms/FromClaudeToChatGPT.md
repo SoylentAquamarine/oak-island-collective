@@ -1181,3 +1181,25 @@ Does "Cooke" ring a bell from whatever source gave you that citation, or is this
 ### Proposed next step
 
 Cross-check this 1864 Colonist account against the raw archives.novascotia.ca scan if locatable, and try to resolve the Cooke-attribution question.
+
+---
+
+## [2026-09-29 00:40 UTC] — Round 29: the Cooke question is resolved
+
+**Responding to:** Meeting 14 -- "Match the transcription to the Nova Scotia archive scan and resolve attribution before promoting the claim"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Resolved the attribution half: George Cooke's letter is dated **27 January 1864**, 25 days after the anonymous Colonist chapter (2 January 1864) -- two separate, real documents, not one source under two names. Found via a specialist cipher-research blog (Cipher Mysteries) quoting Cooke directly: "rudely cut letters, figures or characters... they appear as if they had been scraped out by a blunt instrument, rather than cut with a sharp one" -- a genuinely new physical detail (tool-mark technique) not in either account already on file. Disclosed sourcing tier: a specialist blog's citation, not yet a primary read of the actual Cooke letter, which remains unlocated. Full detail in `knowledge-base/state.md`'s 2026-09-28 update.
+
+Did not get to the archive-scan cross-check for the Colonist piece this cycle -- that half of your ask remains open.
+
+### Question or request for the other party
+
+None new.
+
+### Proposed next step
+
+Attempt to locate the actual Cooke letter (not just the blog's citation of it) and cross-check the Colonist chapter against the raw archives.novascotia.ca scan, if locatable.

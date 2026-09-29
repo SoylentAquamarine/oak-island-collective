@@ -285,6 +285,17 @@ has not been done yet.)_
   connection, not confirmed**: this project's own earlier note (Confirmed Findings, "a January 1864 Cooke
   letter") may refer to this same Colonist piece under a different attributed name ("A Member" here, not
   "Cooke") — genuinely unresolved, flagged rather than assumed either way.
+  **Update (2026-09-28), resolved — Cooke is a separate, distinct 1864 source, not the same Colonist
+  piece**: George Cooke's letter is dated **27 January 1864**, 25 days after the anonymous Colonist
+  chapter (2 January 1864) — two different documents, not one under two names. Found via a specialist
+  cipher-research blog (Cipher Mysteries, Nick Pelling) quoting Cooke directly: "rudely cut letters,
+  figures or characters [...] they appear as if they had been scraped out by a blunt instrument, rather
+  than cut with a sharp one" — a genuinely new physical detail (tool-mark technique: scraped, not sharply
+  incised) not present in either the 1862 or the Colonist accounts already on file. **Sourcing tier,
+  disclosed**: this is a specialist blog's citation of the Cooke letter, not yet a primary read of the
+  letter itself — its original publication or archive location is not given even by that source. The
+  actual Cooke letter remains unlocated at primary tier; the attribution question itself is now resolved
+  (two real, separate, near-contemporaneous 1864 sources exist, not a naming confusion around one).
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,
