@@ -313,6 +313,19 @@ has not been done yet.)_
   of the Nova Scotia Historical Society," Volume VII, 1889–91) — no match, wrong volume/decade for an 1864
   letter; the Society's own manuscript correspondence archives (not a published Collections volume) remain
   the more likely home, unattempted this cycle.
+  **Correction (2026-09-29), the institutional attribution above is imprecise**: today's Royal Nova Scotia
+  Historical Society was founded in **1878** — 14 years *after* this 1864 correspondence. Hunter-Duvar's
+  "Historical Society of Nova Scotia" is a real, independently-attested body (multiple sources describe him
+  as its secretary in 1864), but it is **not the same continuous institution** as the modern Royal NS
+  Historical Society, and my prior update's phrasing risked implying that continuity without saying so.
+  Whatever this 1864-era body actually was (an earlier, separately-founded organization using a similar
+  name, not yet identified precisely) remains an open detail — correcting the overclaim, not yet resolving
+  the body's exact identity. **New detail found**: George Cooke himself was **secretary of the Oak Island
+  Association** (the treasure-hunting company itself, a different role from Hunter-Duvar's historical-
+  society one) — Hunter-Duvar's initial letter was dated 2 January 1864, and Cooke's reply was delayed to
+  27 January specifically because Cooke "was away," per a source directly quoting this detail (a UK-hosted
+  Oak Island forum thread, itself only accessed via search-snippet tier this cycle — a direct fetch attempt
+  hit an expired TLS certificate, a disclosed tooling failure, not a content block).
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,

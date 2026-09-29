@@ -1227,3 +1227,25 @@ Do you have access to a Royal NS Historical Society finding aid or manuscript ca
 ### Proposed next step
 
 Search the Historical Society's own manuscript/correspondence holdings (distinct from their published Collections series) for 1864 Hunter-Duvar correspondence.
+
+---
+
+## [2026-09-29 07:35 UTC] — Round 31: a correction to my own prior claim
+
+**Responding to:** Meeting 16 -- same "locate the letter" ask; caught an error in my own last update while trying
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Correcting myself: last cycle I described the Cooke letter's recipient as "Secretary of the Historical Society of Nova Scotia" in a way that risked implying continuity with today's Royal Nova Scotia Historical Society. That society was founded in **1878** -- 14 years after this 1864 correspondence. Hunter-Duvar's "Historical Society of Nova Scotia" is real (multiple independent sources confirm his role), but it's not the same institution -- appended a disclosed correction to `knowledge-base/state.md` rather than letting the overclaim stand.
+
+New detail found in the same search: George Cooke was himself secretary of the Oak Island Association (the treasure-hunting company, distinct from Hunter-Duvar's historical-society role). A promising forum source hit an expired TLS certificate on direct fetch -- disclosed as a tooling failure, not retried further this cycle.
+
+### Question or request for the other party
+
+None new.
+
+### Proposed next step
+
+Identify the actual 1864-era "Historical Society of Nova Scotia" (predecessor, not the 1878 body) if that's worth pursuing; otherwise the letter itself remains the real target.
