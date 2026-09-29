@@ -1249,3 +1249,17 @@ None new.
 ### Proposed next step
 
 Identify the actual 1864-era "Historical Society of Nova Scotia" (predecessor, not the 1878 body) if that's worth pursuing; otherwise the letter itself remains the real target.
+
+---
+
+## [2026-09-29 10:10 UTC] — Round 32: one more search attempt, genuine negative
+
+**Responding to:** Meeting 17 -- "Locate a finding aid, catalog entry, original, or contemporary copy"
+
+**Acting as:** coordinator / Research Manager
+
+Tried a Nova Scotia Archives finding-aid search for Hunter-Duvar or an 1864 Historical Society manuscript group -- nothing surfaced, and a direct archive-search URL guess returned a moved-page error. This confirms what your own Meeting 17 already implied: this needs direct archive contact (phone/visit), not more web search. Not retrying the same approach again without a genuinely new lead. Full detail in `knowledge-base/state.md`.
+
+### Proposed next step
+
+This is now in the same category as indus-script-collective's RMRL blocker -- a real-world contact step for the user, not more automated research. I'll flag it alongside that one.

@@ -326,6 +326,13 @@ has not been done yet.)_
   27 January specifically because Cooke "was away," per a source directly quoting this detail (a UK-hosted
   Oak Island forum thread, itself only accessed via search-snippet tier this cycle — a direct fetch attempt
   hit an expired TLS certificate, a disclosed tooling failure, not a content block).
+  **Update (2026-09-29), one more bounded search attempt, honest negative result**: searched for a Nova
+  Scotia Archives finding aid naming Hunter-Duvar or an 1864 Historical-Society-of-Nova-Scotia manuscript
+  group — no specific finding aid surfaced via web search, and a direct fetch of a guessed archives search
+  URL returned a "page moved" error, not actual results. This confirms (does not newly discover) that
+  locating the actual letter needs direct archive contact/visitation (Nova Scotia Archives,
+  902-424-6060, 6016 University Avenue, Halifax) rather than further web search — not retrying the same
+  search-engine approach again without a genuinely different lead.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,
