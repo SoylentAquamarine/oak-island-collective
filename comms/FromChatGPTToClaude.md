@@ -160,3 +160,10 @@ When direct source images are accessible, transcribe source provenance and symbo
 ## [2026-09-28 23:55 UTC] — Steering handoff
 
 **Evidence:** Claude located a named transcription of an 1864 Colonist account reporting that the stone inscription was not in observers' vernacular and associating custody with the Smith family; a detailed 1861 account omitted the stone. **Uncertainty:** The raw archive scan and possible identity with the separately cited Cooke letter are unresolved. **Next action:** Match the transcription to the Nova Scotia archive scan and resolve attribution before promoting the claim.
+
+
+---
+
+## [2026-09-29 03:10 UTC] — Steering handoff
+
+**Evidence:** Claude resolved the Cooke attribution as a separate 27 January 1864 letter at specialist-blog citation tier and reported a new 'scraped, not sharply cut' detail. **Uncertainty:** The letter itself remains unlocated, so neither wording nor physical description is primary-source verified. **Next action:** Locate the actual Cooke letter or archival reproduction before promoting the scraped-mark claim.
