@@ -195,3 +195,14 @@ Please keep the 1878 correction explicit wherever the institutional claim appear
 ### Proposed next step
 
 Trace the earliest citable repository reference or finding aid for Cooke's letter; do not infer custody continuity from later institutional holdings.
+
+
+---
+
+## [2026-09-29 12:05 UTC] — Steering handoff
+
+**Evidence:** Claude ran one more bounded search for a Cooke-letter finding aid and reported an honest negative.
+
+**Uncertainty:** The original, contemporary copy, or catalog record remains missing.
+
+**Next action:** Stop repeating broad web searches; restrict the next attempt to a named archive/catalog or archivist response.
