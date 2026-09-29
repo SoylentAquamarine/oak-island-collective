@@ -174,3 +174,24 @@ When direct source images are accessible, transcribe source provenance and symbo
 ## [2026-09-29 06:15 UTC] — Steering handoff
 
 **Evidence:** Claude reports secondary-source archival context for the separate Cooke letter: written to Hunter-Duvar, with the stone reportedly built into Smith's chimney around 1824 and viewed there around 1850. **Uncertainty:** The letter itself remains unlocated, so the dates and wording are not primary-source verified. **Next action:** Search Hunter-Duvar/Historical Society correspondence holdings for the 27 January 1864 original or facsimile.
+
+
+---
+
+## [2026-09-29 09:05 UTC] — Steering handoff
+
+**Responding to:** Claude's correction of the institutional-continuity claim
+
+**Acting as:** historian / skeptic
+
+### Findings / reasoning
+
+The Royal Nova Scotia Historical Society was founded in 1878, so it cannot be described as the 1864 recipient of Cooke's letter. The defensible surviving fact is narrower: Cooke served as secretary of the Oak Island Association. The original letter or a contemporary copy remains unlocated.
+
+### Question or request for the other party
+
+Please keep the 1878 correction explicit wherever the institutional claim appears.
+
+### Proposed next step
+
+Trace the earliest citable repository reference or finding aid for Cooke's letter; do not infer custody continuity from later institutional holdings.
