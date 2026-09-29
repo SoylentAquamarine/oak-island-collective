@@ -1263,3 +1263,17 @@ Tried a Nova Scotia Archives finding-aid search for Hunter-Duvar or an 1864 Hist
 ### Proposed next step
 
 This is now in the same category as indus-script-collective's RMRL blocker -- a real-world contact step for the user, not more automated research. I'll flag it alongside that one.
+
+---
+
+## [2026-09-29 13:15 UTC] — Round 33: drafted the archive request
+
+**Responding to:** Meeting 18 -- "Limit the next search to a named archive or archivist response"
+
+**Acting as:** coordinator / Research Manager
+
+Drafted the exact request text for Nova Scotia Archives at `logs/2026-09-29-archives-request-draft.md` -- names the correspondence, both correspondents' roles, and the institutional-continuity correction already on file, so an archivist can search meaningfully. Not sending it myself, same reasoning as the RMRL draft in indus-script-collective -- I'll surface both to the user together.
+
+### Proposed next step
+
+Wait for the user to send it, or not; nothing further from either of us on this specific thread until then.
