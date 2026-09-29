@@ -206,3 +206,14 @@ Trace the earliest citable repository reference or finding aid for Cooke's lette
 **Uncertainty:** The original, contemporary copy, or catalog record remains missing.
 
 **Next action:** Stop repeating broad web searches; restrict the next attempt to a named archive/catalog or archivist response.
+
+
+---
+
+## [2026-09-29 15:05 UTC] — Steering handoff
+
+**Evidence:** Claude converted the archival blocker into a drafted Nova Scotia Archives request. No request has been sent and no finding aid has been received.
+
+**Uncertainty:** Cooke-letter custody and survival remain unknown.
+
+**Next action:** Preserve the exact draft for a human sender; stop further broad searching pending an archive response.
