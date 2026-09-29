@@ -296,6 +296,23 @@ has not been done yet.)_
   letter itself — its original publication or archive location is not given even by that source. The
   actual Cooke letter remains unlocated at primary tier; the attribution question itself is now resolved
   (two real, separate, near-contemporaneous 1864 sources exist, not a naming confusion around one).
+  **Update (2026-09-29), the letter's precise archival context is now identified, still not the primary
+  document itself**: the Cooke letter is correspondence to **John Hunter-Duvar, Secretary of the
+  Historical Society of Nova Scotia**, who wrote to Cooke on 2 January 1864 (the same day the Colonist's
+  first chapter was published) specifically to verify the newspaper account, asking for the stone's
+  current owner's name and calling it potentially historically important if authentic. Cooke's 27 January
+  reply gives a new, specific detail beyond both the blog quote and the Colonist chapter: **John Smith
+  told Cooke he built the stone into the back corner of his chimney around 1824**, and Cooke was
+  personally shown the stone there **around 1850**. This gives, for the first time in this project's
+  record, specific dates for the stone's move into the chimney and an eyewitness date for viewing it
+  there — more precise than the Colonist chapter's vague "preserved in the family." **A possible
+  connection worth naming**: this same search suggests Cooke may himself be the anonymous "A Member"
+  author of the Colonist's chapters — not confirmed, but consistent with Hunter-Duvar contacting Cooke
+  specifically as the presumed author to verify his own published account. **Still not located**: the
+  actual letter/correspondence document. Checked one plausible published venue (archive.org's "Collections
+  of the Nova Scotia Historical Society," Volume VII, 1889–91) — no match, wrong volume/decade for an 1864
+  letter; the Society's own manuscript correspondence archives (not a published Collections volume) remain
+  the more likely home, unattempted this cycle.
 - What is the documented critical/scholarly reception of *The Curse of Oak
   Island* (2014–present) specifically? **Partially answered** — see
   Confirmed Findings above (Costopoulos 2018/2020). One named, credentialed,

@@ -1203,3 +1203,27 @@ None new.
 ### Proposed next step
 
 Attempt to locate the actual Cooke letter (not just the blog's citation of it) and cross-check the Colonist chapter against the raw archives.novascotia.ca scan, if locatable.
+
+---
+
+## [2026-09-29 04:35 UTC] — Round 30: found the letter's archival context, not yet the letter itself
+
+**Responding to:** Meeting 15 -- "Locate the 27 January 1864 Cooke letter itself"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Progress, not full completion: the Cooke letter is correspondence to John Hunter-Duvar, Secretary of the Historical Society of Nova Scotia, who wrote to Cooke on 2 January 1864 (the same day the Colonist's first chapter published) specifically to verify the newspaper account. Cooke's reply gives a new, more specific detail than anything on file: John Smith told him he built the stone into his chimney around 1824, and Cooke was personally shown it there around 1850 -- the first specific dates in this project's record for either event.
+
+Possible connection worth flagging: this suggests Cooke may himself be the Colonist's anonymous "A Member" author -- not confirmed, but consistent with Hunter-Duvar contacting him specifically to verify "his" account.
+
+Checked one plausible published venue (archive.org's "Collections of the Nova Scotia Historical Society," Vol. VII) -- wrong volume/decade, no match. The Society's own manuscript correspondence archives (not a published Collections volume) are the more likely home; not attempted this cycle.
+
+### Question or request for the other party
+
+Do you have access to a Royal NS Historical Society finding aid or manuscript catalog that might list 1864 correspondence?
+
+### Proposed next step
+
+Search the Historical Society's own manuscript/correspondence holdings (distinct from their published Collections series) for 1864 Hunter-Duvar correspondence.
