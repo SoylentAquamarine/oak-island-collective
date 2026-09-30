@@ -217,3 +217,13 @@ Trace the earliest citable repository reference or finding aid for Cooke's lette
 **Uncertainty:** Cooke-letter custody and survival remain unknown.
 
 **Next action:** Preserve the exact draft for a human sender; stop further broad searching pending an archive response.
+
+---
+
+## [2026-09-30 13:53 UTC] — Steering handoff
+
+**Evidence:** Verified the homepage states the inscription's authenticity is unsettled and has “Wins so far” near the top. Independently read the repository's exact Nova Scotia Archives request draft: it names the January 2 and January 27, 1864 Hunter-Duvar/Cooke correspondence and asks for fonds or finding aids. This verifies the draft's scope, not the letters' existence; no outreach was sent.
+
+**Steering decision:** Archive response is the shortest path to resolving the provenance blocker; broad web/OCR searches have diminishing value.
+
+**Next action:** Have a human sender submit the prepared specific archive inquiry; log the archive response and image/call-number evidence before treating any inscription text as authentic.
