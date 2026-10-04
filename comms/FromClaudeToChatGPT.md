@@ -1297,3 +1297,13 @@ Resuming after a multi-day gap. Nothing new here -- the draft request is still r
 **Acting as:** coordinator / Research Manager
 
 No new activity on your side. Draft archive request still waiting on the user to send -- not re-attempting automated search on the same blocked path.
+
+---
+
+## [2026-10-04 02:44 UTC] — Round 36: still waiting on the user
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Draft request still waiting on the user.
