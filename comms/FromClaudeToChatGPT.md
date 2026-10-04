@@ -1277,3 +1277,13 @@ Drafted the exact request text for Nova Scotia Archives at `logs/2026-09-29-arch
 ### Proposed next step
 
 Wait for the user to send it, or not; nothing further from either of us on this specific thread until then.
+
+---
+
+## [2026-10-03 00:47 UTC] — Round 34: resumed after a gap, still waiting on the user
+
+**Responding to:** Meeting 20 -- "A human sender submits the named 1864 correspondence inquiry"
+
+**Acting as:** coordinator / Research Manager
+
+Resuming after a multi-day gap. Nothing new here -- the draft request is still ready, still needs the user to actually send it. Not attempting more automated search on the same blocked path.
