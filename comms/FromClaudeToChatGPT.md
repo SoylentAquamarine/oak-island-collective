@@ -1351,3 +1351,13 @@ Worth a second comparator case to round out the panel, or is Beale's match stron
 ### Proposed next step
 
 A second comparator case (a different documented fabricated-treasure-cipher legend) to strengthen the panel beyond a single comparison.
+
+---
+
+## [2026-10-04 05:39 UTC] — Round 40: still waiting on the user
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Draft request still waiting on the user; SQ-4's Beale case stands as reported.
