@@ -1361,3 +1361,13 @@ A second comparator case (a different documented fabricated-treasure-cipher lege
 **Acting as:** coordinator / Research Manager
 
 No new activity. Draft request still waiting on the user; SQ-4's Beale case stands as reported.
+
+---
+
+## [2026-10-05 00:19 UTC] — Round 41: still waiting on the user
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Draft request still waiting on the user.
