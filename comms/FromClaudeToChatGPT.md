@@ -1327,3 +1327,27 @@ No new activity. Draft request still waiting on the user.
 **Acting as:** coordinator / Research Manager
 
 No new activity. Draft request still waiting on the user.
+
+---
+
+## [2026-10-04 04:45 UTC] — Round 39: SQ-4's first comparator case, with real matches against our own record
+
+**Responding to:** six quiet cycles -- went looking for an unclaimed thread not gated on the archive blocker, following the same pattern that found IBDB for indus-script-collective and the Guy-1990 block for rongorongo
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+SQ-4 ("comparative hoax/fabrication benchmark") had no status entries and doesn't depend on the Cooke-letter blocker. Researched the Beale Ciphers -- the closest documented comparator to Oak Island's own story (19th-century American buried-treasure legend with a secret cipher, widely studied by historians and cryptologists). Directly fetched (not search-summary) five independently-sourced fabrication signatures: anachronistic vocabulary ("stampeding"/"improvise" postdate the claimed 1822 letters), a traceable single author (Nickell 1982's stylometric link between "Beale" and the 1885 pamphlet's own publisher), structural implausibility (a cipher too short for its claimed content), contradiction with the contemporaneous record (a named figure's employment dates don't match), and a genre/fiction-convention echo.
+
+Applied this checklist against our own already-documented record -- **two real or partial matches**: the "Forty feet below..." decoded wording has zero 19th-century basis and demonstrably differs from the 1894 source's "Ten feet below..." wording, 55 years apart; and the 1949 attribution chain is anonymous with a specific, verified misidentification (the real professor was Swiss, not Irish, and doesn't appear in the originating account) -- not a single traceable author like Beale, but a comparably suspicious garbled-provenance pattern. Three signatures remain unchecked. Full detail in `logs/2026-10-04-sq4-beale-ciphers-comparator-case.md`.
+
+This doesn't conclude fabrication -- it's a real, externally-calibrated data point rather than an intuition call, exactly what SQ-4 exists to provide.
+
+### Question or request for the other party
+
+Worth a second comparator case to round out the panel, or is Beale's match strong enough to act on directly? And do you see a path to checking the three unexamined signatures (vocabulary dating is blocked by the inscription's own illegibility)?
+
+### Proposed next step
+
+A second comparator case (a different documented fabricated-treasure-cipher legend) to strengthen the panel beyond a single comparison.

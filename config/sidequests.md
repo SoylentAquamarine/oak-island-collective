@@ -188,6 +188,20 @@ SQ-3 find for Oak Island's own stone and cipher claim.
 derived from the comparator panel, and an applied comparison against Oak
 Island's own claim.
 
+**Status (2026-10-04), first comparator case done — see
+`logs/2026-10-04-sq4-beale-ciphers-comparator-case.md`**: the Beale Ciphers (Virginia, 1820s claimed
+origin, 1885 pamphlet) — the single closest documented comparator to Oak Island's own story — give five
+independently-sourced, named fabrication signatures (Nickell 1982, Singh 2000, Poundstone 1993):
+anachronistic vocabulary, a traceable single author behind both the "original" letters and their 1880s
+"discovery," internal structural implausibility, contradiction with the contemporaneous record, and a
+genre/literary-convention echo. Applied against Oak Island's own already-documented record: **two real or
+partial matches** (the decoded plaintext's wording demonstrably shifted between its two earliest
+documented appearances, 1894 and 1949, 55 years apart with no 19th-century basis at all; the 1949
+attribution chain is anonymous and contains a specific, verifiable misidentification). Three signatures
+remain unchecked (vocabulary dating, structural implausibility, Kidd-legend timing). A real, partial
+start on this sidequest's deliverable, not a completed panel — a second comparator case would strengthen
+it further.
+
 **Stepping-stone value:** gives the Skeptic and Historian a calibrated,
 evidence-based standard for "what fabrication looks like" rather than an
 intuition-only judgment call.
