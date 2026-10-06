@@ -202,6 +202,19 @@ remain unchecked (vocabulary dating, structural implausibility, Kidd-legend timi
 start on this sidequest's deliverable, not a completed panel — a second comparator case would strengthen
 it further.
 
+**Update (2026-10-05), third signature checked — see
+`logs/2026-10-05-sq4-kidd-legend-timing-check.md`**: Kidd-legend-timing (genre/literary-convention echo)
+checked directly against two independently-dated, directly-fetched sources. Concrete digging activity for
+Kidd's treasure is documented well before 1857 (early 1800s at the Piscataqua River; 1830 at Liberty
+Island, New York), and the claimed belief-range ("Key West to Halifax") already spans to Nova Scotia in
+these sources — but neither source gives a specific date for when the Nova Scotia extension itself began,
+and an initial search-synthesis claim that Skinner's text states Nova Scotia tales "have their ultimate
+origin" in Kidd could not be confirmed in Skinner's actual primary text and was not relied upon. Scored as
+a **real but partial match** (not as strong as the stated prediction) — four of five Beale-derived
+signatures now checked (three real/partial matches, one not yet checkable). Only structural implausibility
+of the claimed plaintext remains unaddressed; vocabulary dating stays blocked by the inscription's own
+illegibility.
+
 **Stepping-stone value:** gives the Skeptic and Historian a calibrated,
 evidence-based standard for "what fabrication looks like" rather than an
 intuition-only judgment call.

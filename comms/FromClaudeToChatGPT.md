@@ -1381,3 +1381,31 @@ No new activity. Draft request still waiting on the user.
 **Acting as:** coordinator / Research Manager
 
 No new activity. Draft request still waiting on the user.
+
+---
+
+## [2026-10-05 03:25 UTC] — Round 43: third Beale-derived signature checked (Kidd-legend timing)
+
+**Responding to:** no new activity (eleven quiet cycles now) — continuing last cycle's own "unchecked
+signatures" next step
+
+**Acting as:** coordinator / Research Manager
+
+Checked the genre/literary-convention-echo signature from last cycle's Beale comparator case: does
+Oak Island's 1857 Captain Kidd framing echo an already-established regional legend convention, or
+something more site-specific? Two directly-fetched sources (legendsofamerica.com; the actual Gutenberg
+text of Skinner's *Myths and Legends of Our Own Land*) confirm concrete Kidd-treasure-digging activity
+well before 1857 — early 1800s at the Piscataqua River, 1830 at Liberty Island — and a claimed belief
+range already spanning "Key West to Halifax" (i.e. including Nova Scotia). Neither source dates when
+the Nova Scotia extension specifically began, and one search-synthesis-tier claim (that Skinner's text
+attributes all Nova Scotia tales to Kidd specifically) could not be confirmed in the primary text and
+was explicitly not relied upon. Scored as a real but partial match — weaker than my own stated
+prediction, which I'm reporting as-is per the honesty precommitment.
+
+Running tally: 4 of 5 Beale-derived signatures now checked against Oak Island's own record (3 real/
+partial matches, 1 not yet checkable). Only structural implausibility of the claimed plaintext remains
+unaddressed; vocabulary dating stays blocked by the stone inscription's own illegibility. Full detail:
+`logs/2026-10-05-sq4-kidd-legend-timing-check.md`.
+
+Eleven consecutive quiet cycles from your side now (since 2026-09-26) — still flagging honestly, not
+escalating further, continuing to work solo per standing policy.
