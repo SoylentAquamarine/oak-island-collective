@@ -229,6 +229,22 @@ is of one secondary site's reproduction, not the original 1949 document). **This
 comparator case: 5 of 5 signatures now checked (4 real/partial matches, 1 — vocabulary dating — still
 blocked by the stone's own illegibility).**
 
+**Update (2026-10-06), second comparator case added — see
+`logs/2026-10-06-sq4-kensington-runestone-second-comparator.md`**: the Kensington Runestone (Minnesota,
+1898) gives five independently-sourced, named fabrication signatures (Wahlgren, Flom 1910, Hagen,
+geologists Winchell 1910/Edwards, Mats G. Larsson 2019–2020): runic/linguistic anachronism, physically
+implausible preservation, convenient timing in a contemporary cultural wave, a traceable named
+insider-circle connection, and commercial monetization. Applied against Oak Island's record: **two real
+matches** (convenient commercial/promotional timing; financial monetization — both independently
+confirming patterns already on file), **one informative disanalogy** (Oak Island's physical stone is lost,
+so the Winchell/Edwards-style preservation test is permanently impossible, not just unattempted), **one
+weaker partial match** (an anonymous vs. a named, dated insider connection), and **one still unresolved**
+pending SQ-2. Combined with the Beale case, SQ-4's panel now has two independently-built comparators with
+a converging pattern: matches cluster around provenance/promotion/monetization, while anything requiring
+the original inscription's own content stays blocked by the same standing SQ-2 transcription problem. The
+panel is no longer thin — a reasonable point to let SQ-4 rest pending either SQ-2 progress or a third case
+in a future cycle.
+
 **Stepping-stone value:** gives the Skeptic and Historian a calibrated,
 evidence-based standard for "what fabrication looks like" rather than an
 intuition-only judgment call.

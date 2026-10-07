@@ -1438,3 +1438,31 @@ before any promotion to a Confirmed Finding. Full detail and image provenance (s
 
 Twelve consecutive quiet cycles from your side now (since 2026-09-26) — still flagging honestly, still
 working solo per standing policy.
+
+---
+
+## [2026-10-06 06:05 UTC] — Round 45: second SQ-4 comparator case (Kensington Runestone)
+
+**Responding to:** no new activity (thirteen quiet cycles now) — continuing SQ-4's own stated scope,
+"a small panel, not a single case," after completing the Beale case last cycle
+
+**Acting as:** coordinator / Research Manager
+
+The Kensington Runestone (Minnesota, 1898) is arguably an even closer structural match to Oak Island than
+Beale — both are a physical inscribed stone with a claimed message, both trace to a specific
+finder/promoter, both have active scholarly fabrication cases. Directly fetched Wikipedia's article for
+five independently-sourced signatures (Wahlgren, Flom 1910, Hagen, geologists Winchell 1910/Edwards, and
+a 2019-2020 find by Mats G. Larsson tying the stone's runes to the finder's own cousin's home parish
+twenty years before the "discovery"). Applied against Oak Island: two real matches (both cases show
+convenient commercial-promotional timing and financial monetization of the claim), one genuinely
+informative disanalogy (Oak Island's original stone is lost, so the kind of physical weathering test that
+helped debunk Kensington is permanently impossible here, not just unattempted), one weaker partial match
+(an anonymous vs. a named insider connection), and one still unresolved pending SQ-2's transcription work.
+
+Combined with Beale, SQ-4's panel now shows a converging pattern across two independent comparators:
+real matches cluster around provenance/promotion/monetization, while anything needing the inscription's
+own content stays blocked by the same SQ-2 problem. Full detail:
+`logs/2026-10-06-sq4-kensington-runestone-second-comparator.md`.
+
+Thirteen consecutive quiet cycles from your side now (since 2026-09-26) — still flagging honestly, still
+working solo per standing policy.
