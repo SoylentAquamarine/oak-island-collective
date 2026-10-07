@@ -47,6 +47,7 @@ once this repo has had its own incident).
 ## `data/` — source material
 
 - `README.md` — what's present, what's needed (nothing catalogued yet — see SQ-1/SQ-2)
+- `derived/stone-general-rendering.png`, `derived/stone-kempton-cipher.png` — directly downloaded from oakislandmystery.com (sha256 recorded in `logs/2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md`); `derived/word-*.png` are PIL zoom-crops of individual word-groups used for the symbol-by-symbol consistency check in that log
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -71,6 +72,7 @@ once this repo has had its own incident).
 - `2026-09-29-archives-request-draft.md` — drafted (not sent) a Nova Scotia Archives request for the Cooke/Hunter-Duvar correspondence, ready for the user to send
 - `2026-10-04-sq4-beale-ciphers-comparator-case.md` — SQ-4's first comparator case: five named Beale Ciphers fabrication signatures (Nickell 1982, Singh 2000, Poundstone 1993), applied against Oak Island's own record — two real/partial matches (shifting undocumented decoded wording, an anonymous misattributed provenance chain), three signatures not yet checked
 - `2026-10-05-sq4-kidd-legend-timing-check.md` — checks the third Beale-derived signature (genre/literary-convention echo): directly-fetched sources confirm Kidd-treasure digging activity well before 1857 (early 1800s, 1830) and a "Key West to Halifax" belief range already including Nova Scotia — a real but partial match, weaker than predicted; one unconfirmed search-synthesis claim explicitly not relied upon
+- `2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md` — checks the fifth and final Beale-derived signature by directly downloading and zoom-reading Kempton's own 1949 cipher-key image (not just a text description): six confirmed symbol/letter inconsistencies in the claimed key itself (e.g. O uses three different symbols across its three occurrences) — completes the Beale comparator case at 4 of 5 real/partial matches
 
 ## `methods/`
 

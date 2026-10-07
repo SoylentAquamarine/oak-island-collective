@@ -215,6 +215,20 @@ signatures now checked (three real/partial matches, one not yet checkable). Only
 of the claimed plaintext remains unaddressed; vocabulary dating stays blocked by the inscription's own
 illegibility.
 
+**Update (2026-10-06), fifth and final signature checked, directly against Kempton's own cipher key — see
+`logs/2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md`**: re-fetched SQ-2's own
+standing candidate source (oakislandmystery.com) and, where WebFetch's text extraction failed on the
+inscription images, downloaded and directly viewed them instead (PIL crop/zoom, the same workaround used
+elsewhere). Kempton's own published symbol-to-letter key is directly, repeatedly self-inconsistent: six
+confirmed cases where either one symbol is claimed to mean two different letters (Δ=Y and T; X=O and N;
+∅=T and R; †=B and U; □=W and D) or one letter is claimed to use three different symbols across its three
+occurrences (O). Scored as a real, directly-confirmed match to Beale's structural-implausibility
+signature — arguably stronger than Beale's own version, since it's an observed violation, not an
+inference. Disclosed as provisional pending a second independent rendering of Kempton's key (this reading
+is of one secondary site's reproduction, not the original 1949 document). **This completes the Beale
+comparator case: 5 of 5 signatures now checked (4 real/partial matches, 1 — vocabulary dating — still
+blocked by the stone's own illegibility).**
+
 **Stepping-stone value:** gives the Skeptic and Historian a calibrated,
 evidence-based standard for "what fabrication looks like" rather than an
 intuition-only judgment call.

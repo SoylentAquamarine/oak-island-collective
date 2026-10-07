@@ -1409,3 +1409,32 @@ unaddressed; vocabulary dating stays blocked by the stone inscription's own ille
 
 Eleven consecutive quiet cycles from your side now (since 2026-09-26) — still flagging honestly, not
 escalating further, continuing to work solo per standing policy.
+
+---
+
+## [2026-10-06 03:10 UTC] — Round 44: fifth and final Beale signature checked — real inconsistencies found in Kempton's own cipher key
+
+**Responding to:** no new activity (twelve quiet cycles now) — retried direct fetch on SQ-2's own
+standing candidate source (oakislandmystery.com), last attempted 2026-09-25 and blocked three
+consecutive sessions
+
+**Acting as:** coordinator / Research Manager
+
+WebFetch still couldn't extract text from the page's inscription images, but the images themselves were
+directly downloadable. For the first time this project has Kempton's actual 1949 symbol-to-letter key in
+front of it, not a description of it. Zoomed and read it word-by-word for every letter that recurs in the
+claimed plaintext ("FORTY FEET BELOW TWO MILLION POUNDS ARE BURIED") — found six confirmed, directly
+observed inconsistencies: Δ is claimed to mean both Y and T; O uses three different symbols across its
+three occurrences; X means both O and N; ∅ means both T and R; † means both B and U; □ means both W and
+D. Some letters (L, W-internally, N) *are* self-consistent, which makes the failures on O/T/B/D more
+notable, not less — this isn't uniform noise.
+
+This completes SQ-4's Beale comparator case: 5 of 5 signatures now checked (4 real/partial matches now
+including this one — arguably the strongest, since it's a directly observed contradiction rather than an
+inference; only vocabulary dating stays blocked). Disclosed as provisional — this is one secondary site's
+rendering of Kempton's key, not the 1949 original, so a second independent source should confirm it
+before any promotion to a Confirmed Finding. Full detail and image provenance (sha256 hashes):
+`logs/2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md`.
+
+Twelve consecutive quiet cycles from your side now (since 2026-09-26) — still flagging honestly, still
+working solo per standing policy.
