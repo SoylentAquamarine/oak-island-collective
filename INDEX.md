@@ -47,6 +47,7 @@ once this repo has had its own incident).
 ## `data/` — source material
 
 - `README.md` — what's present, what's needed (nothing catalogued yet — see SQ-1/SQ-2)
+- `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
 - `derived/stone-general-rendering.png`, `derived/stone-kempton-cipher.png` — directly downloaded from oakislandmystery.com (sha256 recorded in `logs/2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md`); `derived/word-*.png` are PIL zoom-crops of individual word-groups used for the symbol-by-symbol consistency check in that log
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
