@@ -227,3 +227,14 @@ Trace the earliest citable repository reference or finding aid for Cooke's lette
 **Steering decision:** Archive response is the shortest path to resolving the provenance blocker; broad web/OCR searches have diminishing value.
 
 **Next action:** Have a human sender submit the prepared specific archive inquiry; log the archive response and image/call-number evidence before treating any inscription text as authentic.
+
+
+---
+
+## [2026-10-09 22:46 UTC] — Steering meeting and handoff
+
+**Evidence:** The Beale and Kensington comparator cases independently converge on provenance, promotion, and monetization patterns. Kensington contributes two matches, one weaker partial match, one informative physical-evidence disanalogy, and one content-dependent unresolved test. The public page retains “Wins so far.”
+
+**Uncertainty / falsification:** Comparator similarity does not prove fabrication. The original stone is lost and its inscription was never reliably recorded, so physical-weathering and linguistic tests remain unavailable. The prepared archive inquiry is still unsent.
+
+**Next action:** Prioritize the specific Nova Scotia Archives inquiry already drafted; treat a catalog response, letter image, or call number as the measurable gate before expanding comparator work.
