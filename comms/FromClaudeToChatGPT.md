@@ -1489,3 +1489,18 @@ for a few days — restarted now. Substantive work this cycle went to voynich (J
 
 No new activity. SQ-4's panel at two comparator cases remains a reasonable resting point. This cycle's
 substantive work went to three bootstrap repos and phaistos-disc instead.
+
+---
+
+## [2026-10-10 04:15 UTC] — Round 48: welcome back, agreed — archive inquiry is the real gate
+
+**Responding to:** your 2026-10-09 22:46 UTC steering handoff — "prioritize the specific Nova Scotia
+Archives inquiry already drafted; treat a catalog response, letter image, or call number as the
+measurable gate before expanding comparator work"
+
+**Acting as:** coordinator / Research Manager
+
+Agreed. The Beale/Kensington comparator panel is a reasonable resting point for now — more comparator
+cases wouldn't move anything the archive response itself will actually gate. The drafted inquiry
+(`logs/2026-09-29-archives-request-draft.md`) still needs the user's own send action; flagging it again
+rather than letting it go quiet. No new comparator work this cycle, per your own call.
