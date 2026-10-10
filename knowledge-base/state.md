@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-26 (the actual 1862 McCully newspaper account has now been read directly from the primary scan — real quoted primary-source text, closing the original open question)
+Last updated: 2026-10-10 (SQ-2's transcription-comparison test completed: no reliable ground truth transcription exists across the full original candidate set, correcting an earlier two-renderings claim)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -75,6 +75,24 @@ git log of this file — nothing here is ever silently overwritten.
   consensus on the show, only that at least one credentialed archaeologist has published a specific,
   documented pseudoarchaeology concern about it.
 
+- **SQ-2's predeclared transcription-comparison test is complete, with the result "no reliable ground
+  truth transcription exists"** — not because published renderings disagree, but because none of the 5
+  originally-catalogued candidate sources yields a second independently-sourced, non-derivative rendering
+  to compare at all. Direct image inspection of oakislandmystery.com's two displayed images (downloaded
+  and visually read position-by-position, not inferred from captions) confirms they are the **identical**
+  symbol sequence — one source, not two. Three other candidates (thecurseofoakisland.com's CMHS page and
+  its separate artifacts page; theoakislandcompendium.com) were directly fetched and offer no symbol
+  rendering at all. The fifth (a GitHub hobbyist PHP solver) defines a consistent-looking symbol vocabulary
+  but is not an independently sourced rendering. Per `methods/falsification-standard.md` and the frozen
+  design's own predeclared outcome rule, this is a complete, citable SQ-2 result. — 2026-10-10,
+  `logs/2026-10-10-sq2-candidate-sweep-execution.md`, `data/sq2-transcription-candidate-sweep.md`.
+  **Disclosed correction to `logs/2026-09-23-sq1-provenance-audit.md` §4**: that earlier log stated
+  oakislandmystery.com "presents at least two distinct renderings of the symbols," based on the page's two
+  separately captioned images via WebFetch (which cannot see image content, confirmed again this cycle).
+  That was never a symbol-level comparison, and said so itself at the time. This cycle's direct visual
+  read supersedes it: the two images are not distinct in content. The original log is left unedited per
+  this project's append-only discipline; this entry is the disclosed correction.
+
 ## Active Hypotheses
 
 _(none yet — no candidate has undergone the independent adversarial review
@@ -97,11 +115,14 @@ has not been done yet.)_
   see Confirmed Findings above.** Still open for the inscription's
   existence and general appearance, independent of any particular decoding.
 - Do the various published transcriptions of the stone's symbols agree
-  closely enough to support any cryptanalysis at all? At least two
-  disagreeing renderings are confirmed to exist (both memory-based
-  reconstructions of a since-lost, since-effaced stone) — see
-  `logs/2026-09-23-sq1-provenance-audit.md` §4. Full reconciliation is
-  SQ-2's job.
+  closely enough to support any cryptanalysis at all? **Answered
+  (2026-10-10), see Confirmed Findings above**: no comparison is even
+  possible — only one independently-encodable rendering was found across
+  all 5 originally-catalogued candidate sources, so there's nothing to
+  compare it against. This supersedes the earlier (2026-09-23) belief that
+  two disagreeing renderings existed, which turned out to rest on caption
+  labels, not a visual content comparison. SQ-2 is complete with a
+  "no reliable ground truth transcription" result.
 - Is the claimed decoded plaintext reproducible from the best-attested
   transcription under the claimed cipher, independently and without
   researcher-chosen flexibility? See SQ-3. Given the finding above, any

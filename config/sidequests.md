@@ -136,6 +136,22 @@ in SQ-3 can proceed responsibly without this.
 **Laptop/worker-node work:** transcription alignment and agreement-rate
 computation once source images/texts are gathered.
 
+**Status (2026-10-10), execution complete — see `logs/2026-10-10-sq2-candidate-sweep-execution.md` and
+`data/sq2-transcription-candidate-sweep.md`**: the 2026-09-25 frozen design's own next step ("whichever
+session next has confirmed working direct fetch") was finally run, now that fetch has repeatedly proven
+available. All 5 originally-catalogued candidates were directly checked. Result: **only one candidate
+(oakislandmystery.com) provides an actual symbol-by-symbol rendering**, and its own two displayed images —
+previously assumed to be two independent renderings — are now confirmed by direct image inspection to be
+the identical symbol sequence (a disclosed correction to `logs/2026-09-23-sq1-provenance-audit.md` §4,
+which never actually compared image content). The other three content-bearing candidates offer no
+rendering at all; the fifth (a GitHub hobbyist solver) isn't an independent source. Per the frozen design's
+own predeclared rule, **SQ-2 is now complete with the result "no reliable ground truth transcription
+exists."** Three new unverified leads were surfaced for the Historian's catalog (a possibly-distinct "Tory
+Stone," a Liechti alternate translation, and two more named alternate-decipherment claims) but not pursued
+further this cycle. **Per this sidequest file's own "Initial priority" sequencing rule below, this result
+is a real project-direction fact for SQ-3**, flagged to ChatGPT/the user as the next coordination point
+rather than decided unilaterally.
+
 ## SQ-3 — Cipher/decoding audit
 
 **Purpose:** test the claimed substitution cipher (and plausible period

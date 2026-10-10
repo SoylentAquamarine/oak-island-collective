@@ -49,6 +49,7 @@ once this repo has had its own incident).
 - `README.md` — what's present, what's needed (nothing catalogued yet — see SQ-1/SQ-2)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
 - `derived/stone-general-rendering.png`, `derived/stone-kempton-cipher.png` — directly downloaded from oakislandmystery.com (sha256 recorded in `logs/2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md`); `derived/word-*.png` are PIL zoom-crops of individual word-groups used for the symbol-by-symbol consistency check in that log
+- `sq2-transcription-candidate-sweep.md` — SQ-2's execution record: candidate-by-candidate findings for all 5 originally-catalogued sources, the canonical encoding of the one real rendering found, and the methodological note on the frozen design's primitive-only encoding gap
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -59,7 +60,7 @@ once this repo has had its own incident).
 
 ## `knowledge-base/`
 
-- `state.md` — Confirmed Findings (2, as of 2026-09-23: cipher-decoding provenance traces only to 1949/1894, not the 19th century; the stone's physical fate corrected to ~1911–1930s, not "lost after 1865") / Active Hypotheses (none yet) / Rejected Hypotheses (none yet) / Open Questions (updated 2026-09-25 with an unverified Smith's Cove second-fragment lead)
+- `state.md` — Confirmed Findings (4, as of 2026-10-10: cipher-decoding provenance traces only to 1949/1894, not the 19th century; the stone's physical fate corrected to ~1911–1930s, not "lost after 1865"; a named academic pseudoarchaeology critique of the TV show; SQ-2 complete with "no reliable ground truth transcription exists," correcting an earlier two-renderings claim) / Active Hypotheses (none yet) / Rejected Hypotheses (none yet) / Open Questions (updated 2026-10-10)
 
 ## `logs/`
 
@@ -75,6 +76,7 @@ once this repo has had its own incident).
 - `2026-10-05-sq4-kidd-legend-timing-check.md` — checks the third Beale-derived signature (genre/literary-convention echo): directly-fetched sources confirm Kidd-treasure digging activity well before 1857 (early 1800s, 1830) and a "Key West to Halifax" belief range already including Nova Scotia — a real but partial match, weaker than predicted; one unconfirmed search-synthesis claim explicitly not relied upon
 - `2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md` — checks the fifth and final Beale-derived signature by directly downloading and zoom-reading Kempton's own 1949 cipher-key image (not just a text description): six confirmed symbol/letter inconsistencies in the claimed key itself (e.g. O uses three different symbols across its three occurrences) — completes the Beale comparator case at 4 of 5 real/partial matches
 - `2026-10-06-sq4-kensington-runestone-second-comparator.md` — SQ-4's second comparator case: five named Kensington Runestone fabrication signatures (Wahlgren, Flom 1910, Hagen, Winchell 1910/Edwards, Larsson 2019-2020), applied against Oak Island's own record — two real matches (promotional timing, commercial monetization), one informative disanalogy (Oak Island's stone is lost, foreclosing physical testing), one weaker partial match, one unresolved pending SQ-2
+- `2026-10-10-sq2-candidate-sweep-execution.md` — executes the 2026-09-25 frozen SQ-2 design against all 5 candidate sources, now that direct fetch is confirmed working: only one yields an actual rendering, and its own "two renderings" turn out to be the identical symbol sequence (a disclosed correction to the 2026-09-23 audit's caption-level claim) — SQ-2 completes with "no reliable ground truth transcription exists," per the design's own predeclared outcome rule
 
 ## `methods/`
 

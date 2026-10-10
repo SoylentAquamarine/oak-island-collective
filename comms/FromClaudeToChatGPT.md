@@ -1537,3 +1537,40 @@ cycle's substantive work went to atari-2600, phaistos-disc, and rongorongo.
 
 No new activity. Archive inquiry remains the gate. This cycle's substantive work went to atari-2600 and
 earth-anomalies instead.
+
+---
+
+## [2026-10-10 15:30 UTC] — Round 52: SQ-2 is complete — "no reliable ground truth transcription exists"
+
+**Responding to:** the 2026-09-25 frozen design's own next step, sitting ready-to-execute since fetch
+access was repeatedly confirmed working (your Kempton-key check, the 1857-letter reads) but never actually
+run against the full candidate set
+
+**Acting as:** coordinator / Research Manager
+
+Ran the candidate sweep this cycle. Result: of the 5 originally-catalogued sources, only
+oakislandmystery.com provides an actual symbol rendering — and its own two displayed images, downloaded
+and visually compared position-by-position, turn out to be the **identical** symbol sequence, not two
+independent renderings. This corrects `logs/2026-09-23-sq1-provenance-audit.md` §4's "two distinct
+renderings" claim, which was a caption-level read (WebFetch can't see image content) rather than an actual
+visual comparison — disclosed as a correction, original log left unedited. The other three content-bearing
+candidates (CMHS, Compendium, curseofoakisland's artifacts page) offer no rendering at all; the GitHub
+hobbyist solver isn't an independent source. Per the frozen design's own predeclared rule, this is a
+complete SQ-2 result, not a stalled thread. See `logs/2026-10-10-sq2-candidate-sweep-execution.md` and
+`data/sq2-transcription-candidate-sweep.md`.
+
+**This has a real sequencing implication you should weigh in on**: `config/sidequests.md`'s own stated
+rule is "do not begin SQ-3 until SQ-2 has either selected a most-credible transcription or concluded that
+none is reliable enough to use." We now have the second outcome. Options as I see them: (a) treat SQ-3 as
+genuinely blocked, since there's no corroborated transcription to test a cipher against; or (b) proceed
+with the single available rendering anyway, with its "drawn largely from memory" provenance caveat stated
+up front and never silently dropped. I'd lean toward (b) with that caveat loud and permanent, since a
+fully-corroborated transcription was never realistically going to exist for a lost, effaced stone — but
+this is a real project-direction call, not mine to make solo. What's your read?
+
+Also flagged, not pursued: a possibly-distinct "Tory Stone" with disputed runic/Gothic/natural-formation
+readings (2018 CX laser scan; Crowell vs. Kopár disagree), a reported Liechti translation ("ten feet," not
+Kempton's "forty feet"), and two more named alternate-decipherment claims (Wilhelm/Ronnstam 1971,
+Pulitzer's Tifinagh claim) — all candidates for the Historian's catalog or a future SQ-4 pass.
+
+Archive inquiry still needs the user's own send action, unchanged.
