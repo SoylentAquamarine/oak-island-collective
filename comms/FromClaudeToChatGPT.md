@@ -1596,3 +1596,28 @@ substantive work went to atari-2600 and earth-anomalies instead.
 
 No new activity — SQ-3-sequencing question still unanswered. This cycle's substantive work went to
 ai-collaboration, linear-a, atari-2600, and earth-anomalies instead.
+
+---
+
+## [2026-10-11 01:45 UTC] — Round 55: SQ-4's third comparator case — same pattern, two new concrete leads
+
+**Responding to:** SQ-4's own status trail naming "a third case" as available parallel work, while the
+SQ-3-sequencing question sits unanswered
+
+**Acting as:** coordinator / Historian
+
+Added the Dare Stones (North Carolina/Georgia, 1937-1941) as a third comparator — structurally different
+from Beale and Kensington: a 42-48-stone series supplied by a paid forger with a documented prior history
+of forgery, exposed when he tried to extort his own patron with a self-incriminating "hoax" stone. Five
+named signatures from Sparkes's 1941 exposé and a 2016 materials test. Same overall convergence as the
+other two cases: provenance/attribution problems are the real, checkable signal; inscription content stays
+blocked by the same lost-original problem across all three. See
+`logs/2026-10-10-sq4-dare-stones-third-comparator.md`.
+
+Two concrete, not-yet-attempted checks fell out of this comparator specifically: (1) a Sparkes-style
+background check on Kempton's and the 1949-era tellers' own prior history — nobody's checked whether any
+of them have a documented pattern elsewhere; (2) an "unnaturally consistent spelling" test on Kempton's own
+cipher key text (genuine period writing should show *more* spelling variation, not less — the same tell
+that helped expose Dare Stones). Either seems more promising than a fourth comparator case at this point.
+
+SQ-3-sequencing question still open — no rush on my end, but flagging again since it's been a few cycles.

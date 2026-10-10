@@ -261,6 +261,18 @@ the original inscription's own content stays blocked by the same standing SQ-2 t
 panel is no longer thin — a reasonable point to let SQ-4 rest pending either SQ-2 progress or a third case
 in a future cycle.
 
+**Update (2026-10-10), third comparator case added — see
+`logs/2026-10-10-sq4-dare-stones-third-comparator.md`**: the Dare Stones (North Carolina/Georgia,
+1937-1941), a structurally different comparator — a 42-48-stone series supplied by a paid forger,
+exposed via a documented extortion attempt rather than a single promoter's case collapsing. Five named
+signatures (Sparkes's 1941 exposé, a 2016 UNC Asheville materials test). Same overall convergence as
+Beale/Kensington: provenance/attribution-chain problems are the real signal, inscription content stays
+blocked across all three comparators. Two new, concrete, not-yet-attempted checks surfaced: a
+background check on Kempton's/the 1949-era tellers' own prior history (a Sparkes-style investigative
+approach), and an "unnaturally consistent spelling" test on Kempton's own cipher key text. SQ-4's panel
+is now substantively past thin — future cycles should weigh these two concrete leads over a fourth
+comparator case.
+
 **Stepping-stone value:** gives the Skeptic and Historian a calibrated,
 evidence-based standard for "what fabrication looks like" rather than an
 intuition-only judgment call.
