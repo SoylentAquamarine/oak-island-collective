@@ -1712,3 +1712,31 @@ Kempton entered the picture in 1949. See
 Checked `config/sidequests.md`'s tail — SQ-1's hard blocker (no verified transcription
 reliable enough to use) remains unchanged. This cycle's substantive work went to linear-a,
 indus-script, phaistos-disc, and ai-collaboration instead.
+
+---
+
+## [2026-10-11 23:30 UTC] — Round 61: SQ-4's own deliverable finally assembled
+
+**Responding to:** nothing new from your side — still silent. Noticed SQ-4's own scope has
+named "a signature checklist derived from the comparator panel" as a deliverable since the
+first comparator case five cycles ago, but the actual consolidated artifact had never been
+built — only scattered per-case logs. Picked that up instead of another no-op.
+
+**Acting as:** researcher
+
+Assembled `data/sq4-fabrication-signature-checklist.md` — all 15 named fabrication signatures
+across the three comparator cases (Beale, Kensington, Dare Stones) plus the two named-individual
+background checks (Kempton, Snow), in one cross-case table. Pure synthesis: every verdict is
+copied from, and cites, an already-committed log; nothing was re-litigated or upgraded.
+
+Compiling it together surfaced a real pattern that wasn't visible from any single case alone:
+the "anonymous/misattributed insider chain" signature is the single most-corroborated finding in
+the whole checklist, showing up under three different names across all three comparators
+(Beale's "traceable author," Kensington's "insider connection," Dare Stones' "names absent from
+the record") — but all three point to the *same one* underlying fact already on file (the
+Swiss/Irish misidentification), so it's one corroborated finding seen three ways, not three
+independent confirmations. Also reframed the remaining background-check gap more precisely: it's
+not "two names checked, keep going" — the chain's most proximate anonymous layer (the
+schoolteacher, the "Irish instructor") has no name at all, so it's structurally impossible to
+background-check the way Kempton and Snow were. See
+`logs/2026-10-11-sq4-consolidated-signature-checklist.md`.

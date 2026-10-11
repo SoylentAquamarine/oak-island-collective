@@ -418,3 +418,12 @@ has not been done yet.)_
   (1862, 1909) both say "ten feet," not Kempton/Snow's 1949 "forty feet" — the claim's exact
   wording was never stable even before Kempton entered the picture. See
   `logs/2026-10-11-sq4-kempton-spelling-test-infeasibility.md`.
+- Has SQ-4's own named deliverable (a consolidated signature checklist across the full
+  comparator panel) actually been assembled, or only scattered across individual case logs?
+  **Answered (2026-10-11)**: assembled for the first time — see
+  `data/sq4-fabrication-signature-checklist.md`. Pure synthesis of five already-committed
+  cycles of research, no individual verdict changed. Surfaces one real cross-case pattern:
+  the anonymous/misattributed insider-chain signature is corroborated three separate ways
+  across all three comparators but traces to one underlying fact already on file, and the
+  deepest remaining gap (background-checking the chain's most proximate anonymous layer) is
+  structurally blocked by having no name to check, not simply more background-checking to do.

@@ -50,6 +50,7 @@ once this repo has had its own incident).
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
 - `derived/stone-general-rendering.png`, `derived/stone-kempton-cipher.png` — directly downloaded from oakislandmystery.com (sha256 recorded in `logs/2026-10-06-sq4-structural-implausibility-cipher-key-inconsistency.md`); `derived/word-*.png` are PIL zoom-crops of individual word-groups used for the symbol-by-symbol consistency check in that log
 - `sq2-transcription-candidate-sweep.md` — SQ-2's execution record: candidate-by-candidate findings for all 5 originally-catalogued sources, the canonical encoding of the one real rendering found, and the methodological note on the frozen design's primitive-only encoding gap
+- `sq4-fabrication-signature-checklist.md` — SQ-4's own named deliverable, assembled for the first time: all 15 named signatures across the three comparator cases plus the two named-individual background checks, consolidated into one cross-case document with the pattern only visible once compiled together
 
 ## `docs/` — public site (GitHub Pages, deploy on push to `main` under `docs/`)
 
@@ -81,6 +82,7 @@ once this repo has had its own incident).
 - `2026-10-11-sq4-snow-background-check-negative-result.md` — background-checks Edward Rowe Snow (the 1949 popularizer); a genuine, disclosed negative result — no documented criticism or prior-fabrication pattern found — closing out the background-check lead with both named chain figures now checked
 - `2026-10-10-sq2-candidate-sweep-execution.md` — executes the 2026-09-25 frozen SQ-2 design against all 5 candidate sources, now that direct fetch is confirmed working: only one yields an actual rendering, and its own "two renderings" turn out to be the identical symbol sequence (a disclosed correction to the 2026-09-23 audit's caption-level claim) — SQ-2 completes with "no reliable ground truth transcription exists," per the design's own predeclared outcome rule
 - `2026-10-11-sq4-kempton-spelling-test-infeasibility.md` — scopes the Dare Stones-derived spelling-consistency test against Kempton's material and finds it infeasible on two independent grounds (image-only key, 7-9-word plaintext); surfaces that the two earliest documented readings (1862, 1909) said "ten feet," not Snow/Kempton's 1949 "forty feet"
+- `2026-10-11-sq4-consolidated-signature-checklist.md` — assembles SQ-4's own long-pending deliverable (a cross-case signature checklist) from five cycles of scattered comparator/background-check research; pure synthesis, surfaces the three-fold convergence on the anonymous-insider-chain fact and the structural (not just incomplete) nature of the remaining background-check gap
 
 ## `methods/`
 

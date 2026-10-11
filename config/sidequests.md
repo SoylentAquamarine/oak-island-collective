@@ -204,6 +204,19 @@ SQ-3 find for Oak Island's own stone and cipher claim.
 derived from the comparator panel, and an applied comparison against Oak
 Island's own claim.
 
+**Update (2026-10-11), the checklist deliverable itself now assembled — see
+`data/sq4-fabrication-signature-checklist.md` and
+`logs/2026-10-11-sq4-consolidated-signature-checklist.md`**: five cycles of comparator and
+background-check research (Beale, Kensington, Dare Stones, Kempton, Snow) existed only scattered
+across six log files; this cycle synthesized them into the one consolidated cross-case document
+this sidequest's own scope has named as a deliverable since the first comparator case was done.
+Pure synthesis, no verdict re-litigated. Surfaces one real cross-case pattern only visible once
+assembled: the "anonymous/misattributed insider chain" signature is the single most-corroborated
+finding in the whole checklist, appearing under three different names across all three
+comparators but tracing to one underlying fact already on file — and the deepest remaining gap
+(a background check on the chain's most proximate anonymous layer) is structurally blocked by
+having no name to check, not just "more checks to run."
+
 **Status (2026-10-04), first comparator case done — see
 `logs/2026-10-04-sq4-beale-ciphers-comparator-case.md`**: the Beale Ciphers (Virginia, 1820s claimed
 origin, 1885 pamphlet) — the single closest documented comparator to Oak Island's own story — give five
