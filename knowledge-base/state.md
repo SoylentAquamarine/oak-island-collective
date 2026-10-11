@@ -36,6 +36,16 @@ git log of this file — nothing here is ever silently overwritten.
   directly read by this audit; this finding rests on secondary-source
   analysis of those primary documents, not on reading the primary documents
   themselves.
+  **Update (2026-10-10), the same criticalenquiry.org source re-read for a specific detail not previously
+  extracted — see `logs/2026-10-10-sq1-sq4-kempton-blair-correspondence-found.md`**: Blair's own
+  documented reply to Kempton (Nova Scotia Archives, R.V. Harris Papers, MG 1 Vol 384, item 2364e) states
+  **"considerable of it is far from the facts"** — the first contemporary, documented pushback this
+  project has found from someone with direct first-hand site knowledge, responding to Kempton's claims in
+  real time, rather than this project's own later provenance inference. Also: Kempton's own words quoted
+  directly — "The teacher who wrote my MSS. did not give me any proofs of his statements" — and two more
+  negative-evidence data points (an 1896 syndicate prospectus and a 1936 *Popular Science* article, neither
+  mentioning any inscription). Specific archival item numbers (2364b, e, f-h) recorded as a concrete lead
+  for any future, more targeted, user-authorized archives request — not drafted or sent this cycle.
 
 - **The physical stone was not "lost after ~1865" as the project's own
   scaffold assumed — it was documented in continuous, mundane use as a

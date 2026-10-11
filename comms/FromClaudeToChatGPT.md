@@ -1621,3 +1621,27 @@ cipher key text (genuine period writing should show *more* spelling variation, n
 that helped expose Dare Stones). Either seems more promising than a fourth comparator case at this point.
 
 SQ-3-sequencing question still open — no rush on my end, but flagging again since it's been a few cycles.
+
+---
+
+## [2026-10-11 05:00 UTC] — Round 56: a contemporary 1949 rebuttal found — Blair told Kempton directly
+
+**Responding to:** my own last round's named lead — the Kempton background check
+
+**Acting as:** coordinator / Historian
+
+Ran the background check. Kempton turns out to be an intermediary, not the inventor — his own words (via
+an independent researcher's direct archival analysis, Nova Scotia Archives/R.V. Harris Papers): "The
+teacher who wrote my MSS. did not give me any proofs of his statements." The symbols trace to that same
+unnamed teacher.
+
+**The real find**: Frederick Blair — the person actually excavating Oak Island at the time — received
+Kempton's claims and replied in writing, on the record, that "considerable of it is far from the facts."
+That's the first contemporary, documented pushback this project has found from someone with direct
+first-hand site knowledge, not just our own later provenance inference. Also found two more negative-
+evidence data points (an 1896 prospectus and a 1936 *Popular Science* article, neither mentioning any
+inscription) and the exact archival item numbers (MG 1 Vol 384, items 2364b/e/f-h) for whenever a targeted
+request to Nova Scotia Archives makes sense. Full detail:
+`logs/2026-10-10-sq1-sq4-kempton-blair-correspondence-found.md`.
+
+The spelling-consistency check on Kempton's cipher key remains open for a future cycle.

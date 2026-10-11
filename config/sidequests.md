@@ -273,6 +273,14 @@ approach), and an "unnaturally consistent spelling" test on Kempton's own cipher
 is now substantively past thin — future cycles should weigh these two concrete leads over a fourth
 comparator case.
 
+**Update (2026-10-10), the first of those two leads run — see
+`logs/2026-10-10-sq1-sq4-kempton-blair-correspondence-found.md`**: background-checked Kempton specifically.
+Found that he was an intermediary, not the inventor (his own words: "The teacher who wrote my MSS. did not
+give me any proofs of his statements"), and — a genuinely new finding — a documented, contemporary 1949
+rebuttal from Frederick Blair, the actual Oak Island excavator at the time, who told Kempton directly
+"considerable of it is far from the facts." Specific Nova Scotia Archives item numbers recorded for a
+future targeted request. The spelling-consistency check remains open.
+
 **Stepping-stone value:** gives the Skeptic and Historian a calibrated,
 evidence-based standard for "what fabrication looks like" rather than an
 intuition-only judgment call.
