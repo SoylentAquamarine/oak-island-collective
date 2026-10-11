@@ -46,6 +46,12 @@ git log of this file — nothing here is ever silently overwritten.
   negative-evidence data points (an 1896 syndicate prospectus and a 1936 *Popular Science* article, neither
   mentioning any inscription). Specific archival item numbers (2364b, e, f-h) recorded as a concrete lead
   for any future, more targeted, user-authorized archives request — not drafted or sent this cycle.
+  **Update (2026-10-11), the popularizer checked too, a genuine null result**: background-checked Edward
+  Rowe Snow, whose 1949 book made Kempton's claim public. No documented criticism, accuracy dispute, or
+  prior-fabrication pattern found anywhere, including a direct fetch of his full Wikipedia article — a real
+  disclosed negative result, not treated as evidence of reliability either way. Closes out the
+  background-check lead with both named figures in the 1949 chain now checked. — 2026-10-11,
+  `logs/2026-10-11-sq4-snow-background-check-negative-result.md`.
 
 - **The physical stone was not "lost after ~1865" as the project's own
   scaffold assumed — it was documented in continuous, mundane use as a

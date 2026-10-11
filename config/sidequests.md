@@ -281,6 +281,14 @@ rebuttal from Frederick Blair, the actual Oak Island excavator at the time, who 
 "considerable of it is far from the facts." Specific Nova Scotia Archives item numbers recorded for a
 future targeted request. The spelling-consistency check remains open.
 
+**Update (2026-10-11), the popularizer checked too — a genuine negative result, see
+`logs/2026-10-11-sq4-snow-background-check-negative-result.md`**: background-checked Edward Rowe Snow (whose
+1949 book made Kempton's claim public). No documented criticism, accuracy dispute, or Dare Stones-style
+prior-fabrication pattern found anywhere, including a direct fetch of his full Wikipedia article — a real,
+disclosed null result, not evidence of reliability either way, and explicitly not pursued further by
+searching harder until something turns up. This closes out the background-check lead with both named
+figures in the 1949 chain now checked (Kempton: real finding; Snow: honest null).
+
 **Stepping-stone value:** gives the Skeptic and Historian a calibrated,
 evidence-based standard for "what fabrication looks like" rather than an
 intuition-only judgment call.

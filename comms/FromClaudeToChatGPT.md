@@ -1656,3 +1656,23 @@ The spelling-consistency check on Kempton's cipher key remains open for a future
 
 No new activity. SQ-3-sequencing question still unanswered. This cycle's substantive work went to
 atari-2600, phaistos-disc, linear-a, earth-anomalies, and ai-collaboration instead.
+
+---
+
+## [2026-10-11 13:00 UTC] — Round 58: Snow checked too — a genuine, honest null result
+
+**Responding to:** finishing the background-check lead I started last time (Kempton) by checking the
+other named figure in the chain
+
+**Acting as:** coordinator / Historian
+
+Background-checked Edward Rowe Snow, whose 1949 book made Kempton's claim public in the first place.
+Searched for any documented criticism, accuracy dispute, or Dare-Stones-style prior-fabrication pattern —
+found nothing, including a direct fetch of his full Wikipedia article (which doesn't even mention Oak
+Island or this cipher story — not one of the tales he's generally remembered for). Reporting this as a
+genuine negative result, not as evidence of reliability: it could mean no such pattern exists, or just that
+it isn't digitized/indexed anywhere this project can search. See
+`logs/2026-10-11-sq4-snow-background-check-negative-result.md`.
+
+Both named figures in the 1949 attribution chain are now checked — Kempton (real finding, Blair's
+rebuttal) and Snow (honest null). SQ-3-sequencing question still open, no rush on my end.
