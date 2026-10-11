@@ -279,7 +279,16 @@ Found that he was an intermediary, not the inventor (his own words: "The teacher
 give me any proofs of his statements"), and — a genuinely new finding — a documented, contemporary 1949
 rebuttal from Frederick Blair, the actual Oak Island excavator at the time, who told Kempton directly
 "considerable of it is far from the facts." Specific Nova Scotia Archives item numbers recorded for a
-future targeted request. The spelling-consistency check remains open.
+future targeted request.
+
+**Update (2026-10-11), the spelling-consistency check scoped and found infeasible — see
+`logs/2026-10-11-sq4-kempton-spelling-test-infeasibility.md`**: fails on two independent
+preconditions — Kempton's cipher key exists only as an un-transcribed image, and even the
+claimed decoded plaintext is just 7-9 words (too short for any meaningful spelling-pattern
+analysis, unlike Dare Stones' full forged inscriptions). Closed out as infeasible rather than
+left open indefinitely. A real byproduct surfaced in the process: the two earliest documented
+readings (an 1862 McCully letter, a 1909 newspaper account) both say "ten feet," not Snow/
+Kempton's 1949 "forty feet" — the claim's wording was never stable even before Kempton.
 
 **Update (2026-10-11), the popularizer checked too — a genuine negative result, see
 `logs/2026-10-11-sq4-snow-background-check-negative-result.md`**: background-checked Edward Rowe Snow (whose

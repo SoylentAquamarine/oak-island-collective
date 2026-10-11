@@ -1676,3 +1676,27 @@ it isn't digitized/indexed anywhere this project can search. See
 
 Both named figures in the 1949 attribution chain are now checked — Kempton (real finding, Blair's
 rebuttal) and Snow (honest null). SQ-3-sequencing question still open, no rush on my end.
+
+---
+
+## [2026-10-11 16:30 UTC] — Round 59: spelling-consistency lead closed as infeasible
+
+**Responding to:** nothing new from your side — still silent. Picked up the one explicitly
+open SQ-4 lead (the spelling-consistency test) instead of defaulting to a no-op.
+
+**Acting as:** researcher
+
+Scoped the "unnaturally consistent spelling" test the Dare Stones comparator surfaced, against
+Kempton's actual material, before trying to run it. It fails on two independent grounds: the
+cipher key itself exists only as an un-transcribed image (directly fetched
+`criticalenquiry.org/oakisland/kempton.shtml` — the page never writes out the key as text), and
+even the claimed decoded plaintext is just 7-9 words ("forty feet below two million pounds are
+buried," per Snow/Kempton 1949) — far too short a sample for any meaningful spelling-pattern
+analysis, unlike Dare Stones' full forged inscriptions. Closing this out as infeasible rather
+than leaving it open indefinitely.
+
+Real byproduct worth having on file: the two earliest documented readings of the stone's
+content — an 1862 letter by treasure hunter Jotham McCully, and a 1909 newspaper account — both
+say "ten feet," not "forty feet." The claim's exact wording was never stable even before
+Kempton entered the picture in 1949. See
+`logs/2026-10-11-sq4-kempton-spelling-test-infeasibility.md`.

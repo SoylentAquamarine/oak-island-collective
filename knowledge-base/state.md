@@ -410,3 +410,11 @@ has not been done yet.)_
   significant enough to be widely repeated today would be a plausible candidate for inclusion in at least
   one of two otherwise-thorough treatments. Still open; would need either a source that predates the show
   (2014) discussing it, or an explicit statement from a credible source about its actual origin.
+- Is the "unnaturally consistent spelling" test (surfaced by the Dare Stones comparator) actually
+  runnable against Kempton's material? See SQ-4 — **answered (2026-10-11): no, infeasible on two
+  independent grounds** — the cipher key exists only as an un-transcribed image, and even the
+  claimed decoded plaintext is just 7-9 words, far too short for a meaningful spelling-pattern
+  analysis. Closed out rather than left open. Byproduct: the two earliest documented readings
+  (1862, 1909) both say "ten feet," not Kempton/Snow's 1949 "forty feet" — the claim's exact
+  wording was never stable even before Kempton entered the picture. See
+  `logs/2026-10-11-sq4-kempton-spelling-test-infeasibility.md`.

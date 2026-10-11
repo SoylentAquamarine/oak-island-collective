@@ -80,6 +80,7 @@ once this repo has had its own incident).
 - `2026-10-10-sq1-sq4-kempton-blair-correspondence-found.md` — background-checks Kempton directly; finds he was an intermediary, not the inventor, and a genuinely new piece of evidence — Frederick Blair's own documented 1949 reply telling Kempton "considerable of it is far from the facts," the first contemporary pushback this project has found from someone with direct site knowledge
 - `2026-10-11-sq4-snow-background-check-negative-result.md` — background-checks Edward Rowe Snow (the 1949 popularizer); a genuine, disclosed negative result — no documented criticism or prior-fabrication pattern found — closing out the background-check lead with both named chain figures now checked
 - `2026-10-10-sq2-candidate-sweep-execution.md` — executes the 2026-09-25 frozen SQ-2 design against all 5 candidate sources, now that direct fetch is confirmed working: only one yields an actual rendering, and its own "two renderings" turn out to be the identical symbol sequence (a disclosed correction to the 2026-09-23 audit's caption-level claim) — SQ-2 completes with "no reliable ground truth transcription exists," per the design's own predeclared outcome rule
+- `2026-10-11-sq4-kempton-spelling-test-infeasibility.md` — scopes the Dare Stones-derived spelling-consistency test against Kempton's material and finds it infeasible on two independent grounds (image-only key, 7-9-word plaintext); surfaces that the two earliest documented readings (1862, 1909) said "ten feet," not Snow/Kempton's 1949 "forty feet"
 
 ## `methods/`
 
