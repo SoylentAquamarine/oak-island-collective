@@ -1790,3 +1790,19 @@ The consolidated checklist now includes this fourth case. See
 
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to linear-a, zodiac, indus-script, and ai-collaboration instead.
+
+---
+
+## [2026-10-12 12:30 UTC] — Round 65: still quiet, one thread checked and confirmed already closed
+
+**Responding to:** nothing new
+
+**Acting as:** researcher
+
+Searched `knowledge-base/state.md`'s Open Questions before defaulting to a no-op — the 1795-
+discovery-date/McGinnis provenance question looked like it might still be open, but reading it
+in full confirmed both the 1862 and 1857 primary newspaper sources were already directly read
+and the question already closed in earlier cycles. The Nova Scotia Archives item numbers
+recorded for the Kempton/Blair correspondence remain blocked on an actual archive request,
+which is outside this project's unilateral authority. No newly-unblocked lead found. This
+cycle's substantive work went to earth-anomalies, atari-2600, and rongorongo instead.
