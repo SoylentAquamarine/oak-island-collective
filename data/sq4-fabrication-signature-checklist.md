@@ -36,6 +36,15 @@ cross-case pattern visible once assembled.
 | A direct, self-incriminating confession-level artifact | **No equivalent found — an informative disanalogy, not a miss**: Oak Island's problems are structural/provenance-based, never a confession, unlike Dare Stones' own extortion-attempt collapse | same |
 | A genuinely unresolved partial exception within a debunked series | **A useful calibration parallel, not directly applicable**: Oak Island's own unresolved status is an evidentiary vacuum (nothing checkable), a different kind of "unresolved" than a contested test result | same |
 
+## Comparator 4 — the Horn Papers (1933-1945) — scope note: a frontier-history fabrication, not a treasure-legend case strictly
+
+| Signature | Verdict against Oak Island's record | Source |
+|---|---|---|
+| Anachronistic language/phrasing (search-synthesis tier only, not Wikipedia-confirmed) | **Not yet checkable** — Oak Island's own stone inscription was never reliably transcribed | `2026-10-12-sq4-horn-papers-fourth-comparator.md` |
+| Physical/chemical dating evidence (ink, watermark, "aging") | **Structurally foreclosed, a real disanalogy** — Oak Island's stone is lost; no physical object survives for any forensic test | same |
+| A staged "confirming discovery" (1936 lead plates planted at a location the papers predicted) | **A loose, partial parallel** — Oak Island's own 1894/1949 promotional moments lent credibility similarly, but neither involves a planted physical artifact the way Horn's lead plates did | same |
+| Forger's identity settled but motive genuinely unresolved | **A real calibration point, not a direct match** — the inverse of Oak Island's situation (neither identity nor motive settled); a reminder that even a fully "solved" case can leave real unanswered questions | same |
+
 ## Named-individual background checks (distinct from the comparator panel itself)
 
 | Individual | Role in the chain | Result | Source |
@@ -43,7 +52,7 @@ cross-case pattern visible once assembled.
 | A.T. Kempton | Intermediary who supplied the symbols/cipher key to Snow | **Real finding** — Kempton was an intermediary, not the inventor, by his own words; Frederick Blair's contemporary 1949 rebuttal ("considerable of it is far from the facts") is the first documented pushback found from someone with direct site knowledge | `2026-10-10-sq1-sq4-kempton-blair-correspondence-found.md` |
 | Edward Rowe Snow | Popularizer whose 1949 book made the claim public | **Honest null result** — no documented criticism, accuracy dispute, or prior-fabrication pattern found anywhere, including his full Wikipedia article | `2026-10-11-sq4-snow-background-check-negative-result.md` |
 
-## The cross-case pattern, visible only once assembled
+## The cross-case pattern, visible only once assembled (updated 2026-10-12 to include Comparator 4)
 
 - **Convenient promotional timing** and **commercial monetization** each recur as real matches
   across multiple independent comparators (Kensington + Oak Island's own 1894/1949 record).
@@ -60,3 +69,7 @@ cross-case pattern visible once assembled.
   anonymous layer (the schoolteacher, the "Irish instructor") has no name, so it cannot be
   background-checked the way Kempton and Snow were — this is not the same as "two down, more to
   go."
+- **A new calibration point from Comparator 4**: the Horn Papers show a fully "solved" case
+  (forger's identity settled) can still leave its own motive genuinely unexplained — a reminder
+  that Oak Island's unresolved status (identity *and* motive both unsettled) is a difference of
+  degree from a known baseline, not an inherently more suspicious category of unresolved.

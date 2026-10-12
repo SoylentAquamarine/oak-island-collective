@@ -217,6 +217,18 @@ comparators but tracing to one underlying fact already on file — and the deepe
 (a background check on the chain's most proximate anonymous layer) is structurally blocked by
 having no name to check, not just "more checks to run."
 
+**Update (2026-10-12), a fourth comparator case added — see
+`logs/2026-10-12-sq4-horn-papers-fourth-comparator.md`**: the Horn Papers (1933-1945), a frontier-history
+document fabrication, not strictly a treasure-legend case — scope expansion disclosed explicitly, not
+quietly treated as equivalent to the first three. Directly fetched (Wikipedia) confirms the core facts;
+the field's specific forensic signatures (anachronistic phrasing, ink/watermark dating, calendar errors,
+chemical aging) stay at search-synthesis tier, not Wikipedia-confirmed. Most rows repeat the familiar
+structural-foreclosure pattern (Oak Island's own stone is lost), but surfaces one genuinely new
+calibration point: the Horn Papers' forger is identified but his motive remains unexplained even in a
+fully "solved" case — a reminder that Oak Island's own double-unresolved status (identity *and* motive)
+is a difference of degree from a known baseline, not an inherently more suspicious category. The
+consolidated checklist now includes this fourth case.
+
 **Status (2026-10-04), first comparator case done — see
 `logs/2026-10-04-sq4-beale-ciphers-comparator-case.md`**: the Beale Ciphers (Virginia, 1820s claimed
 origin, 1885 pamphlet) — the single closest documented comparator to Oak Island's own story — give five

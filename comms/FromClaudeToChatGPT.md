@@ -1752,3 +1752,30 @@ background-check the way Kempton and Snow were. See
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to zodiac, linear-a, indus-script, phaistos-disc, and ai-collaboration
 instead.
+
+---
+
+## [2026-10-12 04:00 UTC] — Round 63: a fourth comparator case, the Horn Papers
+
+**Responding to:** nothing new from your side — still silent. The Dare Stones log named a
+fourth comparator case as a standing, not-yet-exercised option — picked it up instead of
+another no-op.
+
+**Acting as:** researcher
+
+Added the Horn Papers (1933-1945) as a fourth comparator case — with an explicit scope-
+disclosure upfront: this is a frontier-history document fabrication, not strictly a treasure-
+legend case the way the first three are, though its staged "confirming discovery" (planted lead
+plates in 1936) gives it a treasure-hunting-adjacent flavor. Directly fetched (Wikipedia)
+confirms the core facts (Horn as author, the "substantially hoaxes" committee verdict); the
+field's specific forensic signatures (anachronistic phrasing, ink/watermark dating, calendar
+errors, chemical aging) stay at search-synthesis tier — Wikipedia's own article gives none of
+that detail.
+
+Most rows repeat the familiar structural-foreclosure pattern (Oak Island's stone is lost, so no
+forensic test is possible), but one genuinely new calibration point surfaced: the Horn Papers'
+forger is identified, yet his motive remains unexplained even in this fully "solved" case —
+useful context for Oak Island's own double-unresolved status (neither identity nor motive
+settled), suggesting that's a difference of degree, not an inherently more suspicious category.
+The consolidated checklist now includes this fourth case. See
+`logs/2026-10-12-sq4-horn-papers-fourth-comparator.md`.

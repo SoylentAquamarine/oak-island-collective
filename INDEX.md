@@ -83,6 +83,7 @@ once this repo has had its own incident).
 - `2026-10-10-sq2-candidate-sweep-execution.md` — executes the 2026-09-25 frozen SQ-2 design against all 5 candidate sources, now that direct fetch is confirmed working: only one yields an actual rendering, and its own "two renderings" turn out to be the identical symbol sequence (a disclosed correction to the 2026-09-23 audit's caption-level claim) — SQ-2 completes with "no reliable ground truth transcription exists," per the design's own predeclared outcome rule
 - `2026-10-11-sq4-kempton-spelling-test-infeasibility.md` — scopes the Dare Stones-derived spelling-consistency test against Kempton's material and finds it infeasible on two independent grounds (image-only key, 7-9-word plaintext); surfaces that the two earliest documented readings (1862, 1909) said "ten feet," not Snow/Kempton's 1949 "forty feet"
 - `2026-10-11-sq4-consolidated-signature-checklist.md` — assembles SQ-4's own long-pending deliverable (a cross-case signature checklist) from five cycles of scattered comparator/background-check research; pure synthesis, surfaces the three-fold convergence on the anonymous-insider-chain fact and the structural (not just incomplete) nature of the remaining background-check gap
+- `2026-10-12-sq4-horn-papers-fourth-comparator.md` — adds a fourth comparator case (the Horn Papers, 1933-1945), with an explicitly disclosed scope expansion (frontier-history fabrication, not strictly treasure-legend); surfaces a new calibration point — a settled forger identity with a still-unexplained motive
 
 ## `methods/`
 

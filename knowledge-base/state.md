@@ -427,3 +427,9 @@ has not been done yet.)_
   across all three comparators but traces to one underlying fact already on file, and the
   deepest remaining gap (background-checking the chain's most proximate anonymous layer) is
   structurally blocked by having no name to check, not simply more background-checking to do.
+  **Update (2026-10-12)**: a fourth comparator case added, the Horn Papers (1933-1945) — a frontier-
+  history document fabrication, scope-expansion disclosed since it's not strictly a treasure-legend
+  case. Most signature rows repeat the familiar structural-foreclosure pattern (stone lost), but a
+  genuinely new calibration point surfaced: the forger's identity is settled yet his motive remains
+  unexplained even in this fully "solved" case — useful context for Oak Island's own double-unresolved
+  status. See `logs/2026-10-12-sq4-horn-papers-fourth-comparator.md`.
