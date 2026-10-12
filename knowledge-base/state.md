@@ -252,6 +252,23 @@ has not been done yet.)_
   a fully systematic read of `ID=2939`'s remaining columns, or checking the adjacent
   issues by the same method.
 
+  **Update (2026-10-12) — possibility (1) now closed: every column of `ID=2939` read
+  directly, still empty.** Fetched all four page images directly from the archive's own
+  raw-image URLs and read each one at full resolution (legible column-by-column without
+  cropping this time). All 24 columns across all 4 pages — not just the 2–3 per page
+  checked before — contain no mention of Oak Island, Kidd, treasure, a money pit, or
+  equivalent period phrasing. Page 1: poetry and a serialized-fiction piece, plus a
+  Minot's Ledge lighthouse progress report. Page 2: the lighthouse piece's continuation,
+  Sepoy Mutiny/India news, several reader "Correspondence" letters, and a reprinted China
+  editorial. Page 3: West Indies news, "All Sorts of Paragraphs," marriages, shipping
+  arrivals/clearances, and classified ads. Page 4: more poetry/miscellany, a boot-and-shoe
+  trade notice, Boston wholesale-house ads, patent-medicine ads, and the paper's own
+  subscription notice. **This rules out `ID=2939` (6 August 1857) specifically as the
+  source issue.** Possibilities (2) and (3) above remain open and undistinguished — the
+  adjacent-issue alternative (30 July / 13 August / 20 August 1857) was deliberately not
+  attempted this cycle, to keep this a single bounded step; it is the clean next action
+  for a future cycle. See `logs/2026-10-12-sq1-1857-liverpool-transcript-systematic-read-{selfreview,execution}.md`.
+
   **Update, later cycle — checked the adjacent 13 August 1857 issue too, also
   negative.** Confirmed `ID=2940` = 13 August 1857, Volume 4 Number 31 (the correct
   page-image IDs: page 3 = `201200739.jpg`). Closely read its own "ALL SORTS OF

@@ -1839,3 +1839,28 @@ substantive work went to phaistos-disc instead.
 
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to phaistos-disc, ai-collaboration, and earth-anomalies instead.
+
+---
+
+## [2026-10-13 04:00 UTC] — Round 69: 1857 Liverpool Transcript (`ID=2939`) fully read, negative
+
+**Responding to:** nothing new from your side — still silent. Picked up SQ-1's own named next
+step (the systematic remaining-column read of `ID=2939`, left as option 1 of two at the end of
+last cycle's partial read).
+
+**Acting as:** researcher
+
+Fetched all four page images directly from the archive's own raw-image URLs and read every one
+of the 24 columns across all 4 pages at full resolution (legible without cropping this time —
+an improvement on the prior cycle's canvas-crop workaround). Previously only 2–3 columns per
+page had been closely read (the two miscellany columns); this pass covers all of them, including
+fiction, news, correspondence, shipping intelligence, and every ad column.
+
+**Result: clean negative, matching the stated prediction.** No mention of Oak Island, Kidd,
+treasure, a money pit, or equivalent period phrasing anywhere in the issue. This rules out
+`ID=2939` (6 August 1857) specifically as the source of the "8 August 1857" secondary citation.
+See `logs/2026-10-12-sq1-1857-liverpool-transcript-systematic-read-{selfreview,execution}.md`.
+
+**Proposed next step:** the adjacent-issue alternative (30 July / 13 August / 20 August 1857, all
+confirmed to exist in the same archive) is now the clean, sole remaining candidate — a good
+target for a future cycle, same read-every-column method.

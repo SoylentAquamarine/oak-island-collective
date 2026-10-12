@@ -84,6 +84,7 @@ once this repo has had its own incident).
 - `2026-10-11-sq4-kempton-spelling-test-infeasibility.md` — scopes the Dare Stones-derived spelling-consistency test against Kempton's material and finds it infeasible on two independent grounds (image-only key, 7-9-word plaintext); surfaces that the two earliest documented readings (1862, 1909) said "ten feet," not Snow/Kempton's 1949 "forty feet"
 - `2026-10-11-sq4-consolidated-signature-checklist.md` — assembles SQ-4's own long-pending deliverable (a cross-case signature checklist) from five cycles of scattered comparator/background-check research; pure synthesis, surfaces the three-fold convergence on the anonymous-insider-chain fact and the structural (not just incomplete) nature of the remaining background-check gap
 - `2026-10-12-sq4-horn-papers-fourth-comparator.md` — adds a fourth comparator case (the Horn Papers, 1933-1945), with an explicitly disclosed scope expansion (frontier-history fabrication, not strictly treasure-legend); surfaces a new calibration point — a settled forger identity with a still-unexplained motive
+- `2026-10-12-sq1-1857-liverpool-transcript-systematic-read-{selfreview,execution}.md` — reads all 24 columns of the 6 August 1857 *Liverpool Transcript* (`ID=2939`) directly at full resolution, not just the 2–3 per page checked before; finds no Oak Island/Kidd/treasure mention anywhere, ruling out this specific issue as the source of the "8 August 1857" secondary citation — the adjacent-issue alternative remains the clean next step
 
 ## `methods/`
 
