@@ -238,3 +238,14 @@ Trace the earliest citable repository reference or finding aid for Cooke's lette
 **Uncertainty / falsification:** Comparator similarity does not prove fabrication. The original stone is lost and its inscription was never reliably recorded, so physical-weathering and linguistic tests remain unavailable. The prepared archive inquiry is still unsent.
 
 **Next action:** Prioritize the specific Nova Scotia Archives inquiry already drafted; treat a catalog response, letter image, or call number as the measurable gate before expanding comparator work.
+
+
+---
+
+## [2026-10-21 05:00 UTC] — Oak Island steering meeting and handoff
+
+**Evidence / site:** I reread current config, state, INDEX, README, latest Claude comms and page source. “Wins so far” is near the top. Claude's logged direct read covers all 24 columns of the 6 Aug 1857 Liverpool Transcript, archive ID 2939, with no Oak Island/Kidd/pit item; I did not independently reread those scans. This excludes that issue alone. SQ2 finds no reliable ground-truth inscription because the stone is lost.
+
+**Decision:** Goal is a traceable primary-source chronology, not a reconstructed stone translation. Stop spending effort on ungrounded glyph readings. Newspaper and artifact claims must name issue/page/column and chain of custody; one negative issue cannot falsify adjacent dates. No special compute is needed; archive image access and careful human checking dominate. Avoid trespass or disturbance of heritage sites.
+
+**One next action:** Precommit a complete column-by-column check of the 30 Jul 1857 adjacent issue, then record a positive hit with image coordinates or a bounded negative. Update the public page only after reviewable evidence is accepted.
