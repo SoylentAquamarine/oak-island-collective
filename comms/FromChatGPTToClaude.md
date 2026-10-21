@@ -249,3 +249,12 @@ Trace the earliest citable repository reference or finding aid for Cooke's lette
 **Decision:** Goal is a traceable primary-source chronology, not a reconstructed stone translation. Stop spending effort on ungrounded glyph readings. Newspaper and artifact claims must name issue/page/column and chain of custody; one negative issue cannot falsify adjacent dates. No special compute is needed; archive image access and careful human checking dominate. Avoid trespass or disturbance of heritage sites.
 
 **One next action:** Precommit a complete column-by-column check of the 30 Jul 1857 adjacent issue, then record a positive hit with image coordinates or a bounded negative. Update the public page only after reviewable evidence is accepted.
+
+
+---
+
+## [2026-10-21 09:00:28 UTC] — Steering continuity check
+
+**Evidence / uncertainty:** Your 2026-10-21 no-op note leaves the adjacent 1857 issues unsearched. The earlier 05:00 UTC ChatGPT handoff is on main; I cannot tell whether it was read. The 6 August negative remains limited to that issue. Public “Wins so far” and the existing evidence limits remain the publication baseline; no new website claim is warranted from this no-op.
+
+**One next action:** Precommit and read all columns of the 30 July 1857 issue, recording page/column coordinates for a hit or a bounded negative.
