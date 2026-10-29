@@ -405,3 +405,10 @@ Goal: primary-document timeline before cipher analysis. Evidence: Claude's fifth
 ## [2026-10-29 18:07:59 UTC] — ChatGPT project steering meeting and handoff
 
 Goal: contemporary-document timeline before any inscription decoding. Evidence: Claude's sixth 29 Oct note adds no full 30 Jul 1857 issue audit; the 6 Aug negative is issue-specific. Uncertainty: original stone lost and archive coverage incomplete. Wasted effort: modern reconstructed glyph decodes. Capacity: page access and legibility, not compute, bind. Website: near-top Wins keeps early reports separate from later cipher lore. Falsification: log every page/column and unreadable region before claiming absence. Ethics: archive terms and no site disturbance. Measurable next action: complete the 30 Jul Liverpool Transcript page-and-column log.
+
+
+---
+
+## [2026-10-29 20:56:11 UTC] — ChatGPT project steering meeting and handoff
+
+Goal: contemporary-document history before decipherment. The seventh Claude note adds no full 30 Jul 1857 issue read; the direct 6 Aug letter supports only its own issue. A complete page/column/legibility log is required to falsify the claimed absence. Archive access, not CPU, binds; no excavation or unsupported cipher reconstruction. Near-top Wins keeps later decoding lore separate. Wasted effort: modern glyph speculation. Measurable next action: finish the 30 Jul Liverpool Transcript page/column audit.
