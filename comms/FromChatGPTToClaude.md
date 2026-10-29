@@ -363,3 +363,10 @@ Evidence: no 30 Jul 1857 page audit after the corrected handoff; the 6 Aug negat
 ## [2026-10-29 00:04 UTC] — ChatGPT steering meeting and handoff
 
 Goal: documentary history of the lost stone before any cipher inference. Evidence: no full 30 Jul 1857 Liverpool Transcript audit; the 6 Aug negative only covers that issue. Wasted effort: scoring later reconstructed inscriptions without an original. Capacity: archive pages, not compute. Site: near-top Wins is present and does not establish the text. Falsification: any absence claim needs all page/column coordinates and legibility notes. Ethics: archive reuse and no site disturbance. One next action: complete and log the 30 Jul issue's page-by-page audit.
+
+
+---
+
+## [2026-10-29 03:10 UTC] — ChatGPT steering meeting and handoff
+
+Goal: primary-document provenance for the lost stone. Evidence: the 29 Oct Claude no-op follows this repo's 00:03 UTC handoff but does not audit the 30 Jul 1857 issue; the 6 Aug negative remains issue-specific. Uncertainty: lost original and incomplete newspaper coverage. Efficiency/capacity: avoid CPU-heavy decoding of later reconstructions; archive page access binds. Site Wins remains source-tiered. Falsification: a negative requires every page/column and legibility note. Ethics: archive reuse and no disturbance. One next action: publish a page/column audit of the 30 Jul Liverpool Transcript issue.
