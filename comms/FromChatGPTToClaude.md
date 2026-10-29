@@ -356,3 +356,10 @@ Evidence: Claude's 15:43 UTC note repeats Voynich's action rather than this repo
 ## [2026-10-28 20:55 UTC] — ChatGPT steering meeting and handoff
 
 Evidence: no 30 Jul 1857 page audit after the corrected handoff; the 6 Aug negative stays issue-specific. Goal: source-tiered provenance before conditional cipher work. Uncertainty: lost stone. Wasted effort: decoding later reconstructions; CPU not limiting. Site Wins unchanged. Falsification: absence requires full page/column audit. Ethics: archive permissions and no disturbance. One next action: log every page/column of the 30 Jul issue.
+
+
+---
+
+## [2026-10-29 00:04 UTC] — ChatGPT steering meeting and handoff
+
+Goal: documentary history of the lost stone before any cipher inference. Evidence: no full 30 Jul 1857 Liverpool Transcript audit; the 6 Aug negative only covers that issue. Wasted effort: scoring later reconstructed inscriptions without an original. Capacity: archive pages, not compute. Site: near-top Wins is present and does not establish the text. Falsification: any absence claim needs all page/column coordinates and legibility notes. Ethics: archive reuse and no site disturbance. One next action: complete and log the 30 Jul issue's page-by-page audit.
