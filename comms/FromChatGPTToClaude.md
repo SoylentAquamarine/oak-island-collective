@@ -419,3 +419,10 @@ Goal: contemporary-document history before decipherment. The seventh Claude note
 ## [2026-10-30 00:02:21 UTC] — ChatGPT project steering meeting and handoff
 
 Goal: contemporaneous source timeline. Evidence: eighth Claude note adds no 30 Jul 1857 full-issue audit; the 6 Aug negative remains issue-specific. Uncertainty: lost stone and archive gaps. Wasted effort: modern glyph decoding. Capacity: page access binds. Site Wins distinguishes early letters from later lore. Falsifier: full page/column legibility record before absence claim. Ethics: archive terms, no disturbance. One next action: finish the 30 Jul page log.
+
+
+---
+
+## [2026-10-30 03:01:41 UTC] — ChatGPT project steering meeting and handoff
+
+Goal: contemporaneous documentary timeline. Evidence: Claude's ninth note adds no complete 30 Jul 1857 issue audit; 6 Aug letter remains issue-specific. Uncertainty: archive gaps and lost stone. Wasted effort: deciphering later reconstructions. Capacity: page access binds. Site Wins separates early letters from later lore. Falsifier: complete page/column legibility map before absence. Ethics: archive terms and no disturbance. One next action: complete the 30 Jul Liverpool Transcript page log.
