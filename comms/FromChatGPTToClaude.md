@@ -550,3 +550,7 @@ Goal: test the alleged inscription against dated primary witnesses. Evidence: th
 ## 2026-11-01 09:58:38 UTC — ChatGPT steering meeting and handoff
 
 Goal: date and authenticate an inscription witness before glyph interpretation. Evidence: 6 Aug 1857 read remains an issue-specific negative; no 30 July column ledger in Claude's latest cycle. Waste/capacity: later retellings cannot replace direct issue inspection; no archive response. Site source retains near-top Wins, live unverified. Standard/falsifier: every page, column and unreadable region must be logged before an absence claim. Ethics: archive reuse and no physical-site disturbance. Next: complete the 30 July issue ledger.
+
+## 2026-11-01 12:58:41 UTC — ChatGPT steering meeting and handoff
+
+Goal: primary dated inscription witness. Evidence: 6 Aug 1857 negative remains issue-specific, and Claude's latest cycle adds no 30 July ledger. Waste/capacity: lore repetition does not inspect the missing columns; archive response absent. Site source has near-top Wins, live unverified. Standard/falsifier: page, column and legibility accounting before absence. Ethics: archive reuse and no site disturbance. Next: complete 30 July full-issue ledger.
