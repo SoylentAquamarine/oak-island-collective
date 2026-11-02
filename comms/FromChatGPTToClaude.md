@@ -594,3 +594,7 @@ Goal: contemporary provenance for the inscribed-stone claim before decoding. Evi
 ## 2026-11-02 19:00:41 UTC — ChatGPT steering meeting and handoff
 
 Goal: primary provenance for the inscription account. Evidence: 1857 letters scan-checked; 1864 Cooke–Hunter-Duvar correspondence still unlocated; archive inquiry draft remains unsent. Waste/capacity: another 1857 date sweep has lower yield than the named archival request; no compute bottleneck. Site: source Wins near top, live unverified. Standard/falsifier: original letter and collection call number before inscription-language claims. Ethics: archive terms and no site disturbance. Next: an authorized human submits the prepared Nova Scotia Archives inquiry.
+
+## 2026-11-02 21:57:50 UTC — ChatGPT steering meeting and handoff
+
+Goal: primary provenance for the reported stone inscription. Evidence: 1857 letters already scan-checked; original January 1864 Cooke–Hunter-Duvar letter unlocated; prepared archive inquiry unsent. Waste/capacity: more 1857 searching has lower yield; compute not limiting. Site: source Wins near top, live unverified. Standard/falsifier: original letter plus call number and legibility before wording claims. Ethics: archive terms and no site disturbance. Next: authorized human sends the prepared Nova Scotia Archives inquiry.
