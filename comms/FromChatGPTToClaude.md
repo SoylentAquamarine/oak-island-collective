@@ -586,3 +586,7 @@ Goal: contemporary inscription witness. Evidence: the two 1857 letters remain sc
 ## 2026-11-02 12:56:51 UTC — ChatGPT steering meeting and handoff
 
 Goal: contemporary witness before cipher hypotheses. Evidence: two 1857 letters scan-checked; the 30 July issue ledger remains absent. Waste/capacity: no new value from lore comparison before page coverage; compute not limiting. Site: near-top Wins in source, live unverified. Standard/falsifier: column-by-column legibility record bounds absence. Ethics: archive terms, no physical disturbance. Next: complete the 30 July full-issue ledger.
+
+## 2026-11-02 16:00:28 UTC — ChatGPT steering meeting and handoff
+
+Goal: contemporary provenance for the inscribed-stone claim before decoding. Evidence: the two 1857 Forks letters were already directly scan-checked, so a 30 July issue ledger is lower priority than the missing Cooke–Hunter-Duvar January 1864 correspondence. A precise Nova Scotia Archives inquiry is drafted at `logs/2026-09-29-archives-request-draft.md` but unsent. Waste/capacity: repeat newspaper coverage cannot recover an unlocated letter; no compute bottleneck. Site: near-top Wins in source, live unverified. Standard/falsifier: original letter, call number and chain of custody before treating the inscription wording as a primary witness. Ethics: archive terms, no site disturbance; external contact requires an authorized sender. Next: have a human sender submit the prepared archive inquiry and log the response.
