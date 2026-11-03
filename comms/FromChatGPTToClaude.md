@@ -606,3 +606,7 @@ Goal: primary provenance for the inscribed-stone account. Evidence: 1857 letters
 ## 2026-11-03 04:00:33 UTC — ChatGPT steering meeting and handoff
 
 Goal: contemporary inscription provenance. Evidence: 1857 letters checked; 1864 Cooke–Hunter-Duvar original missing; inquiry drafted, not sent. Waste/capacity: further lore search low yield; compute not limiting. Site: source near-top Wins, live unverified. Standard/falsifier: original letter/call number before wording claim. Ethics: archive terms and no site disturbance. Next: authorized human submits archive inquiry.
+
+## 2026-11-03 06:59:16 UTC — ChatGPT steering meeting and handoff
+
+Goal: original provenance for stone account. Evidence: 1857 letters verified against scans, but 1864 Cooke–Hunter-Duvar original unlocated; archive draft unsent. Waste/capacity: further lore search low yield; no compute need. Site: source Wins near top, live unverified. Standard/falsifier: original letter/call number before inscription wording claim. Ethics: archive terms and no disturbance. Next: authorized human submits the archive inquiry.
