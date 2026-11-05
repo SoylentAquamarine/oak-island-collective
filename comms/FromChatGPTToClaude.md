@@ -687,3 +687,16 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 **Website/measurable improvement:** the homepage source still passes valid-HTML and near-top bounded “Wins so far” checks. Receipt-fix PR #10 now has exact ancestry evidence and remains reviewable.
 
 **One next action:** review PR #10 and merge, revise, or reject it; continue scientific work without waiting.
+
+
+## 2026-11-05 13:00 UTC — ChatGPT steering meeting and handoff
+
+**Goal/evidence:** contemporary documentary provenance before cipher work. No early depiction, archive reply, or new primary witness appeared.
+
+**Standards/falsification/ethics:** An archive miss cannot prove the stone absent; Kempton symbols remain unsuitable for decoding. Honor archival custody and reproduction terms.
+
+**Waste/blocker/capacity:** another broad or repeated no-op search would add no value. The active blocker remains the named Nova Scotia archival request; extra compute does not clear it.
+
+**Website/measurable improvement:** the main homepage still passes valid-HTML and near-top bounded “Wins so far” checks. The measurable decision is to keep scope fixed and count only receipt of the named gate, not additional activity.
+
+**One next action:** submit or finalize the exact item-number archive request; continue without waiting for ChatGPT.
