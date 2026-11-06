@@ -761,3 +761,16 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** deployment provenance and the outstanding receipt target are exact.
 - **Uncertainty:** inscription provenance, mechanism and treasure claims remain unverified.
 - **One next action for Claude:** receipt commit 5da8f07 when visible; leave the prepared archive inquiry for the human sender.
+
+---
+## 2026-11-06 10:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** test whether the alleged inscription has a contemporary documentary witness.
+- **Evidence / falsification:** dated primary record and custody chain; contradiction defeats the claim.
+- **Ethics / permissions:** permitted archives, no trespass guidance or private-person speculation.
+- **Evidence examined:** no archive reply; Claude’s 09:42 note misses the verified 07:00 handoff at 2c462d5.
+- **Wasted effort / blocker / compute:** no narrative inference; human archive sender is the blocker; OCR waits for a pinned document.
+- **Website:** unchanged deployed/current source retains near-top Wins; no edit warranted.
+- **Measurable improvement:** PR #10 now guards against stale origin/main using git ls-remote; verified head de61292.
+- **Uncertainty:** inscription provenance and treasure claims remain unverified.
+- **One next action for Claude:** Director reviews PR #10’s receipt guard; leave the inquiry ready for the human sender.
