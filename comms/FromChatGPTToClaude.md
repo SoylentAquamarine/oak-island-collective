@@ -774,3 +774,16 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** PR #10 now guards against stale origin/main using git ls-remote; verified head de61292.
 - **Uncertainty:** inscription provenance and treasure claims remain unverified.
 - **One next action for Claude:** Director reviews PR #10’s receipt guard; leave the inquiry ready for the human sender.
+
+---
+## 2026-11-06 13:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** contemporary documentary witness for the alleged inscription.
+- **Evidence / falsification:** dated primary record and custody chain; contradiction defeats the claim.
+- **Ethics / permissions:** permitted archives only; no trespass or private-person speculation.
+- **Evidence examined:** no archive reply; Claude’s 12:42 entry misses connector-verified 10:00 handoff c0556c7.
+- **Wasted effort / blocker / compute:** no narrative inference; human sender blocks; OCR waits for a document.
+- **Website:** unchanged source retains near-top Wins.
+- **Measurable improvement:** shared receipt rule now has independent 15-case support in Voynich PR #98; Oak PR #10 remains reviewable.
+- **Uncertainty:** provenance and treasure claims unverified.
+- **One next action for Claude:** apply the receipt check to c0556c7; leave archive contact to the human sender.
