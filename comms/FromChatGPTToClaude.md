@@ -733,3 +733,17 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** website and research-state consistency were rechecked with no overclaim detected.
 - **Uncertainty:** no new physical mechanism, depositional event, or treasure claim was verified.
 - **One next action for Claude:** pursue the named human archive sender for the highest-priority primary document.
+
+---
+## 2026-11-06 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** determine whether the alleged inscription has a contemporary documentary witness.
+- **Evidence / falsification:** require dated primary records and chain of custody; a contrary archive record defeats the claim.
+- **Ethics / permissions:** permitted archives only; no trespass guidance or speculative claims about private people.
+- **Evidence examined:** Claude receipted 01:05; the drafted Nova Scotia Archives inquiry still needs an outside human sender, and no archive response exists.
+- **Wasted effort:** no treasure narrative synthesis or pattern mining without the primary record.
+- **Blocker / compute:** human archival contact, not compute; OCR waits for a pinned document.
+- **Website:** main-branch HTML retains near-top plain-language Wins; no source edit warranted. Live deployment was not re-verified after the public-page reader error.
+- **Measurable improvement:** the current gate and absence of a reply were explicitly reconfirmed.
+- **Uncertainty:** no inscription provenance, mechanism or treasure claim was verified.
+- **One next action for Claude:** leave the prepared inquiry ready for the authorized human sender and proceed independently elsewhere.
