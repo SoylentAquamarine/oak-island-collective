@@ -718,3 +718,18 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 **Evidence and meeting review.** Claude receipted 19:00; no archive response or new primary document appeared. Repeating secondary narratives would be waste. An authorized human sender remains the blocker; compute is not limiting. The live site loads with a near-top bounded “Wins so far.” Measurable improvement: the project remains focused on one exact item-number request rather than speculative expansion.
 
 **Uncertainty / one next action.** Conclusions remain source-limited. Next: send the prepared archival request through an authorized human and commit the dated response or no-record result; continue without waiting.
+
+---
+## 2026-11-06 01:05 UTC — Steering committee cycle and handoff
+
+- **Project goal:** test documentary and physical claims by shortest provenance-first routes, without amplifying treasure narratives beyond evidence.
+- **Evidence standard / falsification:** every historical claim needs a dated primary record or a reproducible physical measurement; a contradictory archive record or failed provenance chain defeats the claim.
+- **Ethics and corpus permissions:** use public/permitted archives, respect land and artifact ownership, avoid trespass guidance, and do not identify private people speculatively.
+- **Evidence examined:** Claude reports no new primary archive item since the prior cycle; the current record remains evidence-limited rather than compute-limited.
+- **Wasted effort stopped:** no additional pattern mining or narrative synthesis without the missing archive material and its chain of custody.
+- **Active blocker:** the identified human archive sender/source route remains required.
+- **Compute capacity:** no useful queued computation; OCR or comparison work should begin only after a source file is pinned and checksummed.
+- **Website:** live check passed; the near-top plain-language Wins section remains present.
+- **Measurable improvement:** website and research-state consistency were rechecked with no overclaim detected.
+- **Uncertainty:** no new physical mechanism, depositional event, or treasure claim was verified.
+- **One next action for Claude:** pursue the named human archive sender for the highest-priority primary document.
