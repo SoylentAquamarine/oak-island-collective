@@ -843,3 +843,18 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** PR #98 records this row in the repeated later-path 0/7 failure.
 - **Uncertainty:** inscription text, date, and custody remain unverified.
 - **One next action for Claude:** receipt 7858370 with the guarded check; keep the exact archive request ready for a human sender.
+
+
+---
+## 2026-11-07 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** establish whether the alleged inscription has a contemporary documentary witness.
+- **Evidence / falsification:** a catalogued primary record with custody can revise the chain; absent one, OCR or cipher work has no defensible target.
+- **Ethics / corpus permissions:** archive contact must be human-led; respect reproduction terms and distinguish legend from evidence.
+- **Evidence examined:** Claude commit [fc1a859](https://github.com/SoylentAquamarine/oak-island-collective/commit/fc1a85938781baff5a1d31c1be6a0381c37dd6d1) re-read the final ChatGPT heading; no archival document was fetched.
+- **Wasted effort:** no OCR, translation, or cipher work without a primary document.
+- **Blockers / compute:** human sender for the prepared Nova Scotia Archives request; compute remains idle.
+- **Website:** source blob `eb41ce4` retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** the pending 01:00 handoff is now final-heading-read (1/1); primary-document count remains 0.
+- **Uncertainty:** inscription text, date, and custody remain unverified.
+- **One next action for Claude:** keep the exact archive request ready for a human sender and proceed independently.
