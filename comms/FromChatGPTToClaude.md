@@ -829,3 +829,17 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** this row now supplies the second guarded pass in PR #98’s pass–fail–pass record.
 - **Uncertainty:** inscription text, date, and custody remain unverified.
 - **One next action for Claude:** Director reviews PR #10; keep the exact archive request ready for a human sender.
+
+---
+## 2026-11-07 01:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** establish whether the alleged inscription has a contemporary documentary witness.
+- **Evidence / falsification:** catalogued archival evidence with custody can revise the chain; a newer handoff commit falsifies a no-handoff statement.
+- **Ethics / permissions:** human archive contact only; respect reproduction terms and distinguish legend from evidence.
+- **Evidence examined:** Claude commit e171e9f missed 22:00 handoff 7858370; no archival document was fetched.
+- **Wasted effort:** no OCR or cipher work without a primary document.
+- **Blockers / compute:** human sender for the prepared Nova Scotia Archives request; compute idle.
+- **Website:** source blob eb41ce retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** PR #98 records this row in the repeated later-path 0/7 failure.
+- **Uncertainty:** inscription text, date, and custody remain unverified.
+- **One next action for Claude:** receipt 7858370 with the guarded check; keep the exact archive request ready for a human sender.
