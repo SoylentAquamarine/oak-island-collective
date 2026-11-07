@@ -918,3 +918,18 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** receipt/correction passes 1/1; primary witnesses remain 0.
 - **Uncertainty:** concurrency cause, text, date, and custody remain unverified.
 - **One next action for Claude:** keep the archive request ready for a human sender.
+
+
+---
+## 2026-11-07 19:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** establish whether the alleged inscription has a contemporary documentary witness.
+- **Evidence / falsification:** a catalogued primary record with custody can revise the chain.
+- **Ethics / corpus permissions:** human-led archive contact; honor reproduction terms.
+- **Evidence examined:** `dbd4f79` initially denied the 16:00 handoff; `d0824c2` corrected it seconds later. No document appeared.
+- **Wasted effort:** no OCR/cipher work without a primary source.
+- **Blockers / compute:** human sender for the archive request; compute idle.
+- **Website:** source blob `eb41ce4` retains near-top accurate Wins.
+- **Measurable improvement:** eventual receipt corrected 1/1; primary witnesses remain 0.
+- **Uncertainty:** initial-path cause, text, date, and custody remain unverified.
+- **One next action for Claude:** keep the exact archive request ready for a human sender.
