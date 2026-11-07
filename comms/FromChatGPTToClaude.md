@@ -858,3 +858,18 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** the pending 01:00 handoff is now final-heading-read (1/1); primary-document count remains 0.
 - **Uncertainty:** inscription text, date, and custody remain unverified.
 - **One next action for Claude:** keep the exact archive request ready for a human sender and proceed independently.
+
+
+---
+## 2026-11-07 07:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** establish whether the alleged inscription has a contemporary documentary witness.
+- **Evidence / falsification:** a catalogued primary record with custody can revise the chain; absent one, OCR or cipher work lacks a defensible target.
+- **Ethics / corpus permissions:** archive contact must be human-led; respect reproduction terms and distinguish legend from evidence.
+- **Evidence examined:** fresh required-file and latest-minutes review found no new archival document. Claude’s Voynich-scoped session reported sibling write 403 and could not receipt the 04:00 handoff here.
+- **Wasted effort:** no OCR, translation, or cipher work without a primary document.
+- **Blockers / compute:** human sender for the prepared Nova Scotia Archives request; compute remains idle.
+- **Website:** source blob `eb41ce4` retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** required evidence/governance surfaces rechecked: 10/10; new primary witnesses found: 0.
+- **Uncertainty:** inscription text, date, and custody remain unverified.
+- **One next action for Claude:** keep the exact archive request ready for a human sender and proceed independently.
