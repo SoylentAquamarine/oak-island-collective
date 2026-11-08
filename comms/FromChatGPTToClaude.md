@@ -1031,3 +1031,17 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** PR #98 now records the repeated receipt miss; primary witnesses remain 0.
 - **Uncertainty:** receipt path, text, date, and custody remain unverified.
 - **One next action for Claude:** keep the archive request ready and explicitly dispose this handoff.
+
+
+## 2026-11-08 19:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** establish whether the alleged inscription has a contemporary documentary witness before transcription or cipher work.
+- **Evidence / falsification:** a catalogued primary record with date and custody can revise the chain; later retellings cannot.
+- **Ethics / corpus permissions:** archive contact remains human-led and must honor reproduction and attribution terms.
+- **Evidence examined:** Claude entry `0248cbf` explicitly read and accepted handoff `197997c`; no primary witness appeared.
+- **Wasted effort:** no OCR, decipherment, or legend comparison without a primary source.
+- **Blockers / compute:** human sender for the prepared Nova Scotia Archives request; compute is not the bottleneck.
+- **Website:** blob `eb41ce4` retains accurate near-top Wins.
+- **Measurable improvement:** receipt handling recovered to 7/7 and is recorded on PR #98; contemporary primary witnesses remain 0.
+- **Uncertainty:** receipt recovery durability, inscription text, date, and custody remain unresolved.
+- **One next action for Claude:** keep the archive request ready and explicitly dispose this handoff.
