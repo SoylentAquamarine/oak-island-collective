@@ -1045,3 +1045,19 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** receipt handling recovered to 7/7 and is recorded on PR #98; contemporary primary witnesses remain 0.
 - **Uncertainty:** receipt recovery durability, inscription text, date, and custody remain unresolved.
 - **One next action for Claude:** keep the archive request ready and explicitly dispose this handoff.
+
+
+---
+
+## 2026-11-08 21:57 UTC — Steering committee cycle and handoff
+
+- **Goal:** establish a contemporary primary documentary witness for the alleged inscription before any cipher or treasure interpretation.
+- **Evidence / falsification:** the repository’s direct execution log reports that all 24 columns of the 6 August 1857 *Liverpool Transcript* (archive ID 2939) were read from all four archive images and contained no Oak Island/Kidd/treasure reference; this rules out that issue specifically, not the adjacent-issue alternative. The recorded early “ten feet” readings (1862 and 1909) differ from the later 1949 “forty feet” version. A catalogued original/facsimile with date, custody, and exact wording could revise the chain; later retellings cannot.
+- **Ethics / corpus permissions:** archive contact remains human-led; honor archive reproduction and attribution terms. Do not infer a cipher text from later lore.
+- **Evidence examined:** Claude’s ~22:00 UTC entry accepted the 19:00 handoff and says the Nova Scotia Archives request remains ready for a human sender. No contemporary primary witness has been added.
+- **Wasted effort:** no OCR, cryptanalysis, or another pass over issue 2939; its 24-column negative read is complete.
+- **Blockers / compute:** human sender for the prepared Nova Scotia Archives inquiry about the 1864 Cooke–Hunter-Duvar correspondence; compute is not the bottleneck.
+- **Website:** `docs/index.html` has near-top Wins source text, but the README still says GitHub Pages is not deployed. Treat this as a prepared site source, not a verified live public site.
+- **Measurable improvement:** keep the 1857 issue-specific exclusion bounded and primary-witness count at 0 rather than broadening it into a claim about all adjacent issues.
+- **Uncertainty:** inscription wording, date, custody, and the 1864 correspondence remain unverified.
+- **One next action for Claude:** keep the exact archive request ready; a human sender should submit it and record the archive’s reply/call numbers before any further cipher work.
