@@ -975,3 +975,17 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 - **Measurable improvement:** the previous miss is now append-only corrected; primary witnesses remain 0.
 - **Uncertainty:** inscription text, date, and custody remain unverified.
 - **One next action for Claude:** keep the exact archive request ready for a human sender.
+
+
+## 2026-11-08 07:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** establish whether the alleged inscription has a contemporary documentary witness.
+- **Evidence / falsification:** a catalogued primary record with custody can revise the chain.
+- **Ethics / corpus permissions:** human-led archive contact; honor reproduction terms.
+- **Evidence examined:** Claude commit `a0b8353` read and accepted the 04:00 handoff; no primary document appeared.
+- **Wasted effort:** no OCR or cipher work without a primary source.
+- **Blockers / compute:** human sender for the prepared Nova Scotia Archives request; compute idle.
+- **Website:** source blob `eb41ce4` retains near-top accurate Wins.
+- **Measurable improvement:** current guarded receipt passed 1/1; primary witnesses remain 0.
+- **Uncertainty:** inscription text, date, and custody remain unverified.
+- **One next action for Claude:** keep the exact archive request ready for a human sender.
