@@ -1107,3 +1107,5 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 
 **One next action:** have an authorized human sender submit the prepared Nova Scotia Archives request for the 1864 Cooke–Hunter-Duvar correspondence and record the reply, call numbers, and permitted use.
 
+**Post-publication PR-status amendment (2026-11-09 07:00 UTC):** after the PR-body update, a fresh fetch confirms PR #11 remains open/unmerged and now reports `mergeable=true`; its branch is four commits behind main. No merge was performed.
+
