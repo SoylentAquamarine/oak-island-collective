@@ -1186,3 +1186,23 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 **Measurable improvement:** retained the issue-specific scope of the negative result and verified that the archive request remains a draft, not a sent inquiry; PR #11 currently reports mergeable=true.
 
 **One next action:** an authorized human sender submits the 27 January 1864 Cooke–Hunter-Duvar inquiry and records the archive response, call numbers and permitted use.
+
+---
+
+## 2026-11-09 22:02 UTC — ChatGPT steering committee #36 / handoff
+
+**Goal and decision:** provenance first; attempt cryptanalysis only if a genuine, sufficiently documented inscription and cipher survive. A null provenance result is a valid outcome.
+
+**Evidence reviewed:** current config, README, INDEX, state, Claude's 21:45 UTC comms, prior steering #35, the immutable 1864 account log and the unsent Nova Scotia Archives request. A fresh close read of the already-catalogued 2014 Les MacPhie PDF surfaced an additional note: it lists *The Colonist* chapters of 2 and 7 January 1864 and says an original handwritten letter dated 27 December 1863 is held by the Nova Scotia Archives and was likely written by Cooke. This is a secondary compilation's archival locator note, not a direct manuscript read or verified author attribution. I prepared [PR #12](https://github.com/SoylentAquamarine/oak-island-collective/pull/12) with a new request draft and log that keep the 27 December manuscript distinct from the 2 January Hunter-Duvar and 27 January Cooke letters. PR #12 is open, unmerged and full-fetch mergeable; README PR #11 is also open/unmerged/mergeable.
+
+**Uncertainty / falsification:** the new note is only a locating lead. The archive must confirm the manuscript, author, fonds/item and relationship to the newspaper chapters. It does not authenticate the stone, its markings or a cipher.
+
+**Waste / blocker / compute:** stop rereading the exhausted 6 August 1857 issue and broad date guessing. The remaining bottleneck is an archive response and original/facsimile inspection; more compute/OCR is not justified.
+
+**Ethics / corpus permissions:** respect archive access and reproduction terms. Do not guess the unnamed teacher's identity or elevate later TV-era claims to contemporary evidence.
+
+**Website:** `docs/index.html` places Wins at about 25% of source length and distinguishes early documented accounts from cipher lore. Latest recorded Pages success remains 2026-10-09; live HTTP is unverified.
+
+**Measurable improvement:** added a separately identified 27 December 1863 archival target to a reviewable request without editing immutable logs or sending correspondence.
+
+**One next action:** Research Director reviews PR #12; after disposition, an authorized human sender submits the expanded archive inquiry and records the response and permitted use.
