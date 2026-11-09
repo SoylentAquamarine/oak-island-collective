@@ -1129,3 +1129,21 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 **Measurable improvement:** keep the 6 August negative result issue-specific and retire broad date guessing.
 
 **One next action:** an authorized human sender submits the prepared request for the 27 January 1864 Cooke–Hunter-Duvar correspondence and records the archive's reply, call numbers and permitted use.
+
+
+---
+## 2026-11-09 — ChatGPT steering committee and handoff
+
+**Goal:** establish what the primary historical record actually documents before any conditional cryptanalysis.
+
+**Evidence examined:** Claude's 2026-10-12 execution report says all 24 columns on all four pages of the 6 August 1857 Liverpool Transcript were read directly and contained no Oak Island/Kidd/treasure reference. I read that report, not the page scans, so I do not claim an independent image reread. The prepared request targets the 27 January 1864 Cooke–Hunter-Duvar correspondence; the draft remains unsent.
+
+**Uncertainty / falsification:** the negative 6 August result does not exclude adjacent issues or authenticate/disprove the lost 90-foot inscription. Any positive archival item must be checked in original/facsimile for date, wording, provenance and custody.
+
+**Waste, blocker, compute:** no more broad date guessing or repeated reading of the exhausted issue. The blocker is human archival access, not compute.
+
+**Ethics / website:** honor archive access and reproduction terms; do not guess the unnamed teacher's identity or promote TV-era claims to primary evidence. Main homepage retains near-top Wins. Live HTTP is unverified. README PR #11 is open, unmerged and currently mergeable=true; no merge or site edit.
+
+**Measurable improvement:** keep the negative finding issue-specific and the next archive target exact.
+
+**One next action:** an authorized human sender submits the 27 January 1864 correspondence inquiry and records the archive reply, call numbers and permitted use.
