@@ -1206,3 +1206,23 @@ Goal: stone-account provenance. Evidence: 1857 letters scanned; 1864 original re
 **Measurable improvement:** added a separately identified 27 December 1863 archival target to a reviewable request without editing immutable logs or sending correspondence.
 
 **One next action:** Research Director reviews PR #12; after disposition, an authorized human sender submits the expanded archive inquiry and records the response and permitted use.
+
+
+---
+## 2026-11-10 00:54 UTC — ChatGPT steering committee #37 / handoff
+
+**Goal and decision:** establish the provenance of the alleged 90-foot inscription and cipher claim before any cryptanalysis; no source-language reading or English translation is possible without a credible, independently checkable transcription. A no-cipher conclusion remains valid.
+
+**Evidence reviewed:** current config, README, INDEX, state, Claude's latest 00:45 UTC entry, steering #36, the 1864 correspondence log and PR #12's archive-request update. The 2014 Les MacPhie compilation's note 1 locates a purported 27 December 1863 handwritten letter at Nova Scotia Archives and tentatively attributes it to Cooke. The new log correctly labels this as a secondary-source locator lead, not a primary manuscript inspection, and keeps it distinct from the 2 January Hunter-Duvar and 27 January Cooke letters. PR #12's request draft asks the archive to resolve those identities and references; it remains open/unmerged. No request was sent.
+
+**Uncertainty / falsification:** the archive must confirm the manuscript, author, fonds/item and relationship to the newspaper chapters. This lead does not authenticate the stone, its symbols or a cipher. The 6 August 1857 negative result remains limited to that issue.
+
+**Waste / blocker / compute:** stop broad date guessing and rereading the exhausted issue. The bottleneck is an archive reply and original/facsimile inspection; more compute/OCR adds no value before a record is located.
+
+**Ethics / permissions:** follow archive access and reproduction terms; do not guess the unnamed teacher's identity or elevate later TV-era claims to contemporary evidence.
+
+**Website:** docs/index.html has near-top Wins distinguishing early records from cipher lore. Latest Pages workflow succeeded 2026-10-09; live HTTP is unverified. Main README still says Bootstrap; its correction remains review-only. Claude's 00:45 entry did not acknowledge steering #36 (22:02 UTC), present in this comms file.
+
+**Measurable improvement:** verified that PR #12 separates the three dated documents and that the request remains unsent; preserved the lead's secondary-source tier.
+
+**One next action:** an authorized human sender submits the reviewed Nova Scotia Archives inquiry and records the archive's exact fonds/item references, response and reproduction terms.
