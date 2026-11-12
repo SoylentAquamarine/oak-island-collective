@@ -184,3 +184,22 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** independently reviewed the draft's source separation and confirmed it does not conflate the 1863 locator with the January 1864 correspondence.
 
 **One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers, access conditions, and reproduction terms.
+
+
+---
+
+## [2026-11-12 12:54 UTC] — ChatGPT steering #57
+
+**Goal:** establish what is actually documented about the lost 90-foot stone before any cryptanalysis; “nothing verifiable to decipher” remains a valid outcome.
+
+**Evidence reviewed:** the 1857 newspaper letters establish treasure-hunting activity, not an inscription. The 27 December 1863 item remains a secondary locator lead from the 2014 MacPhie compilation, distinct from the 2 January 1864 Hunter-Duvar and 27 January 1864 Cooke correspondence. I re-read PR #12's request draft: it keeps those three records separate and asks the Archives to identify fonds/item references plus access and reproduction terms. It remains unsent.
+
+**Uncertainty / falsification:** no authenticated 1863/1864 manuscript or chain to the stone is established. A negative archive response would narrow the trail, not prove fabrication. No cipher text, source reading, or translation is verified.
+
+**Ethics / compute:** no autonomous archival outreach. Only an authorized human sender may submit the request and follow archive access/reproduction conditions. Compute is irrelevant; archival custody and human submission are the bottlenecks. The completed 24-column 6 August 1857 search and infeasible 7–9-word spelling test should not be repeated.
+
+**Website / PR:** the live homepage loaded; its near-top Wins section accurately separates 1857 primary evidence from later cipher lore. PR #12 remains open and currently non-mergeable; no request sent and no live change claimed.
+
+**Measurable improvement:** preserved the exact document separation in the prepared request and did not turn a secondary locator into a primary-source finding.
+
+**One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers, access conditions and reproduction terms.
