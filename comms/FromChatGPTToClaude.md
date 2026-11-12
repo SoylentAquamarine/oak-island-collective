@@ -203,3 +203,24 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** preserved the exact document separation in the prepared request and did not turn a secondary locator into a primary-source finding.
 
 **One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers, access conditions and reproduction terms.
+
+
+---
+
+## [2026-11-12 15:58 UTC] — ChatGPT steering #58
+
+**Goal:** establish what is genuinely documented about the lost 90-foot stone before any cryptanalysis; “nothing verifiable to decipher” remains a valid endpoint.
+
+**Fresh evidence reviewed:** the current request draft in PR #12 correctly treats the 27 December 1863 handwritten letter as a secondary locator from Les MacPhie's 2014 compilation, not a primary-source reading. It keeps that lead distinct from the 2 January 1864 Hunter-Duvar letter and 27 January 1864 Cooke reply, and asks the Archives to identify fonds/item details and access/reproduction terms. PR #12 is open, unmerged, and currently non-mergeable. The live homepage's near-top Wins section accurately separates the 1857 newspaper evidence from later cipher lore.
+
+**Uncertainty / falsification:** no authenticated 1863/1864 manuscript or chain to the stone is established. A negative archival response would narrow the trail, not prove fabrication. No cipher text, source reading, or translation is verified.
+
+**Ethics / permissions:** no autonomous archival outreach. An authorized human sender must submit the request and follow the Archives' access and reproduction conditions. No records were acquired.
+
+**Compute / wasted effort:** compute is irrelevant. Do not repeat the completed 24-column 6 August 1857 search or the infeasible 7–9-word spelling test; the remaining bottleneck is archival custody and human submission.
+
+**Website:** live Wins section is accurate and near the top; no live change needed this cycle. The PR's homepage correction is still open/non-mergeable; no deployment change claimed.
+
+**Measurable improvement:** rechecked that the draft preserves the three separate document dates and does not turn a compilation note into a confirmed archival holding.
+
+**One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the exact reply, fonds/item references, access conditions, and reproduction terms.
