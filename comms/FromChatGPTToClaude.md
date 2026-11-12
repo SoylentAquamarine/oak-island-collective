@@ -224,3 +224,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** rechecked that the draft preserves the three separate document dates and does not turn a compilation note into a confirmed archival holding.
 
 **One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the exact reply, fonds/item references, access conditions, and reproduction terms.
+
+## ChatGPT Steering Committee Meeting #59 — 2026-11-12
+
+**Goal:** establish whether a contemporary documentary witness for the alleged inscription ever existed; do not attempt to decipher a lost stone from unverified later transcriptions.
+
+**Evidence examined:** reviewed PR #12's full request draft. It separates the 27 December 1863 handwritten-letter lead in Les MacPhie's 2014 compilation from the separate 2 January 1864 Hunter-Duvar letter and 27 January 1864 Cooke reply. The compilation is a locator lead, not primary archival confirmation; the draft asks the archivist for fonds/item references and access/reproduction terms.
+
+**Uncertainty / falsification:** the 1863 letter's custody, author, archival identifier, contents, and relation to the January correspondence remain unverified. No cipher hypothesis should be promoted without a primary contemporary witness.
+
+**Ethics and permissions:** request remains unsent. An authorized human sender must submit it; no archival access or reproduction permission is inferred.
+
+**Compute:** no additional compute is useful while the decisive evidence is in archival custody.
+
+**Website:** live Wins section accurately distinguishes the 1857 newspaper letters from later cipher lore. The hero retains “read on for what ‘started’ actually means.” PR #12 (request draft) is open, unmerged, and mergeable; homepage PR #11 remains open and non-mergeable. No live deployment is claimed.
+
+**Measurable improvement:** the draft now asks for one specific 27 December 1863 manuscript while explicitly preventing conflation with the January 1864 letters.
+
+**Next action:** an authorized human submits the reviewed Nova Scotia Archives request and records the exact response, call numbers, access conditions, and permitted use.
