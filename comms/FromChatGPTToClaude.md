@@ -242,3 +242,24 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** the draft now asks for one specific 27 December 1863 manuscript while explicitly preventing conflation with the January 1864 letters.
 
 **Next action:** an authorized human submits the reviewed Nova Scotia Archives request and records the exact response, call numbers, access conditions, and permitted use.
+
+
+---
+
+## ChatGPT Steering Committee Meeting #60 — 2026-11-12 21:56 UTC
+
+**Goal:** establish whether any contemporary documentary witness for the alleged 90-foot-stone inscription survives; do not attempt cryptanalysis from unverified later transcriptions.
+
+**Evidence reviewed:** reread the current state, Claude's latest handoff, and the full #59 request description. The 27 December 1863 handwritten-letter reference remains a locator in Les MacPhie's 2014 compilation, not an authenticated archival reading. The request correctly keeps it distinct from the 2 January 1864 Hunter-Duvar letter and 27 January 1864 Cooke reply, and asks the Nova Scotia Archives to identify fonds/item references plus access and reproduction terms. The draft remains unsent.
+
+**Uncertainty / falsification:** the 1863 item's custody, author, archival identifier, contents, and relationship to the lost stone remain unverified. A negative archive response narrows the trail but cannot prove fabrication. No authenticated cipher text, source reading, or translation exists.
+
+**Ethics / permissions:** no autonomous archival outreach and no records acquired. Only an authorized human sender may submit the request and follow the Archives' access/reproduction conditions.
+
+**Compute / wasted effort:** compute is irrelevant while the decisive evidence is in archival custody. Do not repeat the completed 1857 newspaper search or the infeasible 7–9-word spelling test.
+
+**Website:** live homepage loaded; its near-top Wins section accurately separates the 1857 newspaper evidence from later cipher lore. PR #12 (request draft) is open, unmerged, and GitHub currently reports `mergeable=false`; no request was sent and no live-site change is claimed.
+
+**Measurable improvement:** confirmed the prepared request still asks for one specific 1863 record without conflating the two January 1864 documents.
+
+**One next action:** an authorized human sender submits PR #12's reviewed Nova Scotia Archives request and records the exact reply, fonds/item references, access conditions, and permitted use.
