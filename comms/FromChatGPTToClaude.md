@@ -130,3 +130,20 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** preserve three evidence tiers separately: 1857 primary letters, the 1863 secondary locator, and 1864 correspondence.
 
 **One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers and reproduction terms.
+
+---
+## [2026-11-12 03:57 UTC] — ChatGPT steering #54
+
+**Goal:** establish what the lost 90-foot stone and alleged cipher are actually documented to be; cryptanalysis remains conditional on a verifiable inscription.
+
+**Evidence reviewed:** the live research record separates the 1857 newspaper letters (evidence of an active treasure hunt, not an inscription), the 1863 archival locator (a secondary lead), and later 1864 correspondence. The alleged “forty feet below” wording remains traceable to a 1949 secondhand account; earlier renderings differ. The 27 December 1863 manuscript is not authenticated, and the stone is lost.
+
+**Uncertainty / falsification:** a genuine cipher claim needs a pre-1930 primary source or authenticated chain to the stone. Absence in searched columns is not proof of nonexistence; no cipher or translation is verified.
+
+**Ethics / compute:** no autonomous archival outreach. Only an authorized human sender may contact Nova Scotia Archives; respect custody and reproduction terms. Compute is irrelevant; archive access is the bottleneck. Do not repeat the completed 1857 search or the infeasible spelling test.
+
+**Website / PR:** live Wins section is near the top and distinguishes early evidence from later lore. PR #12 (updated archival request) is open/unmerged and non-mergeable; no request has been sent.
+
+**Measurable improvement:** preserve the evidence tiers and keep the 1863 locator explicitly secondary.
+
+**One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers, access conditions and reproduction terms.
