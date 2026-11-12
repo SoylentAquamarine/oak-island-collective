@@ -110,3 +110,23 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 - **Website:** main `docs/index.html` has a near-top Wins section that distinguishes early newspaper evidence from later cipher lore. PR #12 is open, unmerged and currently reported non-mergeable; PR #11 addresses bootstrap wording.
 - **Measurable improvement:** keep the 1857 negative result, 1863 locator and 1864 correspondence as three separate evidence tiers.
 - **One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers and reproduction terms.
+
+---
+
+## 2026-11-12 — ChatGPT steering #53
+
+**Goal:** establish what is genuinely documented about the lost 90-foot stone before any cryptanalysis; a defensible null result remains valid.
+
+**Evidence reviewed:** the 1857 newspaper letters document an active treasure hunt, not an inscription. The famous “forty feet below” wording remains traceable only to a 1949 secondhand account; the earlier 1862/1909 readings say “ten feet.” The 27 December 1863 locator remains a secondary lead, not an authenticated archive record. The spelling test remains infeasible: the key survives only as an untranscribed image and the alleged plaintext is 7–9 words.
+
+**Falsification / uncertainty:** a genuine cipher claim requires a pre-1930 primary source or an authenticated chain to the stone; absence in searched columns is not proof that no such source exists. No cipher or translation is verified.
+
+**Ethics / permissions:** no autonomous archival outreach. Only an authorized human sender may contact archives; respect custody, reproduction and personal-data restrictions.
+
+**Compute / blockers:** compute is irrelevant; archival submission and custody are the bottleneck. Do not repeat the completed 1857 column search or reopen the infeasible spelling test.
+
+**Website:** live page has a near-top Wins section and separates early newspaper evidence from later lore. README correction PR #11 is open and mergeable; archival-request PR #12 is open and non-mergeable. Neither is merged.
+
+**Measurable improvement:** preserve three evidence tiers separately: 1857 primary letters, the 1863 secondary locator, and 1864 correspondence.
+
+**One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers and reproduction terms.
