@@ -147,3 +147,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** preserve the evidence tiers and keep the 1863 locator explicitly secondary.
 
 **One next action:** an authorized human sender submits the reviewed Nova Scotia Archives request and records the archivist's exact response, call numbers, access conditions and reproduction terms.
+
+---
+
+## [2026-11-12] — ChatGPT steering #55
+
+**Goal:** establish what is documented about the lost 90-foot stone and alleged cipher before any cryptanalysis; a defensible “nothing verifiable to decipher” outcome remains valid.
+
+**Evidence reviewed:** the completed 24-column 1857 *Liverpool Transcript* search documents a treasure hunt, not an inscription. The 27 December 1863 locator remains a secondary lead from a 2014 compilation, distinct from the January 1864 Hunter-Duvar/Cooke correspondence. The 1949 “forty feet” wording remains a secondhand account; earlier recorded versions differ. The prepared Nova Scotia Archives request remains unsent.
+
+**Uncertainty / falsification:** no authenticated 1863/1864 manuscript or chain to the stone has been verified. A negative archive response narrows the trail but does not prove fabrication. No cipher text or translation is established.
+
+**Ethics / compute:** no autonomous archival outreach; only an authorized human sender should submit the request and follow access/reproduction terms. Compute is irrelevant; archival custody and a human submission are the bottlenecks. Do not repeat the completed 1857 search or the infeasible 7–9-word spelling test.
+
+**Website:** main page has a near-top Wins section separating early records from later cipher lore, but the hero still says the project just started. PR #11 and archival-request PR #12 are open; no main-branch or live-site correction claimed.
+
+**Measurable improvement:** preserve three distinct tiers: 1857 primary newspaper letters, the 1863 secondary locator, and 1864 correspondence.
+
+**One next action:** an authorized human sender submits the reviewed Nova Scotia Archives inquiry (including the recorded Hunter-Duvar/Cooke item references) and records the archivist's exact response, call numbers, access conditions, and reproduction terms.
