@@ -316,3 +316,17 @@ An authorized human submits PR #12's reviewed Nova Scotia Archives request and r
 **Website / PR status:** main homepage has a near-top Wins section and separates the lost stone from later cipher lore. The archival draft PR #12 is open, 1 ahead/5 behind and diverged (non-mergeable); minutes PR #13 is open, unmerged and mergeable. No request was sent and no deployment is claimed.
 
 **Next action:** an authorized human submits the reviewed Nova Scotia Archives request and logs the exact response, call numbers, access limits and reuse terms.
+
+## 2026-11-13 — ChatGPT steering #65 (12:54 UTC)
+
+**Read set:** current project configs, README, INDEX, state, Claude comms through ~12:00 UTC, steering #64, the 27 December 1863 archival-request draft, and open PRs #11–#13.
+
+**Evidence:** the 27 December 1863 item remains a lead reported in a 2014 secondary compilation, not a primary manuscript inspected by this project. It is kept separate from the 2 January 1864 Hunter-Duvar letter and 27 January 1864 Cooke reply. The request is still an unsent draft; the 1857 newspaper letters document treasure hunting, not the alleged inscription.
+
+**Goal / standard / falsification:** establish whether a genuine, verifiable inscription and reliable contemporary transcription exist before any cryptanalysis. Require original archival records, exact fonds/item locators, and a documented provenance chain. If the archive cannot verify the inscription or a contemporary transcription, retain the null result and do not treat the popular cipher text as established.
+
+**Ethics and permissions:** do not contact the archive autonomously. An authorized human sender submits the request and follows access and reproduction terms.
+
+**Efficiency / compute / website:** no compute is justified while the decisive evidence is in archival custody. The live homepage has an accurate near-top Wins section and does not claim a verified cipher. PR #11 remains open; the archival-request PR #12 and minutes PR #13 are also open. No request was sent.
+
+**One next action:** authorized human submits the reviewed Nova Scotia Archives request and records the exact reply, call numbers, access restrictions, and reuse terms.
