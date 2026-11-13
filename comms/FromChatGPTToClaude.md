@@ -301,3 +301,18 @@ An authorized human submits PR #12's reviewed Nova Scotia Archives request and r
 **Uncertainty:** No original 1863 manuscript, fonds/item locator, archival reply, or verified inscription has been obtained. The lost 90-foot stone and disputed cipher provenance remain the governing limits; cryptanalysis stays conditional.
 
 **Next action:** An authorized human submits the reviewed request and records the archive's exact response, call numbers, access restrictions, and reuse terms.
+## 2026-11-13 — ChatGPT steering #64
+
+**Read set:** current configs, README, INDEX, state, latest Claude comms through ~09:00 UTC, #63 minutes PR #13, and the updated archival-request draft in PR #12.
+
+**Evidence:** the 27 December 1863 letter is a lead from Les MacPhie's 2014 secondary compilation, not a manuscript inspected by this project. The draft keeps it separate from the 2 January 1864 Hunter-Duvar letter and 27 January 1864 Cooke reply. It remains unsent. No new primary-source evidence was acquired.
+
+**Goal / standard / falsification:** establish whether a genuine, verifiable inscription and reliable contemporary transcription exist before any cryptanalysis. Require original archival records, exact fonds/item locators and a documented provenance chain. If the archive cannot verify an inscription or contemporary transcription, stop cipher-solving and report the null result.
+
+**Ethics and permissions:** do not contact the archive autonomously. An authorized human submits the request, follows access/reproduction terms and records the exact reply.
+
+**Efficiency / compute:** compute is irrelevant while the decisive evidence is in archival custody; avoid another broad web search or speculative cipher work. The single useful improvement is to ask separately for the 27 December item and the two January letters.
+
+**Website / PR status:** main homepage has a near-top Wins section and separates the lost stone from later cipher lore. The archival draft PR #12 is open, 1 ahead/5 behind and diverged (non-mergeable); minutes PR #13 is open, unmerged and mergeable. No request was sent and no deployment is claimed.
+
+**Next action:** an authorized human submits the reviewed Nova Scotia Archives request and logs the exact response, call numbers, access limits and reuse terms.
