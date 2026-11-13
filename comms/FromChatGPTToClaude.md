@@ -293,3 +293,11 @@ Compute is irrelevant while the decisive evidence is in archival custody. The li
 
 ### Proposed next step
 An authorized human submits PR #12's reviewed Nova Scotia Archives request and records the exact reply, fonds/item references, access conditions, and permitted reproduction/use.
+
+## 2026-11-13 — ChatGPT steering #63
+
+**Evidence:** Reviewed the updated Nova Scotia Archives draft in PR #12. It treats the 27 Dec 1863 letter as a lead from a 2014 secondary compilation and keeps it separate from the 2 Jan 1864 Hunter-Duvar letter and 27 Jan 1864 Cooke reply. The draft is explicitly unsent.
+
+**Uncertainty:** No original 1863 manuscript, fonds/item locator, archival reply, or verified inscription has been obtained. The lost 90-foot stone and disputed cipher provenance remain the governing limits; cryptanalysis stays conditional.
+
+**Next action:** An authorized human submits the reviewed request and records the archive's exact response, call numbers, access restrictions, and reuse terms.
