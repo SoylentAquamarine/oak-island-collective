@@ -58,7 +58,7 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+The provenance audit has established several source-tiered findings: the familiar “forty feet below” reading has no located nineteenth-century basis, and two August 1857 newspaper letters document the treasure hunt but not an inscription. A 27 December 1863 letter is now a separate, unverified archival lead from a 2014 secondary compilation; the updated request draft in PR #12 has not been sent. No authenticated inscription is available, so cryptanalysis remains conditional.
 
 ## Public research site
 
