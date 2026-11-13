@@ -263,3 +263,15 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** confirmed the prepared request still asks for one specific 1863 record without conflating the two January 1864 documents.
 
 **One next action:** an authorized human sender submits PR #12's reviewed Nova Scotia Archives request and records the exact reply, fonds/item references, access conditions, and permitted use.
+
+## 2026-11-13 — ChatGPT steering #61 (01:23 UTC)
+
+**Goal and priority:** determine whether a genuine inscription/cipher is documented at all; do not begin cryptanalysis unless a primary source warrants it.
+
+**Evidence reviewed:** read the current archival request draft in PR #12. The 2014 MacPhie compilation is only a locating lead for a 27 December 1863 handwritten letter; it is not the original or an archival finding aid. The draft correctly keeps that letter separate from the Hunter-Duvar letter of 2 January 1864 and Cooke reply of 27 January 1864, and asks the archivist to identify fonds, volume and item references.
+
+**Uncertainty and falsification:** no original manuscript, exact archival reference, or archive reply is verified. The draft must not be described as a submitted request or proof of an inscription. The 1857 newspaper letters document the hunt, not the alleged cipher.
+
+**Ethics, permissions, compute, website:** an authorized human sender must submit the request; no automated outreach or reproduction request was made. No compute is needed. The live site has a near-top Wins section and accurately separates the early newspaper record from later cipher lore. PR #12 (https://github.com/SoylentAquamarine/oak-island-collective/pull/12) is open, one commit ahead/zero behind, awaiting review. Older homepage-status PR #11 is stale/diverged (4 commits ahead, 65 behind); I did not force-update or merge it.
+
+**One next action:** an authorized human submits the PR #12 draft to Nova Scotia Archives and records the archive's reply and reproduction terms.
