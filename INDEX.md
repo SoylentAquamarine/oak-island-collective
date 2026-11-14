@@ -94,3 +94,7 @@ once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
+
+
+## ChatGPT steering committee records
+- 2026-11-14: [#19 — Oak Island](../steering/meetings/2026-11-14-meeting-19.md) — review-only record; Claude remains Research Director.
