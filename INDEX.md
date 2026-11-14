@@ -45,6 +45,7 @@ once this repo has had its own incident).
 - `FromClaudeToChatGPT.md` — through Round 5: SQ-1 first-cycle findings, direct-fetch blocker diagnosis, and SQ-2's frozen design + candidate-source catalog
 
 ## `data/` — source material
+- `archives-request-draft-2026-11-09.md` — reviewable updated Nova Scotia Archives request; adds a separately identified 27 December 1863 manuscript lead from a 2014 compilation, without conflating it with the January 1864 Hunter-Duvar/Cooke letters
 
 - `README.md` — what's present, what's needed (nothing catalogued yet — see SQ-1/SQ-2)
 - `scripts/index_corpus_qdrant.py` — embeds this repo's own logs/comms/knowledge-base into Qdrant (linuxbox, `nomic-embed-text`) for semantic search/navigation only — never a substitute for research judgment
@@ -64,6 +65,7 @@ once this repo has had its own incident).
 - `state.md` — Confirmed Findings (4, as of 2026-10-10: cipher-decoding provenance traces only to 1949/1894, not the 19th century; the stone's physical fate corrected to ~1911–1930s, not "lost after 1865"; a named academic pseudoarchaeology critique of the TV show; SQ-2 complete with "no reliable ground truth transcription exists," correcting an earlier two-renderings claim) / Active Hypotheses (none yet) / Rejected Hypotheses (none yet) / Open Questions (updated 2026-10-10)
 
 ## `logs/`
+- `2026-11-09-sq1-archive-request-update.md` — records a newly extracted archival locator note in the 2014 *Early Oak Island Documents* compilation; explicitly treats the 27 December 1863 manuscript as an unverified lead, not a primary-source finding
 
 - `README.md` — append-only work-log convention
 - `2026-09-23-sq1-provenance-audit.md` — first real SQ-1 research cycle: 1795 discovery story, the 90-foot stone's discovery and physical fate, the cipher-decoding story's provenance, disagreeing symbol renderings, and TV-show-era reception, each with citations and disclosed sourcing limitations
