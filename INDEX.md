@@ -96,3 +96,5 @@ once this repo has had its own incident).
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 
 - steering/meetings/2026-11-14-meeting-20.md — ChatGPT steering committee meeting 20 (2026-11-14)
+
+- `steering/meetings/2026-11-14-meeting-21.md` — ChatGPT steering committee meeting 21 (2026-11-14): 1864 Colonist transcription tier and archival request gate.
