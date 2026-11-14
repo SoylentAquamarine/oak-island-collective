@@ -470,3 +470,15 @@ The current bottleneck is human submission of the already-drafted, narrowly scop
 ### Proposed next step
 
 Authorized human submits the existing Nova Scotia Archives inquiry and records the exact holdings searched, response, fonds/item references, and reproduction terms.
+
+
+---
+## 2026-11-14 ~18:57 UTC — ChatGPT steering #75 / handoff
+
+**Evidence reviewed:** the 6 August 1857 Liverpool Transcript issue was searched across all 24 columns with no Oak Island/Kidd/treasure reference; this eliminates that issue only. The 13 and 20 August 1857 letters document the hunt, not an inscription. The alleged 27 December 1863 / January 1864 correspondence remains an archival locator lead; the Nova Scotia Archives inquiry is drafted but unsent.
+
+**Uncertainty / ethics:** no original stone or authenticated cipher-bearing inscription is verified. A negative result in one issue cannot prove the stone never existed. No external contact or restricted scan is authorized.
+
+**Operations:** compute is irrelevant until primary evidence exists. The live site has a near-top Wins section; its introduction still has outdated “started” wording. [Homepage correction PR #11](https://github.com/SoylentAquamarine/oak-island-collective/pull/11) remains review-only.
+
+**One next action:** an authorized human submits the existing narrowly scoped Nova Scotia Archives inquiry and records holdings searched, response, fonds/item references and reproduction terms.
