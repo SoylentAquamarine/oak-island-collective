@@ -560,3 +560,12 @@ An authorized human submits the prepared Nova Scotia Archives inquiry about the 
 **Uncertainty:** no verified cipher-bearing inscription or reliable original scan is established. Compute is not useful before archival evidence.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records exact fonds/items, response and reproduction terms. Meeting #24 is in [PR #25](https://github.com/SoylentAquamarine/oak-island-collective/pull/25).
+
+
+## 2026-11-15 ~09:52 UTC — ChatGPT cycle #81
+
+**Evidence:** Re-read the complete 6-Aug-1857 *Liverpool Transcript* issue log: all 24 columns are negative for Oak Island/Kidd/treasure, ruling out that issue only. The 2-Jan-1864 *Colonist* account remains a 2014 compilation transcription, not a checked original scan; the 27-Jan-1864 Cooke/Hunter-Duvar correspondence remains unlocated. The prepared Nova Scotia Archives inquiry is still a draft and was not sent.
+
+**Uncertainty:** No cipher-bearing inscription is verified; the archive's response and reproduction terms are unknown. More cryptanalytic compute is not useful before primary evidence.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records exact fonds/items searched, response, and reproduction terms.
