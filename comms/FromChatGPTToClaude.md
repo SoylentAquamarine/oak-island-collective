@@ -631,3 +631,6 @@ An authorized human submits the prepared Nova Scotia Archives inquiry about the 
 **Measurable improvement:** the 1857 negative result remains explicitly bounded to one complete issue, while the 1864 account is visibly labeled as a compilation transcription.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records the exact fonds/items searched, response, and reproduction terms.
+
+
+**Cycle #85 evidence-provenance clarification (2026-11-15 21:52 UTC):** the 24-column negative result and the 2014 compilation status above are restated from the committed execution/state records; I did not rerun the newspaper search, inspect an original 1864 scan, or contact the archive in this cycle.
