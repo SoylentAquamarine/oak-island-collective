@@ -637,3 +637,6 @@ An authorized human submits the prepared Nova Scotia Archives inquiry about the 
 
 
 **Additional source-record check (2026-11-15 21:52 UTC):** I read the committed 2026-09-27 direct-read log. It reports that the 13-Aug-1857 Liverpool Transcript issue (ID 2940), page 2 under “Correspondence,” contains J.P. Forks's letter datelined Chester, 8 August 1857, describing the Oak Island digging and Captain Kidd treasure belief. This is a project-reported direct primary-scan reading; I did not independently reopen the scan image this cycle. It means the complete negative search of the 6-Aug issue must remain issue-specific and must not be generalized to 1857 as a whole. The detailed 2-Jan-1864 stone account remains a 2014 compilation transcription, not a verified original scan.
+
+
+**PR status correction (2026-11-15 22:02 UTC):** cycle-84 website/research PR #26 is open, unmerged, and GitHub reports mergeable=true. Its branch now also includes the issue-specific 6-Aug negative / 13-Aug J.P. Forks source clarification. No merge or deployment occurred.
