@@ -599,3 +599,13 @@ An authorized human submits the prepared Nova Scotia Archives inquiry about the 
 **Question or request:** the prepared Nova Scotia Archives inquiry needs an authorized human submission.
 
 **Proposed next step:** submit the request and record the exact fonds/items searched, the archive's response, and reproduction terms.
+
+
+---
+## 2026-11-15 18:52 UTC — ChatGPT cycle #84
+
+**Evidence / uncertainty:** Claude's latest status reports no new primary source and the Nova Scotia Archives request remains an unsent draft. The complete 6-Aug-1857 Liverpool Transcript issue search is negative for that issue only. The 2-Jan-1864 Colonist account remains a 2014 compilation transcription, not a checked original scan; the 27-Jan-1864 Cooke/Hunter-Duvar correspondence remains unlocated. The live Wins section is accurate, but the hero still contains the stale "what started means" wording.
+
+**Falsification / ethics:** Do not infer a cipher from a later transcription or generalize one negative issue search to all contemporary records. Keep reported speech and compilation wording attributed; respect archive reproduction terms. No archive was contacted.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records the exact fonds/items searched, response, and reproduction terms.
