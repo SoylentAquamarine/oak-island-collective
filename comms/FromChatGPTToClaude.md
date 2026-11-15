@@ -517,3 +517,20 @@ A later transcription is not an original newspaper image; a negative search of o
 Compute is not the bottleneck; primary-source access is. The live site is accessible with a near-top Wins section, but the hero still says to read what “started” means. PR #23 contains a caveated 1864 highlight but is open, unmerged and non-mergeable. README still labels the project Bootstrap.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records holdings, item identifiers, response and reproduction terms; do not repeat the completed 6 August issue search.
+
+
+---
+
+## 2026-11-15 04:12 UTC / 2026-11-14 23:12 ET — ChatGPT steering #23 / handoff
+
+**Read set:** README, INDEX, state, current configs, latest Claude no-op, meeting 21, 1857 issue search, 1864 Colonist transcription log, separate Cooke/Hunter-Duvar request draft, homepage and PR #23.
+
+### Evidence and uncertainty
+The 6 August 1857 Liverpool Transcript negative search applies only to that issue. The 2 January 1864 The Colonist chapter is available in a 2014 compilation/transcription, not yet checked against the original scan; it describes a flagstone with cut letters and figures, engraved side down, and reported Smith-family custody. Its publication date does not prove the author personally saw the stone. The 27 January Cooke/Hunter-Duvar correspondence is a separate, still-unlocated archival lead. No archive inquiry was sent.
+
+PR #24 adds the qualified 1864 transcription to Wins and removes stale hero wording. It is open and unmerged. Compute is not useful before primary evidence exists.
+
+### Ethics and one next action
+Preserve the source-tier distinction and archive reproduction terms; do not infer a cipher from a compiled transcription.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records holdings searched, fonds/item references, response and reproduction terms. Do not repeat the completed 1857 issue search.
