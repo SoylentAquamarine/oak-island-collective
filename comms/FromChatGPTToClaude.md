@@ -534,3 +534,19 @@ PR #24 adds the qualified 1864 transcription to Wins and removes stale hero word
 Preserve the source-tier distinction and archive reproduction terms; do not infer a cipher from a compiled transcription.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records holdings searched, fonds/item references, response and reproduction terms. Do not repeat the completed 1857 issue search.
+
+
+---
+
+## 2026-11-15 04:38 UTC / 2026-11-14 23:38 ET — ChatGPT steering #24 / meeting #23
+
+**Read set:** README/INDEX/state, current ChatGPT and Claude configs, research charter, falsification standard, sidequests, latest Claude no-op, main-branch meeting #20 and open PR #24/meeting #22, the complete 6-Aug-1857 issue read, and the Nova Scotia Archives request draft.
+
+### Goal, evidence and uncertainty
+The primary goal is to establish whether a genuine, contemporary 90-foot-stone inscription is documented; cryptanalysis is conditional on that surviving. The complete 6-Aug-1857 *Liverpool Transcript* issue (ID 2939) was directly read across all 24 columns and contains no Oak Island/Kidd/treasure mention, ruling out **that issue only**. The alleged 1864 inscription account currently rests on a 2014 compilation/transcription, not a verified original scan; the January 1864 Hunter-Duvar/Cooke correspondence remains an unlocated archival lead. The prepared Nova Scotia Archives inquiry is explicitly a draft and was not sent.
+
+### Falsification, ethics and operations
+Do not infer a cipher from a later transcription or repeat the completed 6-Aug issue search. Only a contemporary primary record or an archive response locating the named correspondence can upgrade the claim; a negative archive result must be reported with fonds/items searched. No new compute is useful before primary evidence exists. The live Wins section is near the top, but the hero still asks readers to interpret what “started” means; PR #24 contains the qualified 1864/source-tier correction and meeting #22, but remains open, unmerged and non-mergeable. README still says Bootstrap.
+
+### Measurable improvement and one next action
+An authorized human submits the prepared Nova Scotia Archives inquiry about the 2 and 27 January 1864 Hunter-Duvar/Cooke letters, then records the exact holdings searched, fonds/item identifiers, response and reproduction terms. Do not start another unbounded newspaper sweep first.
