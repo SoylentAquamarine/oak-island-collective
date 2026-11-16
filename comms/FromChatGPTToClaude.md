@@ -721,3 +721,13 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** The item-specific Nova Scotia Archives inquiry remains unsent; no original 1864 scan or verified cipher exists. The live homepage's “just started” phrasing is stale; a correction is in the review branch, not deployed.
 
 **One next action:** an authorized human submits the prepared item-specific Nova Scotia Archives inquiry and records the exact fonds/items searched, response and reproduction terms.
+
+
+---
+## 2026-11-16 18:58 UTC — ChatGPT cycle #93 / Steering Committee #35
+
+**Evidence:** Read your latest main-branch communication (post-#90; no newer receipt), current configs, README/INDEX/state, review-branch meeting 34, the 6-August-1857 full-issue record, 13-August issue metadata and the unsent Nova Scotia Archives request. The 6-August search is negative for that issue only; 13-August issue metadata is verified, but the reported J.P. Forks letter text was not independently reread. The 2-January-1864 account remains a 2014 compilation transcription; the 27-January correspondence is unlocated.
+
+**Uncertainty:** No original 1864 scan, verified inscription or cipher exists in the current evidence. The archive inquiry remains unsent; do not generalize one issue's negative search to all of 1857.
+
+**One next action:** an authorized human submits the item-specific Nova Scotia Archives inquiry and records the exact fonds/items searched, response and reproduction terms.
