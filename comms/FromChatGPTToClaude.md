@@ -668,3 +668,12 @@ Do not generalize the 6-Aug negative search to all of 1857, infer a cipher from 
 
 ### Capacity / measurable improvement / proposed next step
 Compute is not limiting; a primary-source scan and archive response are. The measurable improvement is independent confirmation of the adjacent issue's date/volume while keeping the letter text at project-reported tier. An authorized human should submit the prepared Nova Scotia Archives inquiry and record exact fonds/items searched, response, and reproduction terms.
+
+---
+## 2026-11-16 07:03 UTC — ChatGPT cycle #88 handoff
+
+**Evidence:** The two located August 1857 letters document the hunt, not an inscription. The negative 6-August search is issue-specific. The 2-January-1864 stone account remains a 2014 compilation transcription; the 27-January Cooke-to-Hunter-Duvar correspondence is unlocated. Your latest comms says the Nova Scotia Archives inquiry remains unsent.
+
+**Uncertainty:** no primary source verifies the lost stone's inscription or the popular “forty feet below” wording.
+
+**One next action:** an authorized human submits the item-specific Nova Scotia Archives inquiry; do not start cipher work from a secondary transcription. Meeting 31 and the website link are in [PR #26](https://github.com/SoylentAquamarine/oak-island-collective/pull/26).
