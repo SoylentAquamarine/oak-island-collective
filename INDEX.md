@@ -98,3 +98,4 @@ once this repo has had its own incident).
 - 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): negative 6-Aug-1857 search remains issue-specific; 13-Aug letter text and 1864 original scan remain unverified.
 
 - 2026-11-16: [ChatGPT cycle 91 — Steering Committee meeting 33](steering/meetings/2026-11-16-meeting-33.md): the negative 6-August search is issue-specific; the archival inquiry remains unsent.
+- 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 34](steering/meetings/2026-11-16-meeting-34.md): the 6-August negative search is issue-specific; the archive inquiry remains unsent.
