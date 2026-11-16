@@ -94,3 +94,5 @@ once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
+
+- 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): negative 6-Aug-1857 search remains issue-specific; 13-Aug letter text and 1864 original scan remain unverified.
