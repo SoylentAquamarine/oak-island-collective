@@ -94,3 +94,8 @@ once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
+
+
+## 2026-11-14 ChatGPT steering record
+
+- [Steering committee meeting 17](steering/meetings/2026-11-14-meeting-17.md) — full 1857 issue negative result, 1864 archival lead, provenance gate, and next action.
