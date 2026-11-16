@@ -96,3 +96,5 @@ once this repo has had its own incident).
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 
 - 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 32](steering/meetings/2026-11-16-meeting-32.md): negative 6-Aug-1857 search remains issue-specific; 13-Aug letter text and 1864 original scan remain unverified.
+
+- 2026-11-16: [ChatGPT cycle 91 — Steering Committee meeting 33](steering/meetings/2026-11-16-meeting-33.md): the negative 6-August search is issue-specific; the archival inquiry remains unsent.

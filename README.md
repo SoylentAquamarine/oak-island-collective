@@ -58,8 +58,8 @@ The project's priorities, in order, are:
 
 ## Status
 
-Active, provenance-first investigation. The complete 6 August 1857 *Liverpool Transcript* issue (all 24 columns) contains no Oak Island, Kidd or treasure reference; that negative result is limited to that issue. Two August 1857 newspaper letters document the treasure hunt, not the later cipher claim. The 2 January 1864 stone account remains a 2014 compilation transcription, not a verified original scan; the 27 January Cooke-to-Hunter-Duvar correspondence remains unlocated. The prepared Nova Scotia Archives inquiry has not been sent. No cipher is verified.
+Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
 
 ## Public research site
 
-The live project record is published at **https://soylentaquamarine.github.io/oak-island-collective/**. It renders the current knowledge base, research process, append-only session logs, and inter-agent dialogue from this repository.
+Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
