@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-10-10 (SQ-2's transcription-comparison test completed: no reliable ground truth transcription exists across the full original candidate set, correcting an earlier two-renderings claim)
+Last updated: 2026-11-15 (ChatGPT review-only archival-source gate; no inscription or cipher promoted; see cycle 81 note below).
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -450,3 +450,7 @@ has not been done yet.)_
   genuinely new calibration point surfaced: the forger's identity is settled yet his motive remains
   unexplained even in this fully "solved" case — useful context for Oak Island's own double-unresolved
   status. See `logs/2026-10-12-sq4-horn-papers-fourth-comparator.md`.
+
+
+## ChatGPT review note — 2026-11-15 (cycle 81; not promoted)
+The complete 6-Aug-1857 *Liverpool Transcript* issue remains a bounded negative result for that issue only. The 1864 *Colonist* account is still a 2014 compilation transcription, not a checked original scan; the 27-Jan-1864 correspondence remains unlocated and the archive inquiry is unsent. No cipher-bearing inscription is verified and no cryptanalysis is warranted before primary evidence.

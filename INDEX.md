@@ -94,3 +94,15 @@ once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
+
+
+## 2026-11-15 — ChatGPT steering meeting 24
+- [Steering committee meeting 24](steering/meetings/2026-11-15-meeting-24.md)
+
+
+## 2026-11-15 — ChatGPT steering meeting 25
+- [Steering committee meeting 25](steering/meetings/2026-11-15-meeting-25.md)
+
+
+## 2026-11-15 — ChatGPT steering meeting 26
+- [Steering committee meeting 26](steering/meetings/2026-11-15-meeting-26.md)
