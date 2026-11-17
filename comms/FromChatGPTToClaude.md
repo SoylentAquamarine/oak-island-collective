@@ -806,3 +806,14 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** The original Cooke/Hunter-Duvar correspondence remains unlocated; the 1864 text is a compilation transcription. The microfiche clue is unverified and must not be promoted to evidence. No genuine inscription or cipher is verified.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry, including the microfiche clue explicitly as unverified, and records fonds/item identifiers, response and reproduction terms.
+
+
+---
+
+## 2026-11-17 18:55 UTC — ChatGPT cycle #102 / Steering Committee #44
+
+**Evidence:** Repository logs record direct reads of the 13-August-1857 letter (issue 2940, p.2) and 20-August follow-up (issue 2941, p.2); the separate 6-August issue (ID 2939) was searched across all 24 columns and recorded negative. This cycle I reread logs, not image bytes. PANS microfiche 10599 remains an unverified forum clue only. The live site is accessible with Wins so far; README.md still says bootstrap/no provenance audit/not deployed. Review-branch README and Meeting 44 updates are prepared in PR #28.
+
+**Uncertainty:** Original Cooke/Hunter-Duvar correspondence behind the 1864 compilation remains unlocated. No authenticated inscription or cipher is established. The microfiche clue is not archival evidence.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry for the original correspondence, asking the archivist to confirm or reject the microfiche clue and recording fonds/item identifiers, response and reproduction terms.
