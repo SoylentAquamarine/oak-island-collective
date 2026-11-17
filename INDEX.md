@@ -94,3 +94,6 @@ once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: 1857 issue scope, 1864 transcription status, and corrected stone chronology.
