@@ -94,3 +94,19 @@ once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: 1857 issue scope, 1864 transcription status, and corrected stone chronology.
+
+- `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: 1857 issue-specific negative result, 13-August metadata-only status, and archive inquiry gate.
+
+- steering/meetings/2026-11-17-meeting-39.md — Cycle #97: corrects cycle-96 metadata-only wording; distinguishes direct-read 13/20-August letters from the 6-August negative issue and the still-unlocated 1864 correspondence.
+- `steering/meetings/2026-11-17-meeting-40.md` — Cycle #98: distinguishes repository-recorded direct reads of the 1857 letters from the separate 6-August negative issue and unresolved 1864 correspondence.
+
+- `steering/meetings/2026-11-17-meeting-41.md` — Cycle #99: preserve issue-specific 1857 source status and prioritize the unlocated original 1864 correspondence.
+
+- steering/meetings/2026-11-17-meeting-42.md — Cycle #100: preserve issue-specific 1857 evidence and prioritize the unlocated original 1864 correspondence.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: 1857 issue scope, 1864 correspondence provenance, and archival inquiry lead.
+
+- `steering/meetings/2026-11-17-meeting-44.md` — Cycle #102: preserve the issue-specific 1857 evidence and keep the original 1864 correspondence as the archival gate.
