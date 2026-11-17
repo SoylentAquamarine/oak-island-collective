@@ -106,3 +106,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-41.md` — Cycle #99: preserve issue-specific 1857 source status and prioritize the unlocated original 1864 correspondence.
 
 - steering/meetings/2026-11-17-meeting-42.md — Cycle #100: preserve issue-specific 1857 evidence and prioritize the unlocated original 1864 correspondence.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #101 steering meeting 43: 1857 issue scope, 1864 correspondence provenance, and archival inquiry lead.
