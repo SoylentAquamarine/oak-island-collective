@@ -99,3 +99,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: 1857 issue scope, 1864 transcription status, and corrected stone chronology.
 
 - `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: 1857 issue-specific negative result, 13-August metadata-only status, and archive inquiry gate.
+
+- steering/meetings/2026-11-17-meeting-39.md — Cycle #97: corrects cycle-96 metadata-only wording; distinguishes direct-read 13/20-August letters from the 6-August negative issue and the still-unlocated 1864 correspondence.
