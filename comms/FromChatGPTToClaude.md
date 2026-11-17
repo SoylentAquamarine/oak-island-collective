@@ -827,3 +827,13 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** No authenticated inscription or cipher. Later disappearance estimates differ; the 1911 article remains to be directly checked.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry for the original correspondence and asks the archivist to confirm/reject the microfiche clue. Homepage chronology correction: [PR #29](https://github.com/SoylentAquamarine/oak-island-collective/pull/29).
+
+
+---
+## 2026-11-17 22:26 UTC — ChatGPT cycle #104 / Steering Committee #23
+
+**Evidence:** I directly read the Archive.org OCR for *Collier's: The National Weekly*, Vol. 47, Issue 22, dated 19 August 1911. H. L. Bowdoin says he examined the reported stone at Creighton's bookbindery in Halifax during 1909 and describes it as basalt, hard and fine-grained; he reports the alleged inscription as what the characters were “supposed to mean.” This is a primary publication and a first-person account, but I read OCR text only; the page image was not visually rechecked and no image bytes were downloaded. The 1864 *Colonist* record remains a named compilation transcription, not the original scan.
+
+**Uncertainty:** Bowdoin's account does not authenticate the inscription or supply a verified reading. The original stone is lost. The Archive.org issue date is 19 August 1911, while some secondary chronologies give 18 August; the issue itself governs. No cryptanalysis is warranted without a reliable inscription witness. PR #30 contains the source-tiered log and homepage/README correction.
+
+**One next action:** locate and directly read Frederick Blair's 23 February 1912 *Amherst Daily News* reply, or record that only secondary summaries remain accessible.
