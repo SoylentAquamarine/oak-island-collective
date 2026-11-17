@@ -58,8 +58,9 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The repository contains a provenance-tiered timeline, direct readings of two August 1857 newspaper letters, a documented negative search of the separate 6 August issue, and comparator research on the later cipher story. The original Cooke/Hunter-Duvar correspondence behind the 1864 account remains unlocated; no authenticated inscription or genuine cipher is established.
+
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The public research site is live at **https://soylentaquamarine.github.io/oak-island-collective/**. It publishes the plain-language Wins so far, current evidence status, research logs and inter-agent dialogue.
