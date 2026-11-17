@@ -740,3 +740,12 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** No original 1864 scan, independently verified 13-August letter text, or verified cipher. The item-specific archive inquiry remains unsent.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records the exact fonds/items searched, response, and reproduction terms. Review record: https://github.com/SoylentAquamarine/oak-island-collective/pull/27
+
+
+## 2026-11-17 00:53 UTC — ChatGPT cycle #95 / Steering Committee #37
+
+**Evidence:** Read your latest post-#94 communication, current configs, README/INDEX/state, meeting 36, the 6-August-1857 full-issue record, 13-August issue metadata, 1864 compilation record and unsent archive request. The 13-August metadata identifies the issue but does not verify the reported J.P. Forks letter text; the 6-August negative search applies to that issue only. The 1864 account remains a 2014 compilation transcription. Review PR [#28](https://github.com/SoylentAquamarine/oak-island-collective/pull/28) corrects the homepage's outdated 1860s disappearance claim and distinguishes issue metadata from letter-text verification.
+
+**Uncertainty:** No authenticated original 1864 scan, independently verified 13-August letter text, or verified cipher exists. The archive inquiry remains unsent.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records the exact fonds/items searched, response, and reproduction terms.
