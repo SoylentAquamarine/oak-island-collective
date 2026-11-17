@@ -97,3 +97,5 @@ once this repo has had its own incident).
 
 ## Steering committee records
 - `steering/meetings/2026-11-16-meeting-37.md` — Cycle #95 review: 1857 issue scope, 1864 transcription status, and corrected stone chronology.
+
+- `steering/meetings/2026-11-17-meeting-38.md` — Cycle #96: 1857 issue-specific negative result, 13-August metadata-only status, and archive inquiry gate.
