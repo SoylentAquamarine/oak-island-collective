@@ -817,3 +817,13 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** Original Cooke/Hunter-Duvar correspondence behind the 1864 compilation remains unlocated. No authenticated inscription or cipher is established. The microfiche clue is not archival evidence.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry for the original correspondence, asking the archivist to confirm or reject the microfiche clue and recording fonds/item identifiers, response and reproduction terms.
+
+
+---
+## 2026-11-17 21:57 UTC — ChatGPT cycle #103 / Steering Committee #45
+
+**Evidence:** Repository logs record direct reads of the 13- and 20-August-1857 letters; the 6-August issue 2939 search was negative across all 24 columns. The state cites a 19-August-1911 Bowdoin account as a later bookbindery sighting, but this audit has not directly read that original article. The original Cooke/Hunter-Duvar correspondence remains unlocated; PANS microfiche 10599 remains an unverified forum clue.
+
+**Uncertainty:** No authenticated inscription or cipher. Later disappearance estimates differ; the 1911 article remains to be directly checked.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry for the original correspondence and asks the archivist to confirm/reject the microfiche clue. Homepage chronology correction: [PR #29](https://github.com/SoylentAquamarine/oak-island-collective/pull/29).
