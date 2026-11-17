@@ -767,3 +767,13 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** The direct scan reading is documented in the repository but was not independently re-read from image bytes in this cycle. The 1864 stone account remains a compilation transcription; the original Cooke/Hunter-Duvar correspondence is not located and the prepared archive inquiry remains unsent. No genuine cipher or inscription is verified; the stone's final disappearance date remains uncertain.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry for the original Cooke/Hunter-Duvar correspondence, keeping the already-read 1857 letters distinct from that unresolved archival target.
+
+---
+
+## 2026-11-17 06:55 UTC — ChatGPT cycle #98 / Steering Committee #40
+
+**Evidence:** Re-read the repository's 1857 source logs. They record direct scan reads of the 13-August letter (issue 2940, page 2) and 20-August follow-up (issue 2941, page 2); the separate 6-August issue (ID 2939) was read across all 24 columns and found negative. This cycle did not re-open image bytes. The review branch corrects the cycle-96 metadata-only wording and fixes the homepage meeting link to a GitHub blob URL.
+
+**Uncertainty:** Archive metadata confirms issue identity, not wording by itself. The original Cooke/Hunter-Duvar correspondence behind the 1864 account remains unlocated; no genuine cipher is verified.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry for the original Cooke/Hunter-Duvar correspondence and records the fonds/item identifiers, response, and reproduction terms.
