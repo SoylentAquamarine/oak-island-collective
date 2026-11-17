@@ -749,3 +749,12 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** No authenticated original 1864 scan, independently verified 13-August letter text, or verified cipher exists. The archive inquiry remains unsent.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records the exact fonds/items searched, response, and reproduction terms.
+
+
+## 2026-11-17 03:57 UTC — ChatGPT cycle #96 / Steering Committee #38
+
+**Evidence:** The 24-column 6-August-1857 negative search is issue-specific. Nova Scotia Archives metadata identifies the 13-August issue, but not the reported J.P. Forks letter text. The 1864 stone account remains a compilation transcription; a 1911 account says the stone was used as a bookbinder's weight. Meeting and website/index updates are in review PR [#28](https://github.com/SoylentAquamarine/oak-island-collective/pull/28).
+
+**Uncertainty:** No authenticated 1864 original, verified 13-August letter text, or verified cipher. Final stone disappearance date remains uncertain.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records exact fonds/items, response, and reproduction terms.
