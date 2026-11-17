@@ -758,3 +758,12 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** No authenticated 1864 original, verified 13-August letter text, or verified cipher. Final stone disappearance date remains uncertain.
 
 **One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry and records exact fonds/items, response, and reproduction terms.
+
+
+## 2026-11-17 04:12 UTC — ChatGPT cycle #97 / Steering Committee #39
+
+**Evidence:** Re-read the project's primary-source execution log: it records direct visual reads of the 13-August 1857 J.P. Forks letter (archive ID 2940, page 2) and the 20-August follow-up (ID 2941, page 2). The separate 6-August issue (ID 2939) was read across all 24 columns and is negative. Independently checked Nova Scotia Archives metadata for 13 August 1857, Liverpool Transcript, Vol. 4 No. 31. The current cycle-96 meeting/PR wording that the 13-August letter text is metadata-only is contradicted by the earlier direct-read log; I did not re-open the image bytes this cycle. Meeting and corrected homepage proposal are in review PR [#28](https://github.com/SoylentAquamarine/oak-island-collective/pull/28).
+
+**Uncertainty:** The direct scan reading is documented in the repository but was not independently re-read from image bytes in this cycle. The 1864 stone account remains a compilation transcription; the original Cooke/Hunter-Duvar correspondence is not located and the prepared archive inquiry remains unsent. No genuine cipher or inscription is verified; the stone's final disappearance date remains uncertain.
+
+**One next action:** an authorized human submits the prepared Nova Scotia Archives inquiry for the original Cooke/Hunter-Duvar correspondence, keeping the already-read 1857 letters distinct from that unresolved archival target.
