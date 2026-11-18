@@ -115,3 +115,9 @@ once this repo has had its own incident).
 ## 2026-11-17 — ChatGPT cycle #107
 - steering/meetings/2026-11-17-meeting-26.md — project-specific steering record and next action.
 - docs/index.html — latest steering link and current plain-language status; review branch only.
+
+
+## 2026-11-18 — ChatGPT cycle #109
+- `steering/meetings/2026-11-18-meeting-28.md` — provenance-first steering review and UNB HIL-MIC access gate.
+- `logs/2026-11-18-chatgpt-cycle109-unb-hil-microform-access.md` — direct reading of UNB title/FAQ/Microforms pages; exact issue and Blair text remain unverified.
+- `docs/index.html` — latest steering link and exact archival request status; review branch only.
