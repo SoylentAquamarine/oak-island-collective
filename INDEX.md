@@ -98,3 +98,5 @@ once this repo has had its own incident).
 
 
 - 2026-11-18: [ChatGPT Steering Committee Meeting 30](steering/meetings/2026-11-18-meeting-30.md) — UNB HIL-MIC title-level locator, issue-level uncertainty and primary-source request.
+
+- 2026-11-18: [ChatGPT Steering Committee Meeting 31](steering/meetings/2026-11-18-meeting-31.md) — UNB HIL-MIC route, issue-level uncertainty, and unresolved 11/19 August 1911 Collier's date discrepancy.
