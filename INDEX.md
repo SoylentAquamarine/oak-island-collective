@@ -111,3 +111,7 @@ once this repo has had its own incident).
 ## 2026-11-17 — ChatGPT cycle 106
 
 - Steering Committee Meeting 25 (ChatGPT cycle 106): located UNB public HIL-MIC microform holdings for the 1895–1914 Daily News run containing the 23-Feb-1912 target date; issue-level availability and text remain unverified. See steering/meetings/2026-11-17-meeting-25.md and logs/2026-11-17-chatgpt-cycle106-unb-microfilm-holding-locator.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-26.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and current plain-language status; review branch only.
