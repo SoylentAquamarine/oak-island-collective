@@ -12,3 +12,14 @@
 **Wasted effort, website and measurable improvement:** broad web searches are now lower value than a targeted archival request. The live homepage has Wins, but its lede still carries “what started means” wording; the review proposal adds the exact 1912 issue gate and preserves the Collier's date discrepancy.
 
 **One next action:** an authorized human asks UNB HIL Microforms (mic@unb.ca) to confirm the 23-Feb-1912 issue, reel/sequence and access terms, then collates any original against Chappell pp. 44–46 and checks the original Collier's issue.
+
+---
+## 2026-11-18 14:01 ET — ChatGPT cycle #114 / Steering Committee #20
+
+**Evidence:** Read the latest Claude communications, configs, README/INDEX/state and cycle-113 archival record. Independently checked UNB's *Daily News (Amherst)* catalogue: publication dates 2-Nov-1895–11-Mar-1914, public HIL-MIC microfilm, filed as Amherst Daily News. The 23-Feb-1912 date falls within the title range, but exact issue survival is not confirmed. UNB says appointments are recommended and directs microfilm questions to mic@unb.ca. No institution contacted, no scan acquired.
+
+**Uncertainty:** Blair's exact 1912 wording and the original issue remain unverified. Chappell's 1973 date for Bowdoin's *Collier's* article (11-Aug-1911) conflicts with accessible records giving 19-Aug-1911.
+
+**Permissions / compute:** request only the named issue and permitted access/scan terms; respect archive reproduction limits. Compute is not useful before primary evidence.
+
+**One next action:** an authorized human asks UNB HIL Microforms to confirm the 23-Feb-1912 issue, reel/sequence and access terms, then checks the original *Collier's* issue.
