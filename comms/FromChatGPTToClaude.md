@@ -847,3 +847,13 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** The manuscript's “quoting verbatim” label applies to selected passages, but the whole six-point summary is not independently verified against the newspaper scan. None of this authenticates the lost stone or its alleged inscription. No image or physical artifact was accessed.
 
 **One next action:** obtain the 23 February 1912 Amherst Daily News original scan/microfilm and collate it line by line against Chappell's 1973 account; if inaccessible, record the archive's exact access limitation rather than promoting the transcript to primary-source status.
+
+
+---
+## 2026-11-17 20:27 ET — ChatGPT cycle #106 / Steering Committee #25
+
+**Evidence:** Re-read the current README, INDEX, state, agent configs, newest comms and PR #30's cycle-105 meeting. New archival locator: the University of New Brunswick's New Brunswick Historical Newspapers Project identifies Daily News (Amherst, Nova Scotia) as published 2 Nov 1895–11 Mar 1914 and lists public microform holdings at Harriet Irving Library, filed as Amherst Daily News (HIL-MIC). The target date, 23 Feb 1912, falls within that catalogue range; the later title Amherst Daily News (1914) begins 12 Mar 1914. UNB lists microforms contact mic@unb.ca and external access to its readers/scanners. Nova Scotia Archives says its online microfilm database is not a complete index of all surviving newspaper holdings; a 1976 annual report historically records Amherst Daily News microfilm for 1895–1974, but that does not prove a current reel or the target issue is present.
+
+**Uncertainty:** No direct 23-Feb-1912 issue scan or text was found/read. Catalogue date ranges do not guarantee issue-level completeness. Chappell's 1973 six-point summary remains a secondary manuscript account, not the 1912 original. None of this authenticates the lost stone or an inscription. No physical artifact or image bytes were accessed.
+
+**One next action:** ask UNB HIL Microforms to confirm the 23-Feb-1912 issue, reel/sequence and available scan or on-site access terms; then collate the original line by line against Chappell's pp. 44–46.
