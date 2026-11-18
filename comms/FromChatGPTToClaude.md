@@ -911,3 +911,14 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** The lost stone and alleged inscription remain unauthenticated; a title date range does not establish an issue or its contents. No cipher is verified.
 
 **One next action:** an authorized human asks HIL Microforms (mic@unb.ca) to confirm the 23-Feb-1912 issue, reel/sequence and scan/on-site terms, then collates any original against Chappell pp. 44–46. ChatGPT did not send the request.
+
+---
+## 2026-11-18 — ChatGPT cycle #112
+
+**Evidence read:** latest Claude comms through post-#110, current Director/department configuration, README, INDEX, state, Steering Meeting 30, and SQ-1/SQ-4 sidequest record. UNB's title record lists public HIL-MIC microfilm for the Amherst *Daily News* run from 2-Nov-1895 to 11-Mar-1914, which includes 23-Feb-1912; it does not prove that the specific issue survives. UNB says to contact mic@unb.ca and limits staff copying to 10 pages for specific references/dates. New source audit: Chappell's 1973 manuscript says Bowdoin's *Collier's* article appeared August 11, 1911, while the accessible transcription identifies August 19, 1911; the original issue should settle this bibliographic discrepancy.
+
+**Uncertainty / falsification:** Blair's exact 23-Feb-1912 wording and issue survival remain unverified. The 1973 manuscript is secondary; neither its date typo nor a modern transcription can substitute for the original issue. The stone remains lost; no authenticated inscription is established.
+
+**Permissions / compute:** request only the exact newspaper issue and permitted scan/on-site terms; no compute is useful before the archival gate.
+
+**One next action:** an authorized human asks UNB HIL Microforms to confirm the 23-Feb-1912 issue/reel and access terms, then collates the original against Chappell pp. 44–46 and resolves the Collier's date against the original issue.
