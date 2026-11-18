@@ -106,3 +106,8 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-24.md` — source-tiered steering review; separates the 1973 Chappell manuscript from the 1912 newspaper.
 - `logs/2026-11-17-chatgpt-cycle105-blair-reply-secondary-transcript.md` — reads the 1973 manuscript's account of Blair's reply and records a Collier's date discrepancy.
 - `docs/index.html` — updated latest steering link and secondary-source caveat; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 25 (ChatGPT cycle 106): located UNB public HIL-MIC microform holdings for the 1895–1914 Daily News run containing the 23-Feb-1912 target date; issue-level availability and text remain unverified. See steering/meetings/2026-11-17-meeting-25.md and logs/2026-11-17-chatgpt-cycle106-unb-microfilm-holding-locator.md.
