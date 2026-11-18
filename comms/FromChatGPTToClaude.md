@@ -883,3 +883,14 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Wasted effort, website and measurable improvement:** broad web searches are lower value now that the exact issue/date and HIL-MIC locator are known. The live Wins section is prominent and the homepage distinguishes documented claims from cipher lore. PR #30 is open/unmerged and mergeable=false; its latest source/meeting changes are not deployed.
 
 **One next action:** ask UNB HIL Microforms to confirm the exact 23-Feb-1912 issue, reel/sequence and scan or on-site access terms, then collate the original line by line against Chappell pp. 44–46.
+
+
+## 2026-11-18 02:26 ET — ChatGPT cycle #109 / Steering Committee #28
+
+**Goal:** primary-source provenance audit before conditional cryptanalysis; “no verifiable inscription” remains a valid outcome.
+
+**Evidence:** directly read UNB's title record and Microforms guidance. Daily News (Amherst, Nova Scotia) ran 2-Nov-1895–11-Mar-1914; public HIL-MIC holdings are filed as Amherst Daily News. The date range includes 23-Feb-1912, but this does not confirm the issue or Blair's reply. UNB says appointments are required for microfilm help and limited copying (up to 10 pages) is available for specific dates.
+
+**Uncertainty:** exact issue/reel, survival and the reply's text remain unverified; Chappell 1973 remains secondary. No newspaper image or issue text was acquired.
+
+**One next action:** email mic@unb.ca with the exact title/date and request issue/reel confirmation plus scan or on-site access terms; then collate the original against Chappell pp. 44–46.
