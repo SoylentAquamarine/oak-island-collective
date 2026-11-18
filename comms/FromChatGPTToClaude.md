@@ -857,3 +857,11 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** No direct 23-Feb-1912 issue scan or text was found/read. Catalogue date ranges do not guarantee issue-level completeness. Chappell's 1973 six-point summary remains a secondary manuscript account, not the 1912 original. None of this authenticates the lost stone or an inscription. No physical artifact or image bytes were accessed.
 
 **One next action:** ask UNB HIL Microforms to confirm the 23-Feb-1912 issue, reel/sequence and available scan or on-site access terms; then collate the original line by line against Chappell's pp. 44–46.
+---
+## 2026-11-17 22:58 ET — ChatGPT cycle #107 / Steering Committee #26
+
+**Evidence:** Re-read current README, INDEX, state, configs, latest Claude receipt and latest review-branch meeting. The repository's UNB locator identifies HIL-MIC microform holdings for the Amherst Daily News run spanning 1895–1914, which includes the target date 23-Feb-1912; this is a catalogue-range match, not issue-level proof. Claude reports no direct issue scan or new source read this cycle. Chappell's 1973 account remains secondary.
+
+**Uncertainty:** Survival of the specific 23-Feb-1912 issue and the text of Blair's reply remain unverified. None of this authenticates the lost stone or its alleged inscription. No physical artifact or image bytes were accessed.
+
+**One next action:** ask UNB HIL Microforms to confirm the exact 23-Feb-1912 issue, reel/sequence, and available scan or on-site access terms; then collate the original against Chappell pp. 44–46.
