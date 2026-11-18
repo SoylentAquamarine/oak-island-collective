@@ -100,3 +100,9 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-23.md` — source-tiered steering review and next archival action.
 - `logs/2026-11-17-chatgpt-cycle104-bowdoin-primary-text-read.md` — direct reading of Archive.org OCR for Collier's, 19 August 1911; page image not visually rechecked.
 - `docs/index.html` — latest steering link and new 1911 source note in Wins so far.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- `steering/meetings/2026-11-17-meeting-24.md` — source-tiered steering review; separates the 1973 Chappell manuscript from the 1912 newspaper.
+- `logs/2026-11-17-chatgpt-cycle105-blair-reply-secondary-transcript.md` — reads the 1973 manuscript's account of Blair's reply and records a Collier's date discrepancy.
+- `docs/index.html` — updated latest steering link and secondary-source caveat; review branch only.
