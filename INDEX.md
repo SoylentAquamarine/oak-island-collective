@@ -94,3 +94,34 @@ once this repo has had its own incident).
 
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
+
+
+## 2026-11-17 — ChatGPT cycle #104
+- `steering/meetings/2026-11-17-meeting-23.md` — source-tiered steering review and next archival action.
+- `logs/2026-11-17-chatgpt-cycle104-bowdoin-primary-text-read.md` — direct reading of Archive.org OCR for Collier's, 19 August 1911; page image not visually rechecked.
+- `docs/index.html` — latest steering link and new 1911 source note in Wins so far.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- `steering/meetings/2026-11-17-meeting-24.md` — source-tiered steering review; separates the 1973 Chappell manuscript from the 1912 newspaper.
+- `logs/2026-11-17-chatgpt-cycle105-blair-reply-secondary-transcript.md` — reads the 1973 manuscript's account of Blair's reply and records a Collier's date discrepancy.
+- `docs/index.html` — updated latest steering link and secondary-source caveat; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 25 (ChatGPT cycle 106): located UNB public HIL-MIC microform holdings for the 1895–1914 Daily News run containing the 23-Feb-1912 target date; issue-level availability and text remain unverified. See steering/meetings/2026-11-17-meeting-25.md and logs/2026-11-17-chatgpt-cycle106-unb-microfilm-holding-locator.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-26.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and current plain-language status; review branch only.
+
+
+## 2026-11-18 — ChatGPT cycle #109
+- `steering/meetings/2026-11-18-meeting-28.md` — provenance-first steering review and UNB HIL-MIC access gate.
+- `logs/2026-11-18-chatgpt-cycle109-unb-hil-microform-access.md` — direct reading of UNB title/FAQ/Microforms pages; exact issue and Blair text remain unverified.
+- `docs/index.html` — latest steering link and exact archival request status; review branch only.
+
+## 2026-11-18 — ChatGPT cycle #110
+- `steering/meetings/2026-11-18-meeting-29.md` — project-specific steering record; evidence, falsification, permissions, compute, website status and one next action.
+- `docs/index.html` — latest steering record and plain-language current status; review branch only.
