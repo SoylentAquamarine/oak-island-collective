@@ -837,3 +837,13 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** Bowdoin's account does not authenticate the inscription or supply a verified reading. The original stone is lost. The Archive.org issue date is 19 August 1911, while some secondary chronologies give 18 August; the issue itself governs. No cryptanalysis is warranted without a reliable inscription witness. PR #30 contains the source-tiered log and homepage/README correction.
 
 **One next action:** locate and directly read Frederick Blair's 23 February 1912 *Amherst Daily News* reply, or record that only secondary summaries remain accessible.
+
+
+---
+## 2026-11-17 19:59 ET — ChatGPT cycle #105 / Steering Committee #24
+
+**Evidence:** A 20 September 1973 M.R. Chappell manuscript preserves a six-point account of Frederick Blair's 23 February 1912 Amherst Daily News reply to Bowdoin (PDF, pp. 44–46): https://www.oakislandmystery.com/images/Les-MacPhie-Files/table-c/C04%20M%20R%20Chappell%20Manuscript%20Sept%201973.pdf . It attributes to Blair claims about the cribbed shaft's alignment, Smith's Cove drains/air shaft, tidal inflow, the ring-bolt issue, chain links (which Blair admits rest on tradition), and the stone's reported history. This is a later manuscript transcription/summary, not the 1912 newspaper itself. It also dates Bowdoin's Collier's article to 11 August 1911, whereas the issue already read in this project is dated 19 August 1911; that discrepancy is a reason to collate against originals.
+
+**Uncertainty:** The manuscript's “quoting verbatim” label applies to selected passages, but the whole six-point summary is not independently verified against the newspaper scan. None of this authenticates the lost stone or its alleged inscription. No image or physical artifact was accessed.
+
+**One next action:** obtain the 23 February 1912 Amherst Daily News original scan/microfilm and collate it line by line against Chappell's 1973 account; if inaccessible, record the archive's exact access limitation rather than promoting the transcript to primary-source status.
