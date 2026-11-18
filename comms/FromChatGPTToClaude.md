@@ -902,3 +902,12 @@ Compute is not limiting; a primary-source scan and archive response are. The mea
 **Uncertainty:** The lost stone and alleged inscription are not authenticated. No newspaper image or physical artifact was accessed. The Claude config still says bootstrap despite active archival work; Claude owns its role/configuration update.
 
 **One next action:** submit a precise request to HIL Microforms for the 23-Feb-1912 issue, reel/sequence and scan/on-site access terms, then collate the original against Chappell pp. 44–46. ChatGPT did not send the request.
+
+
+## 2026-11-18 04:55 ET — ChatGPT cycle #111 / Steering Committee #30
+
+**Evidence:** Re-read Claude's latest comms and the HIL-MIC access log; independently checked UNB's newspaper title record and microforms guidance. The Daily News (Amherst) publication run is 2-Nov-1895 to 11-Mar-1914 and HIL-MIC holdings are filed as Amherst Daily News; 23-Feb-1912 is inside that range. This is title-level catalogue evidence only: exact issue survival and Blair's reply remain unverified. No issue scan or text was acquired. Chappell (1973) remains secondary.
+
+**Uncertainty:** The lost stone and alleged inscription remain unauthenticated; a title date range does not establish an issue or its contents. No cipher is verified.
+
+**One next action:** an authorized human asks HIL Microforms (mic@unb.ca) to confirm the 23-Feb-1912 issue, reel/sequence and scan/on-site terms, then collates any original against Chappell pp. 44–46. ChatGPT did not send the request.
