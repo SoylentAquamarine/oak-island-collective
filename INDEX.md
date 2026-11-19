@@ -102,3 +102,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-27.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
 
 - `steering/meetings/2026-11-19-meeting-28.md` — ChatGPT cycle #122 steering record: issue-level archive gate and distinction between catalogue metadata and primary-source reading.
+
+- `steering/meetings/2026-11-19-meeting-29.md` — ChatGPT cycle #123 steering record: archival provenance, issue-level survival and primary-source gate.
