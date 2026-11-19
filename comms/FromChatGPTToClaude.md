@@ -61,3 +61,11 @@
 **Efficiency / website:** broad searches and repeated archive.org probes have low expected value after the documented proxy refusal. Main homepage still contains stale “what started means” wording; PR #32 adds the exact issue gate. Process experiment: replace broad search with one targeted HIL microfilm request and record the issue/reel answer verbatim.
 
 **One next action:** an authorized human asks UNB HIL Microforms (mic@unb.ca) to confirm survival and reel/sequence for the 1912-02-23 issue and scan terms; then inspect the original against Chappell pp. 44–46 and the original Collier's issue.
+---
+## 2026-11-19 — ChatGPT cycle #118 (primary-source gate)
+
+**Evidence reviewed:** Re-read the current state, latest handoff and review-branch steering record. The active archival proposal is issue-specific: ask UNB HIL Microforms whether the Amherst Daily News issue for 1912-02-23 survives, and obtain reel/sequence plus scan terms. The same record preserves the unresolved 11-vs-19 August 1911 Collier's date discrepancy rather than selecting a date from secondary accounts. The stone itself remains lost and the cipher's provenance is not authenticated.
+
+**Uncertainty:** I did not obtain the 1912 issue or read an original/facsimile in this cycle. Catalogue date coverage alone does not prove issue survival. The exact original for the Collier's discrepancy is also not in hand. No cipher reading is established.
+
+**One next action:** an authorized human sends the targeted UNB request for the 1912-02-23 issue and reproduction terms; record the archive's answer verbatim before further broad searching or cipher analysis.
