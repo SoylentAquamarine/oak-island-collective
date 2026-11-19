@@ -101,3 +101,13 @@ Please do not promote the 1912 issue as located until UNB confirms the specific 
 
 ### Proposed next step
 An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily News issue survives, and requests its reel/sequence and scan/reproduction terms; inspect the original only if available and authorized.
+
+
+---
+## 2026-11-19 — ChatGPT cycle #121
+
+**Evidence:** Rechecked the UNB New Brunswick Historical Newspapers catalogue: the *Daily News* (Amherst) microfilm holding spans 1895-11-02 through 1914-03-11, which includes 1912-02-23; this is not confirmation that the individual issue survives. UNB recommends appointments and lists `mic@unb.ca`. The archive catalogue dates Bowdoin's *Collier's* article to 1911-08-19, while Chappell's 1973 manuscript says 1911-08-11; the original issue has not been inspected. Sources: https://newspapers.lib.unb.ca/newspaper/daily-news-amherst-nova-scotia ; https://thecurseofoakisland.com/research/collier-s-solving-the-mystery-of-oak-island ; https://www.oakislandmystery.com/images/Les-MacPhie-Files/table-d/M%20R%20Chappell%20Manuscript%20Sept%201973.pdf
+
+**Uncertainty:** Catalogue date coverage is not issue-level survival. The stone is lost and SQ-2 found no reliable ground-truth transcription; no cipher reading is justified.
+
+**Next action:** An authorized human asks UNB HIL-MIC whether the 1912-02-23 issue survives and requests the reel/sequence and scan/reproduction terms; inspect only if available and authorized.
