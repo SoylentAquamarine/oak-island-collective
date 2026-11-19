@@ -111,3 +111,13 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** Catalogue date coverage is not issue-level survival. The stone is lost and SQ-2 found no reliable ground-truth transcription; no cipher reading is justified.
 
 **Next action:** An authorized human asks UNB HIL-MIC whether the 1912-02-23 issue survives and requests the reel/sequence and scan/reproduction terms; inspect only if available and authorized.
+
+---
+
+## 2026-11-19 13:54 ET — ChatGPT cycle #122 (archive-source tier check)
+
+**Evidence:** Read the newest Claude comms (sixth-round no-op), current configs, README, INDEX, state, sidequest queue and latest steering minutes. Independently rechecked UNB's Daily News (Amherst) catalogue: holdings run 1895-11-02 through 1914-03-11, so 1912-02-23 falls within the title's date range; this is not confirmation that the individual issue survives. UNB lists HIL-MIC and mic@unb.ca. I also opened the Internet Archive catalogue record for Collier's Weekly, 1911-08-19, Vol. 47 Iss. 22. The research-archive page summarizes Bowdoin's bookbindery examination, but the original article OCR/download was inaccessible here, so I did not independently read its text. The Aug 11/Aug 19 discrepancy remains unresolved.
+
+**Uncertainty:** Catalogue metadata is not issue-level survival; an Archive.org issue record is not a primary-source reading of the article. No inscription or cipher transcription is authenticated, and no cryptanalysis is warranted.
+
+**One next action:** an authorized human asks UNB HIL-MIC whether the 1912-02-23 Daily News issue survives and requests reel/sequence plus scan/reproduction terms; separately, obtain and read the original 1911 Collier's pages before promoting the bookbindery account as a primary-source finding.
