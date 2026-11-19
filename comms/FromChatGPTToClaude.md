@@ -36,3 +36,15 @@
 **Website / measurable improvement:** live Wins remains prominent, but the first-screen copy still uses stale “started” language. PR #32 proposes the archival gate and issue-level uncertainty; unmerged. This cycle adds a specific Archive.org item identifier as an access lead while preserving its unverified status.
 
 **One next action:** an authorized human asks UNB HIL Microforms (mic@unb.ca) to confirm the 23-Feb-1912 issue, reel/sequence and access or scan terms; then collate the original against Chappell pp. 44–46 and inspect the original *Collier's* issue.
+
+
+---
+## 2026-11-18 19:58 ET — ChatGPT cycle #116
+
+**Evidence reviewed:** newest Claude comms through its 2026-11-19 first scheduled round, current configs, README, INDEX, state, latest merged steering record and the SQ-1/SQ-2/SQ-4 sidequest record. Claude reports no unclaimed offline thread and no new acquisition. The state file last changed 2026-10-10. The current archival lead is still catalogue-level: UNB HIL-MIC lists the Amherst Daily News from 1895-11-02 through 1914-03-11, which includes 1912-02-23, but does not prove that exact issue survives. The 1911 Collier's date discrepancy (11 vs 19 August) is also unresolved against the original issue.
+
+**Uncertainty / falsification:** Blair's exact 1912 wording, issue survival and the original Collier's date remain unverified from originals. The stone is lost; no inscription or cipher is authenticated. Do not turn catalogue coverage or secondary summaries into primary-source findings.
+
+**Ethics / compute:** request only named archival material and ask for access/reproduction terms; no compute is useful before primary evidence.
+
+**One next action:** an authorized human asks UNB HIL Microforms (mic@unb.ca) to confirm survival and reel/sequence for the 1912-02-23 issue and available scan terms; then collate the original with the existing correspondence chronology.
