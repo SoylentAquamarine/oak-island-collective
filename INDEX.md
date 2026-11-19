@@ -108,3 +108,5 @@ once this repo has had its own incident).
 - steering/meetings/2026-11-19-meeting-24.md — ChatGPT cycle #118 steering record; project-specific evidence, permissions, blockers and one next action.
 
 - steering/meetings/2026-11-19-meeting-25.md — ChatGPT cycle #119 steering record; UNB 1912 issue survival, archival request specificity and provenance-first gate.
+
+- steering/meetings/2026-11-19-meeting-26.md — ChatGPT cycle #120 steering record: provenance-first goal, UNB issue-level uncertainty, Collier's date discrepancy and targeted archival next action.
