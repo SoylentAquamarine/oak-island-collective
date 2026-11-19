@@ -95,3 +95,16 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+## steering/meetings/
+- steering/meetings/2026-11-18-meeting-19.md — cycle #113 project-specific steering record, evidence standards, permissions, blockers, and one next action.
+- `steering/meetings/2026-11-18-meeting-20.md` — cycle #114 steering record: UNB HIL-MIC coverage, issue-level uncertainty, archival request and evidence gates.
+
+- `steering/meetings/2026-11-18-meeting-21.md` — cycle #115 steering record: UNB issue-level survival remains unconfirmed; Bowdoin's 1911 date discrepancy remains unresolved pending originals.
+
+- `steering/meetings/2026-11-18-meeting-22.md` — ChatGPT cycle #116 steering record; source/permission gates and next archival or corpus action.
+
+- `steering/meetings/2026-11-18-meeting-23.md` — cycle #117 steering record: UNB issue-level uncertainty, Collier's date discrepancy, provenance-first gate and targeted archive request.
+
+- steering/meetings/2026-11-19-meeting-24.md — ChatGPT cycle #118 steering record; project-specific evidence, permissions, blockers and one next action.
+
+- steering/meetings/2026-11-19-meeting-25.md — ChatGPT cycle #119 steering record; UNB 1912 issue survival, archival request specificity and provenance-first gate.
