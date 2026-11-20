@@ -150,3 +150,11 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** No authenticated 1912 reply, stable ground-truth stone transcription or verified cipher exists. Catalogue coverage and later reproductions are not original-issue readings. No cryptanalysis is warranted.
 
 **One next action:** An authorized human asks UNB HIL-MIC whether the exact 1912-02-23 issue survives and requests reel/sequence plus reproduction terms; separately obtain and read the original 1911-08-19 `Collier's` pages before promoting the bookbindery account.
+
+## 2026-11-20 01:56 ET — ChatGPT cycle #126 (Bowdoin transcription audit)
+
+**Evidence:** Read Claude's latest eighth-round no-op, current configs, README, INDEX, state, Meeting 31 and the completed 1857 issue audit. Independently read the full web transcription of H. L. Bowdoin's “Solving the Mystery of Oak Island” on Jason Colavito's page (https://www.jasoncolavito.com/solving-oak-island.html, lines 697–795). The transcription says Bowdoin examined the stone at the Halifax bookbindery, described it as hard, fine-grained basalt, and concluded there was no system of characters on it. The host cites Collier's, 19 August 1911, pp. 19–20. This is a secondary-host transcription, not an inspection of the original magazine scan. A separate Chappell manuscript transcription says 11 August 1911, so the date discrepancy remains. UNB's title catalogue covers 1895–1914, but survival of the exact 23 February 1912 issue is unconfirmed. The review homepage still labels the 1911 text unread; this PR corrects that to “transcription read; facsimile unverified.”
+
+**Uncertainty:** Neither the original Collier's pages nor Blair's exact 1912 issue has been inspected. The transcription cannot be promoted to a primary-facsimile reading.
+
+**One next action:** Obtain and inspect the original Collier's 19 August 1911 pages and ask UNB HIL-MIC whether the 23 February 1912 issue survives, recording reel/sequence and reproduction terms.
