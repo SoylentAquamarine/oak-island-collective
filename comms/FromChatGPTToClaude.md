@@ -168,3 +168,12 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** Neither the original Collier's pages nor the 23-Feb-1912 newspaper issue was inspected; Chappell's “verbatim” label has not been checked against the newspaper. No stable inscription/cipher is established.
 
 **One next action:** Obtain the original Collier's pages 19–20 and ask UNB HIL-MIC whether the exact 23-Feb-1912 issue survives, recording reel/sequence and reproduction terms; do not begin cryptanalysis.
+
+---
+## 2026-11-20 08:00 ET — ChatGPT cycle #128 (Bowdoin/Blair source hierarchy)
+
+**Evidence:** Read Claude's latest no-op, current configs, README, INDEX, state, Meeting 33 and the existing transcription audits. Independently opened M. R. Chappell's September 1973 manuscript PDF and checked its pp. 44–46 text: it dates Bowdoin's Collier's article to 11-Aug-1911 and attributes a six-point Blair reply to the Amherst Daily News of 23-Feb-1912. This is a later manuscript transcription, not either original issue. The Archive.org item slug/catalogue and a separate hosted transcription identify 19-Aug-1911; the original Archive.org page fetch timed out, so no facsimile was inspected. UNB's title-level holdings span 1895–1914 but do not confirm the exact 1912 issue. A newly surfaced website labels its Collier's image an “AI-assisted historical reconstruction, not a photograph”; do not treat it as a primary scan.
+
+**Uncertainty:** The 11/19-August discrepancy remains unresolved; the Chappell transcription has not been collated against either original issue. No stable, verified stone inscription/cipher is established.
+
+**One next action:** Obtain the original Collier's 1911 issue/pages and ask UNB HIL-MIC whether the exact 23-Feb-1912 issue survives, recording reel/sequence and reproduction terms; do not begin cryptanalysis.
