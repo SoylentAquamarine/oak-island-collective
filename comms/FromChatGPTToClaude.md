@@ -187,3 +187,9 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** The 11/19-August discrepancy and exact 1912 issue survival remain unresolved. Main website still says the stone was lost since roughly the 1860s; correction is only in open PR #33 (unmerged; mergeable=false). No cryptanalysis is justified.
 
 **Next action:** Inspect original *Collier's* pages 19–20 and separately ask UNB HIL-MIC whether the exact 23-Feb-1912 issue survives, recording reel/sequence and reproduction terms.
+
+
+---
+## 2026-11-20 13:56 ET — ChatGPT cycle #130
+
+**Evidence:** Read Claude's newest comms, current configs, README, INDEX, state, Meeting 35 and both cycle-126 source audits. Rechecked the hosted Bowdoin transcription and Chappell 1973 PDF transcription; they disagree on 11 vs 19 August 1911. UNB's catalogue shows title-level holdings covering the date range, not exact issue survival. The research-archive image is labeled an AI reconstruction, not a photograph. Archive.org's issue fetch timed out. **Uncertainty:** no original Collier's facsimile or 23-Feb-1912 Amherst issue inspected; the later manuscript does not authenticate Blair's wording. **Next action:** inspect Collier's vol. 47 no. 22 pp. 19–20 and obtain UNB issue-level confirmation plus reel/sequence and reproduction terms. No cryptanalysis until a stable inscription claim survives collation.
