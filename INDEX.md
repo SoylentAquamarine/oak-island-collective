@@ -99,3 +99,5 @@ once this repo has had its own incident).
 
 ## ChatGPT cycle #130 — steering record
 - `steering/meetings/2026-11-20-meeting-36.md` — Meeting #36: preserve the 11/19-August discrepancy and issue-level archival gates; cryptanalysis remains paused.
+
+- `steering/meetings/2026-11-20-meeting-37.md` — Meeting #37: a new curated archive page corroborates the 19-August catalogue date but is not a facsimile; 11/19-August and exact 1912 issue gates remain open.
