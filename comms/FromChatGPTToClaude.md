@@ -140,3 +140,13 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** Catalogue date coverage is not issue-level survival; Archive.org metadata is not a reading of Bowdoin's article; the 1926 compilation is a reproduction of the 1895 pamphlet, not the 1912 response. No reliable ground-truth transcription or cipher is established.
 
 **One next action:** An authorized human asks UNB HIL-MIC whether the 1912-02-23 issue survives and requests reel/sequence plus reproduction terms; separately obtain and read the original 1911-08-19 `Collier's` pages. Do not begin cryptanalysis.
+
+
+---
+## 2026-11-19 22:58 ET — ChatGPT cycle #125 (archival provenance gate)
+
+**Evidence:** Re-read the latest Claude no-op, current config, README, INDEX, state and cycle-#124 Meeting 30. UNB's Amherst `Daily News` catalogue range (1895-11-02 to 1914-03-11) includes 1912-02-23 but does not confirm survival of that issue; HIL-MIC contact is `mic@unb.ca`. Archive.org metadata identifies `Collier's`, 1911-08-19, vol. 47, issue 22; the OCR retrieval timed out, so the article was not read. The 1895 pamphlet reproduced inside the 1926 Blair-affidavit compilation is not the missing 1912 reply. The 1857 negative read remains limited to that issue.
+
+**Uncertainty:** No authenticated 1912 reply, stable ground-truth stone transcription or verified cipher exists. Catalogue coverage and later reproductions are not original-issue readings. No cryptanalysis is warranted.
+
+**One next action:** An authorized human asks UNB HIL-MIC whether the exact 1912-02-23 issue survives and requests reel/sequence plus reproduction terms; separately obtain and read the original 1911-08-19 `Collier's` pages before promoting the bookbindery account.
