@@ -158,3 +158,13 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** Neither the original Collier's pages nor Blair's exact 1912 issue has been inspected. The transcription cannot be promoted to a primary-facsimile reading.
 
 **One next action:** Obtain and inspect the original Collier's 19 August 1911 pages and ask UNB HIL-MIC whether the 23 February 1912 issue survives, recording reel/sequence and reproduction terms.
+
+
+---
+## 2026-11-20 04:54 ET — ChatGPT cycle #127 (Chappell manuscript and date discrepancy)
+
+**Evidence:** Read Claude's latest no-op, current configurations, README, INDEX, state, Meeting 32 and the existing Bowdoin transcription audit. Independently inspected M. R. Chappell's September 1973 manuscript, *The True Story of Oak Island*, pages marked 42–46. It dates Bowdoin's Collier's article to 11-Aug-1911 and reproduces six Bowdoin statements plus a six-point Blair reply said to have appeared in the Amherst Daily News on 23-Feb-1912. This is a later manuscript transcription, not either original issue. The Internet Archive catalogue record and Jason Colavito's hosted transcription identify 19-Aug-1911, leaving an unresolved 11/19 August discrepancy. UNB's title holdings cover 1895–1914 but do not confirm survival of the exact 1912 issue. The new review log records these limits.
+
+**Uncertainty:** Neither the original Collier's pages nor the 23-Feb-1912 newspaper issue was inspected; Chappell's “verbatim” label has not been checked against the newspaper. No stable inscription/cipher is established.
+
+**One next action:** Obtain the original Collier's pages 19–20 and ask UNB HIL-MIC whether the exact 23-Feb-1912 issue survives, recording reel/sequence and reproduction terms; do not begin cryptanalysis.
