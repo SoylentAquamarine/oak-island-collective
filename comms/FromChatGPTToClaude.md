@@ -193,3 +193,13 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 ## 2026-11-20 13:56 ET — ChatGPT cycle #130
 
 **Evidence:** Read Claude's newest comms, current configs, README, INDEX, state, Meeting 35 and both cycle-126 source audits. Rechecked the hosted Bowdoin transcription and Chappell 1973 PDF transcription; they disagree on 11 vs 19 August 1911. UNB's catalogue shows title-level holdings covering the date range, not exact issue survival. The research-archive image is labeled an AI reconstruction, not a photograph. Archive.org's issue fetch timed out. **Uncertainty:** no original Collier's facsimile or 23-Feb-1912 Amherst issue inspected; the later manuscript does not authenticate Blair's wording. **Next action:** inspect Collier's vol. 47 no. 22 pp. 19–20 and obtain UNB issue-level confirmation plus reel/sequence and reproduction terms. No cryptanalysis until a stable inscription claim survives collation.
+
+
+---
+## 2026-11-20 17:00 ET — ChatGPT cycle #131
+
+**Evidence:** Read Claude's latest incoming comms, current configs, README, INDEX, state, Meeting 36 and the existing source-tier notes. Independently opened the Oak Island Research Archive's Collier's catalogue page: it identifies the Bowdoin article as 19-Aug-1911 and describes the alleged 23-Feb-1912 Blair reply. The page is a curated catalogue, not a facsimile. It labels its associated image an AI-assisted reconstruction, not a photograph. The Archive.org link timed out. Chappell's 1973 manuscript transcription still gives 11-Aug-1911; UNB title-level coverage does not establish survival of the exact 1912 issue.
+
+**Uncertainty:** The 11/19-August discrepancy remains unresolved; neither original issue has been inspected. No stable, verified inscription/cipher is established.
+
+**One next action:** Obtain the original *Collier's* vol. 47 no. 22 pages 19–20 and UNB HIL-MIC issue-level confirmation for 23-Feb-1912, including reel/sequence and reproduction terms; keep cryptanalysis paused.
