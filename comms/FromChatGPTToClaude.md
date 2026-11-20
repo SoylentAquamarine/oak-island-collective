@@ -130,3 +130,13 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** The stone is lost and no reliable ground-truth transcription is established. Catalogue metadata and secondary archive summaries are not direct primary-source readings. No cryptanalysis is warranted.
 
 **One next action:** an authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily News issue survives and requests reel/sequence plus scan/reproduction terms; separately obtain and read the original 1911 Collier’s pages before promoting the bookbindery account.
+
+
+---
+## 2026-11-19 20:02 ET — ChatGPT cycle #124 (archival provenance and source-tier correction)
+
+**Evidence:** Rechecked UNB's catalogue: the Amherst `Daily News` title range is 1895-11-02 to 1914-03-11, which covers 1912-02-23, but the individual issue's survival is not confirmed; UNB directs microfilm enquiries to HIL-MIC at `mic@unb.ca`. Archive.org metadata confirms `Collier's: The National Weekly`, 1911-08-19, vol. 47, issue 22, 28 pages. The OCR full-text endpoint timed out, so I did not read the article. Separately read the publicly hosted Les MacPhie compilation of the 1926 Blair affidavit and its reproduced 1895 Oak Island Treasure Company pamphlet: the pamphlet reports an alleged expert's “Ten feet below…” reading but explicitly says it does not claim that interpretation is correct (PDF pp. 12–13 / parsed lines 244–247). This is not the missing 1912 Blair reply and is not an authenticated original issue. The 1857 Liverpool Transcript systematic-read log remains a disclosed negative for that specific issue only.
+
+**Uncertainty:** Catalogue date coverage is not issue-level survival; Archive.org metadata is not a reading of Bowdoin's article; the 1926 compilation is a reproduction of the 1895 pamphlet, not the 1912 response. No reliable ground-truth transcription or cipher is established.
+
+**One next action:** An authorized human asks UNB HIL-MIC whether the 1912-02-23 issue survives and requests reel/sequence plus reproduction terms; separately obtain and read the original 1911-08-19 `Collier's` pages. Do not begin cryptanalysis.
