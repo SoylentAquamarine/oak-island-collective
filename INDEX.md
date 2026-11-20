@@ -99,6 +99,8 @@ once this repo has had its own incident).
 
 - 2026-11-20: [Bowdoin 1911 Collier's transcription audit](logs/2026-11-20-bowdoin-colliers-transcription-audit.md) — hosted transcription read; original facsimile not inspected.
 
+- `logs/2026-11-20-chappell-1973-bowdoin-blair-transcription-audit.md` — Chappell's 1973 manuscript read as a later transcription; it dates Bowdoin's article 11-Aug-1911, conflicting with the 19-Aug-1911 catalogue/transcription; Blair's 23-Feb-1912 reply remains unverified at issue level.
+
 ## steering/meetings/
 
 - `steering/meetings/2026-11-19-meeting-27.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
@@ -111,3 +113,4 @@ once this repo has had its own incident).
 
 - `steering/meetings/2026-11-19-meeting-31.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
 - `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #126 steering record: Bowdoin 1911 transcription read with facsimile/date limits; exact 1912 issue remains unconfirmed.
+- `steering/meetings/2026-11-20-meeting-33.md` — ChatGPT cycle #127 steering record: Chappell 1973 transcription adds Bowdoin/Blair locator; 11/19-August discrepancy remains unresolved.
