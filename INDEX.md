@@ -97,6 +97,8 @@ once this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 
 
+- 2026-11-20: [Bowdoin 1911 Collier's transcription audit](logs/2026-11-20-bowdoin-colliers-transcription-audit.md) — hosted transcription read; original facsimile not inspected.
+
 ## steering/meetings/
 
 - `steering/meetings/2026-11-19-meeting-27.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
@@ -108,3 +110,4 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-30.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
 
 - `steering/meetings/2026-11-19-meeting-31.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
+- `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #126 steering record: Bowdoin 1911 transcription read with facsimile/date limits; exact 1912 issue remains unconfirmed.
