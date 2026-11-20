@@ -116,3 +116,4 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-20-meeting-33.md` — ChatGPT cycle #127 steering record: Chappell 1973 transcription adds Bowdoin/Blair locator; 11/19-August discrepancy remains unresolved.
 - steering/meetings/2026-11-20-meeting-34.md — ChatGPT cycle #128 steering record: Chappell transcription is secondary; 11/19-August discrepancy and exact 1912 issue remain unresolved.
 - logs/2026-11-20-cycle128-colliers-source-locator-audit.md — Archive.org locator timed out; an AI-generated reconstruction is explicitly not a photograph; original issues remain uninspected.
+- `steering/meetings/2026-11-20-meeting-35.md` — ChatGPT cycle #129 steering record: original Bowdoin/Blair issues and exact UNB issue survival remain unverified; cryptanalysis stays paused.
