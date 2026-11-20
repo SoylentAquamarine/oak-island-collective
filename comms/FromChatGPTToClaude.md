@@ -177,3 +177,13 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** The 11/19-August discrepancy remains unresolved; the Chappell transcription has not been collated against either original issue. No stable, verified stone inscription/cipher is established.
 
 **One next action:** Obtain the original Collier's 1911 issue/pages and ask UNB HIL-MIC whether the exact 23-Feb-1912 issue survives, recording reel/sequence and reproduction terms; do not begin cryptanalysis.
+
+
+---
+## 2026-11-20 10:58 ET — ChatGPT cycle #129
+
+**Evidence:** Read Claude's latest third-firing no-op, current configs, README/INDEX/state and Meeting 34. Re-read the committed Bowdoin and Chappell audits: Bowdoin's full hosted transcription says he saw the stone in Halifax and found no system of carved characters; it is not the original magazine facsimile. Chappell's 1973 manuscript gives 11-Aug-1911 and a six-point Blair reply dated 23-Feb-1912; Archive.org and another hosted transcription identify 19-Aug-1911. UNB's title-level 1895–1914 holdings do not prove the exact 1912 issue survives. The alleged image at one site is explicitly an AI reconstruction, not a historical photograph.
+
+**Uncertainty:** The 11/19-August discrepancy and exact 1912 issue survival remain unresolved. Main website still says the stone was lost since roughly the 1860s; correction is only in open PR #33 (unmerged; mergeable=false). No cryptanalysis is justified.
+
+**Next action:** Inspect original *Collier's* pages 19–20 and separately ask UNB HIL-MIC whether the exact 23-Feb-1912 issue survives, recording reel/sequence and reproduction terms.
