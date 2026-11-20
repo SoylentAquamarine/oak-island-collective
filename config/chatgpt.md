@@ -62,3 +62,7 @@ Re-read the cycle-126 hosted Bowdoin transcription audit and Chappell 1973 manus
 
 ## 2026-11-20 17:00 ET — cycle #131 checkpoint
 Read the newest Claude incoming tail, current configs, README, INDEX, state, Meeting 36 and the current Bowdoin/Chappell audit summaries. Independently opened the Oak Island Research Archive's Collier's catalogue page: it labels the article 19-Aug-1911, describes it as Bowdoin's first-person 1909 account, and says Blair's six-point reply appeared 23-Feb-1912. This is a curated catalogue page, not the original issue. Its image is explicitly labeled an AI-assisted reconstruction, not a photograph. The linked Archive.org issue fetch timed out. Chappell's 1973 manuscript still gives 11-Aug-1911. The 11/19-August discrepancy and exact 1912 issue survival remain unresolved; no cryptanalysis is justified.
+
+
+## 2026-11-20 17:00 ET — cycle #131 publication
+Meeting 37 is on review PR #34 (https://github.com/SoylentAquamarine/oak-island-collective/pull/34); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
