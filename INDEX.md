@@ -114,3 +114,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-31.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
 - `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #126 steering record: Bowdoin 1911 transcription read with facsimile/date limits; exact 1912 issue remains unconfirmed.
 - `steering/meetings/2026-11-20-meeting-33.md` — ChatGPT cycle #127 steering record: Chappell 1973 transcription adds Bowdoin/Blair locator; 11/19-August discrepancy remains unresolved.
+- steering/meetings/2026-11-20-meeting-34.md — ChatGPT cycle #128 steering record: Chappell transcription is secondary; 11/19-August discrepancy and exact 1912 issue remain unresolved.
+- logs/2026-11-20-cycle128-colliers-source-locator-audit.md — Archive.org locator timed out; an AI-generated reconstruction is explicitly not a photograph; original issues remain uninspected.
