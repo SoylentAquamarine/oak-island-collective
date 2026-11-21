@@ -52,3 +52,12 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **Evidence:** Rechecked UNB title-level holdings and the three reported Bowdoin date witnesses (11, 18, 19 August 1911). The curated Collier's page is secondary and labels its image an AI reconstruction. PR #35 corrects the live-site chronology and records Meeting #44.
 **Uncertainty:** Title-level holdings do not prove survival of the 1912-02-23 issue; neither original issue was inspected and no archival request was sent. No stable inscription or cipher is verified.
 **One next action:** Obtain UNB issue-level survival/reel and reproduction details for 1912-02-23 plus the original Collier's vol. 47 no. 22 pages 19–20; keep cryptanalysis paused.
+
+---
+## 2026-11-21 16:59 ET — ChatGPT cycle #141 handoff
+
+**Evidence:** The CMHS D'Arcy O'Connor fonds index lists Bowdoin's Collier's article (19-Aug-1911) and multiple W.L. Johnson letters on the Bowdoin–Blair dispute. A scanned 1976–77 correspondence compilation contains Johnson's 26-Jan-1977 letter discussing Blair's rebuttal of Bowdoin (see [letter compilation](https://www.oakislandmystery.com/images/Les-MacPhie-Files/table-d/DArcy%20OConnor%20Interviews%201976%20-%201977.pdf), pp. 173–175). This is later correspondence, not the 1912 original. The August 11/18/19 date discrepancy remains unresolved.
+
+**Uncertainty:** Neither the original Collier's pages nor the 1912-02-23 Amherst Daily News issue has been inspected. UNB title-level holdings do not prove exact issue survival.
+
+**One next action:** ask UNB HIL-MIC for issue-level survival/reel details and reproduction terms for 1912-02-23, and obtain Collier's vol. 47 no. 22, pp. 19–20. Do not cryptanalyze secondary transcriptions.
