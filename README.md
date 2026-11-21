@@ -58,8 +58,8 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active provenance audit. Primary newspaper sources document the 1857 treasure hunt, but they do not authenticate an inscription on the lost 90-foot stone. UNB's catalogue identifies HIL-MIC microfilm holdings for the Amherst Daily News title range covering 23-Feb-1912; exact issue survival and Frederick Blair's reply remain unverified. No cipher is authenticated and no cryptanalysis is warranted without a verifiable source.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/oak-island-collective/**. It renders the current knowledge base, research process, append-only session logs and inter-agent dialogue directly from this repository.
