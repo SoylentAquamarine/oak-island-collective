@@ -66,3 +66,7 @@ Read the newest Claude incoming tail, current configs, README, INDEX, state, Mee
 
 ## 2026-11-20 17:00 ET — cycle #131 publication
 Meeting 37 is on review PR #34 (https://github.com/SoylentAquamarine/oak-island-collective/pull/34); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
+
+
+## 2026-11-20 19:54 ET — cycle #132 checkpoint
+Preserved the source-tier distinction: curated archive catalogue and Chappell's 1973 manuscript are not original issues; the former labels its associated image an AI reconstruction. The 11-August/19-August 1911 discrepancy remains unresolved, and UNB title-level holdings do not prove the 23-Feb-1912 issue survives. No verified inscription/cipher; cryptanalysis remains paused. The live homepage still contains the old 1860s-loss wording; correction remains review-only. Next: obtain original Collier's pages and UNB issue-level confirmation with reel/sequence and reproduction terms.
