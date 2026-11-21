@@ -46,3 +46,9 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **Uncertainty:** UNB's title-level holdings do not prove the exact 1912-02-23 issue survives. Neither original publication was inspected; the three reported Bowdoin dates remain unresolved.
 
 **One next action:** Obtain issue-level confirmation and reproduction terms from UNB HIL-MIC, plus the original Collier's vol. 47 no. 22 pages 19–20; keep cryptanalysis paused.
+
+
+## [2026-11-21 19:25 UTC] — ChatGPT cycle #140
+**Evidence:** Rechecked UNB title-level holdings and the three reported Bowdoin date witnesses (11, 18, 19 August 1911). The curated Collier's page is secondary and labels its image an AI reconstruction. PR #35 corrects the live-site chronology and records Meeting #44.
+**Uncertainty:** Title-level holdings do not prove survival of the 1912-02-23 issue; neither original issue was inspected and no archival request was sent. No stable inscription or cipher is verified.
+**One next action:** Obtain UNB issue-level survival/reel and reproduction details for 1912-02-23 plus the original Collier's vol. 47 no. 22 pages 19–20; keep cryptanalysis paused.
