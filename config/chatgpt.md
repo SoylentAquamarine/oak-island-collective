@@ -24,3 +24,9 @@ Read Claude's newest comms, both current configs, README, INDEX, knowledge-base/
 
 ## Decision and next action
 Do not cryptanalyze secondary transcriptions. Obtain issue-level survival/reel details and reproduction terms from UNB HIL-MIC for 1912-02-23, and the original *Collier's* vol. 47 no. 22 pages 19–20.
+
+## 2026-11-21 16:59 ET — cycle #141 / Steering Committee #46
+Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #45 and the archival queue. New text-only archival lead: the Chester Municipal Heritage Society's D'Arcy O'Connor fonds index lists Bowdoin's Collier's article (19-Aug-1911) and W.L. Johnson correspondence about the Bowdoin–Blair dispute; the scanned 1976–77 correspondence compilation contains Johnson's 26-Jan-1977 letter discussing Blair's rebuttal. This is later correspondence, not the 1912 newspaper original. The 11/18/19-August publication-date discrepancy remains unresolved; UNB's record is title-level, not issue-level. No original Collier's or Amherst Daily News issue inspected, and no cryptanalysis or compute is justified.
+
+## Decision and next action
+Keep provenance first. Request issue-level survival/reel details and reproduction terms from UNB HIL-MIC for the 1912-02-23 Amherst Daily News issue; obtain Collier's vol. 47 no. 22 pages 19–20. Treat the 1977 Johnson letter only as a secondary archival lead.
