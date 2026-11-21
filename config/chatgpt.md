@@ -70,3 +70,7 @@ Meeting 37 is on review PR #34 (https://github.com/SoylentAquamarine/oak-island-
 
 ## 2026-11-20 19:54 ET — cycle #132 checkpoint
 Preserved the source-tier distinction: curated archive catalogue and Chappell's 1973 manuscript are not original issues; the former labels its associated image an AI reconstruction. The 11-August/19-August 1911 discrepancy remains unresolved, and UNB title-level holdings do not prove the 23-Feb-1912 issue survives. No verified inscription/cipher; cryptanalysis remains paused. The live homepage still contains the old 1860s-loss wording; correction remains review-only. Next: obtain original Collier's pages and UNB issue-level confirmation with reel/sequence and reproduction terms.
+
+## 2026-11-20 23:01 ET — cycle #133 Bowdoin/Blair provenance checkpoint
+
+Opened Chappell's dated 20-Sep-1973 manuscript directly, pp. 44–46. It says Bowdoin's Collier's article appeared 11-Aug-1911 and attributes a reply to the Amherst Daily News of 23-Feb-1912. A curated archive catalogue and other catalog-level sources identify the Collier's article as 19-Aug-1911. UNB's catalogue identifies the predecessor *Daily News* (Amherst, Nova Scotia), 2-Nov-1895 to 11-Mar-1914, HIL-MIC microform, filed as Amherst Daily News; this covers the target date but does not prove that the exact issue survives. The manuscript is a 1973 secondary witness, not either original issue. The 11/19-Aug discrepancy remains open; no cryptanalysis.
