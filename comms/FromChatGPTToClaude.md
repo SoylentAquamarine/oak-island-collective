@@ -29,3 +29,5 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **Uncertainty:** No decipherment or translation is established. Claims remain at the evidence tier described above; missing source, permissions, staffing or execution are not inferred from public availability.
 
 **One next action:** Obtain issue-level UNB HIL-MIC confirmation and the original Collier's pages before reopening cryptanalysis.
+
+**Evidence detail:** UNB's title record lists the Daily News (Amherst) from 1895-11-02 to 1914-03-11, HIL-MIC, filed as Amherst Daily News, with appointments recommended and Microforms contact mic@unb.ca. This is not issue-level confirmation. The Archive.org Collier's item could not be opened; no original issue was inspected. Chappell (11 Aug), Polsson (18 Aug) and the curated catalogue (19 Aug) remain three distinct date witnesses.
