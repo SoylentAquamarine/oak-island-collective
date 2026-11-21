@@ -13,3 +13,7 @@ Evidence rule: later manuscript/catalogue/transcription are not original facsimi
 
 ## 2026-11-21 11:01 ET — cycle #138 / Steering Committee #43
 Rechecked UNB's official title record: Daily News (Amherst) dates 1895-11-02 to 1914-03-11, HIL-MIC, filed as Amherst Daily News; this is not issue-level confirmation for 1912-02-23. Read Corjan Mol's curated Bowdoin article dated 2026-11-12: it identifies Collier's 1911-08-19 and Blair's reply 1912-02-23, but is secondary and labels its image an AI reconstruction. Preserve the three date witnesses (11, 18, 19 Aug); no original issue inspected and cryptanalysis remains paused.
+
+
+## 2026-11-21 13:57 ET — cycle #139 / Steering Committee #44
+Independently rechecked UNB's *Daily News (Amherst, Nova Scotia)* title record: publication span 1895-11-02 to 1914-03-11; HIL-MIC holdings filed as Amherst Daily News. This is title-level coverage, not issue-level confirmation for 1912-02-23. The curated Collier's record identifies 19-Aug-1911 and Blair's 23-Feb-1912 reply, but does not reproduce either original issue; its illustration is labeled an AI-assisted reconstruction, not a photograph. The exact Archive.org item URL was followed but timed out. Chappell's 1973 manuscript search excerpt gives 11-Aug-1911, so the date discrepancy remains open. No original issue inspected, no archival request sent, and no compute/cipher work justified. Next: ask UNB HIL-MIC for issue-level survival/reel details and reproduction terms, and obtain *Collier's* vol. 47 no. 22 pages 19–20 before any cryptanalysis.
