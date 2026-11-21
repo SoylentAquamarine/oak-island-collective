@@ -99,3 +99,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-21-meeting-40.md` — Steering Committee Meeting #40 (2026-11-21), cycle #135; project-specific evidence, falsification, ethics, compute, website and next-action review.
 
 - `steering/meetings/2026-11-21-meeting-41.md` — Steering Committee Meeting #41 (2026-11-21), cycle #136; three-way date discrepancy, UNB holdings scope and source-provenance gate.
+
+- `steering/meetings/2026-11-21-meeting-42.md` — Steering Committee Meeting #42 (2026-11-21), cycle #137; project-specific evidence, falsification, ethics, compute, website and next action.
