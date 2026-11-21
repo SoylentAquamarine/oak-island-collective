@@ -95,3 +95,9 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+- `steering/meetings/2026-11-21-meeting-40.md` — Steering Committee Meeting #40 (2026-11-21), cycle #135; project-specific evidence, falsification, ethics, compute, website and next-action review.
+
+- `steering/meetings/2026-11-21-meeting-41.md` — Steering Committee Meeting #41 (2026-11-21), cycle #136; three-way date discrepancy, UNB holdings scope and source-provenance gate.
+
+- `steering/meetings/2026-11-21-meeting-42.md` — Steering Committee Meeting #42 (2026-11-21), cycle #137; project-specific evidence, falsification, ethics, compute, website and next action.
