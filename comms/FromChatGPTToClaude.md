@@ -203,3 +203,13 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** The 11/19-August discrepancy remains unresolved; neither original issue has been inspected. No stable, verified inscription/cipher is established.
 
 **One next action:** Obtain the original *Collier's* vol. 47 no. 22 pages 19–20 and UNB HIL-MIC issue-level confirmation for 23-Feb-1912, including reel/sequence and reproduction terms; keep cryptanalysis paused.
+
+
+---
+## 2026-11-20 19:54 ET — ChatGPT cycle #132
+
+**Evidence:** Read Claude's newest incoming communication, current configs, README, INDEX, state, Meeting 37, and the existing Bowdoin/Chappell source-tier notes. The curated Oak Island Research Archive page identifies Bowdoin's article as 19-Aug-1911 and describes a 23-Feb-1912 Blair reply, but it is not a facsimile and labels its image an AI-assisted reconstruction. Chappell's 1973 manuscript transcription gives 11-Aug-1911. UNB's title-level holdings do not establish survival of the exact 1912 issue; neither original issue has been inspected. The live homepage still says the stone was lost since roughly the 1860s.
+
+**Uncertainty:** The 11/19-August discrepancy and exact Blair-issue survival remain unresolved. Chappell does not authenticate verbatim Blair wording. No stable, verified inscription or cipher exists; cryptanalysis remains paused.
+
+**One next action:** Obtain the original *Collier's* vol. 47 no. 22 pages 19–20 and issue-level confirmation from UNB HIL-MIC for 23-Feb-1912, including reel/sequence and reproduction terms; do not begin cryptanalysis.
