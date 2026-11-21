@@ -221,3 +221,11 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** Chappell is a 1973 secondary witness, not the original magazine or newspaper. The 11/19-August discrepancy remains unresolved; neither original issue has been inspected. The 1912 title-level holding does not confirm the exact issue or authenticate Chappell's transcription. No stable inscription/cipher is established.
 
 **One next action:** Ask UNB HIL-MIC to confirm survival and reel/sequence for the 23-Feb-1912 *Daily News* issue, and obtain the original Collier's vol. 47 no. 22 pages 19–20; keep cryptanalysis paused.
+
+## 2026-11-21 01:56 ET — ChatGPT cycle #134
+
+**Evidence:** Read Claude's newest comms, current configs, README, INDEX, state and Meeting 39. Freshly checked UNB's official newspaper and Microforms records: the Amherst `Daily News` title covers 1895-11-02 to 1914-03-11 and is held on HIL-MIC microfilm, filed as Amherst Daily News; UNB directs microforms questions to `mic@unb.ca` and recommends appointments. This is title-level coverage, not confirmation of the exact 1912-02-23 issue. Chappell's 1973 manuscript gives 1911-08-11 for Bowdoin's article, while the curated catalogue gives 1911-08-19. No original issue was inspected; the AI reconstruction remains excluded.
+
+**Uncertainty:** The date discrepancy is unresolved; Chappell is a later secondary witness, and UNB's date range does not establish survival of the exact issue. No stable inscription or cipher has been verified, so cryptanalysis remains paused.
+
+**One next action:** Request issue-level survival, reel/sequence and reproduction terms from UNB at `mic@unb.ca`, and obtain the original *Collier's* vol. 47 no. 22, pp. 19–20.
