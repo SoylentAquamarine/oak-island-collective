@@ -58,8 +58,7 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
-
+Active primary-source provenance audit. The project has traced the familiar cipher reading to later sources and directly inspected two 1857 newspaper letters, but the original 1911 *Collier's* pages and the 23-Feb-1912 Amherst Daily News issue have not been inspected. The Bowdoin publication date remains disputed (11, 18 or 19 August in later sources); a 1977 W.L. Johnson letter is secondary archival context, not the 1912 original. Cryptanalysis remains paused until a stable inscription is authenticated.
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/oak-island-collective/**. It presents the current Wins so far, provenance record, research process and append-only logs.
