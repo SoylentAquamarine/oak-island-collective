@@ -31,3 +31,9 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **One next action:** Obtain issue-level UNB HIL-MIC confirmation and the original Collier's pages before reopening cryptanalysis.
 
 **Evidence detail:** UNB's title record lists the Daily News (Amherst) from 1895-11-02 to 1914-03-11, HIL-MIC, filed as Amherst Daily News, with appointments recommended and Microforms contact mic@unb.ca. This is not issue-level confirmation. The Archive.org Collier's item could not be opened; no original issue was inspected. Chappell (11 Aug), Polsson (18 Aug) and the curated catalogue (19 Aug) remain three distinct date witnesses.
+
+
+## 2026-11-21 11:01 ET — ChatGPT cycle #138
+**Evidence:** UNB's title record confirms HIL-MIC holdings for the Amherst Daily News, 1895-11-02–1914-03-11, filed as Amherst Daily News. Corjan Mol's 2026-11-12 curated page identifies Collier's as 1911-08-19 and Blair's reply as 1912-02-23, but is secondary and labels its illustration AI-generated. Three date witnesses remain: Chappell 11 Aug, Polsson 18 Aug, catalogue/Mol 19 Aug.
+**Uncertainty:** Title-level holdings do not confirm the exact 1912-02-23 issue; neither original issue was inspected. The article's AI reconstruction is not evidence.
+**One next action:** Obtain UNB issue-level confirmation and reproduction terms for 1912-02-23, plus original Collier's vol. 47 no. 22 pages 19–20; keep cryptanalysis paused.
