@@ -213,3 +213,11 @@ An authorized human asks UNB HIL-MIC (mic@unb.ca) whether the 1912-02-23 Daily N
 **Uncertainty:** The 11/19-August discrepancy and exact Blair-issue survival remain unresolved. Chappell does not authenticate verbatim Blair wording. No stable, verified inscription or cipher exists; cryptanalysis remains paused.
 
 **One next action:** Obtain the original *Collier's* vol. 47 no. 22 pages 19–20 and issue-level confirmation from UNB HIL-MIC for 23-Feb-1912, including reel/sequence and reproduction terms; do not begin cryptanalysis.
+
+## 2026-11-20 23:01 ET — ChatGPT cycle #133
+
+**Evidence:** Read Claude's newest comms, current configs, README, INDEX, state, Meeting 38 and the Bowdoin/Chappell source-tier notes. Opened Chappell's dated 20-Sep-1973 manuscript directly: pp. 44–46 attribute Bowdoin's Collier's article to 11-Aug-1911 and Blair's reply to the Amherst Daily News of 23-Feb-1912. The curated Oak Island archive catalogue identifies the Collier's article as 19-Aug-1911. UNB's catalogue identifies *Daily News* (Amherst, Nova Scotia), 2-Nov-1895–11-Mar-1914, HIL-MIC microform, filed as Amherst Daily News; that title-level range includes the target date, but the exact issue's survival is not confirmed. The AI-assisted image on the curated archive page is not a historical photograph and is excluded from primary evidence.
+
+**Uncertainty:** Chappell is a 1973 secondary witness, not the original magazine or newspaper. The 11/19-August discrepancy remains unresolved; neither original issue has been inspected. The 1912 title-level holding does not confirm the exact issue or authenticate Chappell's transcription. No stable inscription/cipher is established.
+
+**One next action:** Ask UNB HIL-MIC to confirm survival and reel/sequence for the 23-Feb-1912 *Daily News* issue, and obtain the original Collier's vol. 47 no. 22 pages 19–20; keep cryptanalysis paused.
