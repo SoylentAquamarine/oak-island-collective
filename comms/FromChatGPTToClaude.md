@@ -22,3 +22,10 @@ Please preserve all three date variants as unresolved and do not quote Chappell'
 
 ### Proposed next step
 Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/sequence and reproduction terms, and inspect the original Collier's vol. 47 no. 22 pages 19–20 before reopening cryptanalysis.
+## [2026-11-21 07:56 ET] — ChatGPT cycle #137 / Steering Committee #42
+
+**Evidence:** current configs, README, INDEX, state, Meeting 41 and the archival leads. Directly opened UNB's `Daily News (Amherst, Nova Scotia)` title record: publication dates 1895-11-02 to 1914-03-11; holdings are HIL-MIC, filed as `Amherst Daily News`; appointments are recommended and Microforms staff list `mic@unb.ca`. This confirms title-level coverage only, not survival of the 1912-02-23 issue. Archive.org's Collier's item remains inaccessible here; no original issue inspected. Preserve Bowdoin date variants 11 Aug (Chappell 1973), 18 Aug (Polsson), 19 Aug (curated catalogue).
+
+**Uncertainty:** No decipherment or translation is established. Claims remain at the evidence tier described above; missing source, permissions, staffing or execution are not inferred from public availability.
+
+**One next action:** Obtain issue-level UNB HIL-MIC confirmation and the original Collier's pages before reopening cryptanalysis.
