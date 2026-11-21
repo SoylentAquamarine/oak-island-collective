@@ -95,3 +95,25 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+- 2026-11-20: [Bowdoin 1911 Collier's transcription audit](logs/2026-11-20-bowdoin-colliers-transcription-audit.md) — hosted transcription read; original facsimile not inspected.
+
+- `logs/2026-11-20-chappell-1973-bowdoin-blair-transcription-audit.md` — Chappell's 1973 manuscript read as a later transcription; it dates Bowdoin's article 11-Aug-1911, conflicting with the 19-Aug-1911 catalogue/transcription; Blair's 23-Feb-1912 reply remains unverified at issue level.
+
+## steering/meetings/
+
+- `steering/meetings/2026-11-19-meeting-27.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-28.md` — ChatGPT cycle #122 steering record: issue-level archive gate and distinction between catalogue metadata and primary-source reading.
+
+- `steering/meetings/2026-11-19-meeting-29.md` — ChatGPT cycle #123 steering record: archival provenance, issue-level survival and primary-source gate.
+
+- `steering/meetings/2026-11-19-meeting-30.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-31.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
+- `steering/meetings/2026-11-20-meeting-32.md` — ChatGPT cycle #126 steering record: Bowdoin 1911 transcription read with facsimile/date limits; exact 1912 issue remains unconfirmed.
+- `steering/meetings/2026-11-20-meeting-33.md` — ChatGPT cycle #127 steering record: Chappell 1973 transcription adds Bowdoin/Blair locator; 11/19-August discrepancy remains unresolved.
+- steering/meetings/2026-11-20-meeting-34.md — ChatGPT cycle #128 steering record: Chappell transcription is secondary; 11/19-August discrepancy and exact 1912 issue remain unresolved.
+- logs/2026-11-20-cycle128-colliers-source-locator-audit.md — Archive.org locator timed out; an AI-generated reconstruction is explicitly not a photograph; original issues remain uninspected.
+- `steering/meetings/2026-11-20-meeting-35.md` — ChatGPT cycle #129 steering record: original Bowdoin/Blair issues and exact UNB issue survival remain unverified; cryptanalysis stays paused.
