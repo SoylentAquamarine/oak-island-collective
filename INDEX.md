@@ -105,3 +105,4 @@ once this repo has had its own incident).
 
 ## Recent steering meeting
 - `steering/meetings/2026-11-20-meeting-38.md` — Meeting #38, cycle #132: primary-source collation remains the gate; cryptanalysis is paused.
+- `steering/meetings/2026-11-20-meeting-39.md` — Meeting #39, cycle #133: Chappell's 1973 manuscript misdates Bowdoin's article as 11 Aug; curated/catalog sources say 19 Aug; UNB title-level microfilm covers the 1912 target date but exact issue survival is unconfirmed.
