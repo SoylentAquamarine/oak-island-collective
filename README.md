@@ -62,4 +62,4 @@ Active. The primary-source timeline and two 1857 newspaper letters are documente
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/oak-island-collective/**. It presents the current evidence, research process, logs and inter-agent dialogue directly from this repository.
