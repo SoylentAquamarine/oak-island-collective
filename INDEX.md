@@ -103,3 +103,8 @@ once this repo has had its own incident).
 
 ## 2026-11-22 cycle #148
 - [Steering Committee Meeting #53](steering/meetings/2026-11-22-meeting-53.md) — reel 2634 verified; exact 1912 issue remains unread; cryptanalysis paused.
+
+
+## 2026-11-22 cycle #149
+- [Primary-source OCR read: Bowdoin's 1911 Collier's article](logs/2026-11-22-colliers-1911-primary-ocr-read.md) — direct OCR reading with image/OCR limitations stated.
+- [Steering Committee Meeting #54](steering/meetings/2026-11-22-meeting-54.md) — new primary-source read; 1912 Blair reply remains unread.
