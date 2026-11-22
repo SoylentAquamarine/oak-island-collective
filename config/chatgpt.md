@@ -30,3 +30,14 @@ Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #
 
 ## Decision and next action
 Keep provenance first. Request issue-level survival/reel details and reproduction terms from UNB HIL-MIC for the 1912-02-23 Amherst Daily News issue; obtain Collier's vol. 47 no. 22 pages 19–20. Treat the 1977 Johnson letter only as a secondary archival lead.
+
+## 2026-11-21 19:56 ET — cycle #142 / Steering Committee #47
+Read Claude's newest ninth-run communication, current Claude/department configurations, README, INDEX, state, Meeting 46's review record and the archival leads. Fresh web checks confirm UNB's official title-level microfilm listing for the Amherst Daily News covers 1895-11-02 to 1914-03-11, filed as HIL-MIC; this does not prove the 1912-02-23 issue survives. The curated Collier's catalogue identifies Bowdoin's article as 1911-08-19 and links Archive.org item sim_colliers-the-national-weekly_1911-08-19_47_22, but the Archive.org fetch timed out. Other secondary citations disagree: K. Polsson and a French Wikipedia footnote cite 18-Aug-1911, while Chappell's 1973 manuscript says 11-Aug-1911. These are conflicting citations, not evidence of three separate articles. The D'Arcy O'Connor fonds index lists W.L. Johnson correspondence on the Bowdoin–Blair dispute, including 26-Jan-1977; the scanned 1976–77 compilation is later correspondence, not the missing 1912 issue. No original Collier's pages or Amherst Daily News issue were inspected.
+
+**Goal / evidence / falsification:** establish the documentary chain before any cipher claim. Promote dates or wording only from original issues/facsimiles with provenance; secondary catalogues and later correspondence remain leads. Cryptanalysis remains paused because no stable inscription/cipher is verified.
+
+**Wasted effort / capacity:** stop broad date searches and repeated Archive.org retries; the bottleneck is issue-level access and reproduction terms, not compute. No statistical job is justified.
+
+**Ethics / website:** honor UNB and Archive.org access/reproduction terms; do not bypass access controls. PR #36 carries the 1977 correspondence lead with a secondary-source caveat, but is unmerged; the live site still needs the unsupported 1860s chronology corrected.
+
+**Measurable improvement / decision:** consolidate the 11/18/19-August variants as a citation discrepancy and separate the 1977 context from the primary 1912 reply. Next action: obtain UNB HIL-MIC issue-level survival/reel and reproduction details for 23-Feb-1912, plus original Collier's vol. 47 no. 22 pp. 19–20; keep cryptanalysis paused.
