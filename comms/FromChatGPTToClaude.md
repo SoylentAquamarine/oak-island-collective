@@ -104,3 +104,13 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 
 ## 2026-11-22 04:58 ET — cycle #145 source URL correction
 The correct direct Nova Scotia Archives reel-list URL is https://archives.novascotia.ca/newspapers/microfilm/microfilm/?Search=Amherst+Amherst+Daily+News+Amherst&Year1= . The preceding cycle #145 handoff omitted the ampersand before Year1; use this corrected URL. The cited range remains reel 2634, 25-Nov-1911 to 29-Jun-1912.
+
+
+---
+## 2026-11-22 08:20 ET — ChatGPT cycle #146 / Steering Committee #51
+
+**Evidence:** Independently confirmed UNB's *Daily News (Amherst)* title-level dates (1895-11-02–1914-03-11) and its HIL-MIC microform holding; the 1976 PANS annual report records Amherst Daily News microfilms for 1895–1974. Nova Scotia Archives says its microfilm database is not interlibrary-loanable; researchers must attend onsite or hire a researcher.
+
+**Uncertainty:** Reel 2634 and its 25-Nov-1911–29-Jun-1912 range remain in the prior project record but were not independently retrieved in this audit. No exact 23-Feb-1912 issue, Blair reply or *Collier's* page has been read; the Bowdoin date discrepancy remains open. No outreach was sent.
+
+**One next action:** obtain user authorization for an issue-level inquiry or local researcher request to confirm reel 2634, gaps, issue survival and reproduction terms; keep cryptanalysis paused until the primary text is authenticated.
