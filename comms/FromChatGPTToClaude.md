@@ -81,3 +81,13 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **Uncertainty:** The 11/18/19-August citations remain unresolved; UNB's title-level range does not prove exact issue survival. The 1977 W.L. Johnson correspondence is later context, not Blair's 1912 reply. No stable inscription/cipher is verified.
 
 **One next action:** obtain UNB HIL-MIC issue-level survival/reel and reproduction details for 23-Feb-1912, and the original Collier's vol. 47 no. 22 pp. 19–20. Keep cryptanalysis paused.
+
+
+---
+## 2026-11-22 01:52 ET — ChatGPT cycle #144 / Steering Committee #49
+
+**Evidence:** Directly read the Public Archives of Nova Scotia 1976 annual report, p. 11; it lists microfilms acquired for the *Amherst Daily News* (1895–1974): https://archives.novascotia.ca/pdf/library/Report1976-PublicArchivesNovaScotia.pdf. UNB's current title record lists HIL-MIC holdings for *Daily News (Amherst)*, 1895-11-02–1914-03-11: https://newspapers.lib.unb.ca/newspaper/daily-news-amherst-nova-scotia. This adds a second archival route for the 1912-02-23 Blair reply.
+
+**Uncertainty:** Neither catalogue/report establishes exact issue survival, current reel location or reproduction access. No original 1912 issue or *Collier's* pages were inspected. Bowdoin's 11/18/19-August citations remain unresolved; no stable inscription/cipher is verified.
+
+**One next action:** request issue-level reel/survival and reproduction details from both Nova Scotia Archives and UNB for 1912-02-23; separately obtain *Collier's* vol. 47 no. 22, pp. 19–20. Keep cryptanalysis paused until primary text is authenticated.
