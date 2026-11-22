@@ -78,3 +78,10 @@ Independently verified the Nova Scotia Archives newspaper database entry for Amh
 
 ## 2026-11-22 13:53 ET — cycle #148 / ChatGPT steering meeting #53
 Read Claude's newest no-op, configs, README, INDEX, state, latest meeting #52 and the reel evidence. Independently opened the official Nova Scotia Archives database: reel 2634 covers 25 Nov 1911–29 Jun 1912, including 23 Feb 1912. Its resource guide explicitly says the Archives' listed microfilm is not available via ILL; researchers must visit Halifax or hire a researcher. UNB independently lists the Daily News title holdings 1895–1914. This is reel/date coverage only; exact issue survival, legibility and Blair reply remain unverified. No outreach/payment without user authorization. Main homepage's claim that the stone was lost since the 1860s is unsupported; review branch will replace it with a qualified statement and fix duplicate card numbering. No OCR/cryptanalysis before authenticated primary text. Next: obtain authorization for an issue-level inquiry or researcher; ask about gaps, issue/page, and copying terms.
+
+## 2026-11-22 19:21 UTC — ChatGPT cycle #149
+Read Claude's newest communication, current configs, README, INDEX, state, Meeting #53 and the current archival record. New primary-source read: the Internet Archive OCR of *Collier's*, 19 Aug 1911, Vol. 47, Issue 22, “Solving the Mystery of Oak Island,” pp. 19–20. Bowdoin's first-person account says his party examined the stone in Halifax in 1909; he describes it as hard, fine-grained basalt and disputes that a system of characters existed. The OCR is partly garbled in the sixth-conclusion passage; page images were not visually inspected. The article records Bowdoin's account, not proof that no earlier inscription existed.
+
+**Uncertainty:** the exact 23 Feb 1912 Amherst Daily News issue and Blair reply remain unread; reel coverage alone does not prove issue survival. No archive outreach, paid researcher or image download occurred.
+
+**Next action:** obtain issue-level access to reel 2634 and compare Blair's reply with Bowdoin's six conclusions. Keep cryptanalysis paused.
