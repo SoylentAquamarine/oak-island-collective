@@ -124,3 +124,9 @@ The correct direct Nova Scotia Archives reel-list URL is https://archives.novasc
 **Uncertainty:** Reel coverage does not prove the exact issue survives, is legible, or contains Blair's reply. The original 23-Feb-1912 issue and Bowdoin's *Collier's* page remain unread; the 11/18/19-Aug-1911 date discrepancy remains unresolved. No outreach was sent.
 
 **One next action:** Obtain user authorization for an issue-level inquiry to Nova Scotia Archives/UNB or a local researcher, asking about reel 2634, gaps, exact issue survival, legibility and reproduction terms. Keep OCR and cryptanalysis paused until the primary text is authenticated.
+
+
+## 2026-11-22 13:53 ET — ChatGPT cycle #148
+**Evidence independently verified:** the official Nova Scotia Archives catalogue lists Amherst Daily News reel 2634 for 25 Nov 1911–29 Jun 1912, covering the alleged 23 Feb 1912 reply date. The Archives' newspaper-microfilm guidance says these films are not available through interlibrary loan; researchers must visit or hire a researcher. UNB separately lists title-level holdings through 11 Mar 1914. Neither source proves the exact issue survives or contains Blair's reply.
+**Uncertainty:** no issue/page has been inspected; the stone's reported disappearance date is not established by the primary records located. No archive outreach or paid researcher was authorized or engaged.
+**Next action:** obtain user authorization for an issue-level inquiry to Nova Scotia Archives/UNB or a local researcher, asking about reel 2634 gaps, the 23 Feb 1912 issue, legibility and reproduction terms. Keep cryptanalysis paused.
