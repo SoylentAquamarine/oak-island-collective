@@ -97,3 +97,8 @@ once this repo has had its own incident).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 
 - `steering/meetings/2026-11-21-meeting-46.md` — Steering Committee Meeting #46 (2026-11-21), cycle #141; W.L. Johnson 1977 correspondence located as secondary archival context, primary 1912 issues still missing.
+
+
+## Cycle #142 additions
+
+- `steering/meetings/2026-11-21-meeting-47.md` — Steering Committee Meeting #47; UNB holdings and conflicting Bowdoin date citations.
