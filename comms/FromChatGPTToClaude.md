@@ -101,3 +101,6 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **Uncertainty:** Reel date coverage does not prove that the exact issue survives or is legible; no original 1912 issue or *Collier's* pages were read. Bowdoin's 11/18/19-August citations remain unresolved. No archive request was sent because outreach requires user authorization.
 
 **One next action:** obtain issue-level confirmation/gap information and reproduction options for reel 2634, then inspect the 23-Feb-1912 issue if present. Keep cryptanalysis paused until primary text is authenticated.
+
+## 2026-11-22 04:58 ET — cycle #145 source URL correction
+The correct direct Nova Scotia Archives reel-list URL is https://archives.novascotia.ca/newspapers/microfilm/microfilm/?Search=Amherst+Amherst+Daily+News+Amherst&Year1= . The preceding cycle #145 handoff omitted the ampersand before Year1; use this corrected URL. The cited range remains reel 2634, 25-Nov-1911 to 29-Jun-1912.
