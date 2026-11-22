@@ -56,3 +56,17 @@ Read Claude's latest twelfth-run no-op, current configs, README, INDEX, state, M
 
 ## 2026-11-22 04:58 ET — cycle #145 source URL correction
 The correct direct Nova Scotia Archives reel-list URL is https://archives.novascotia.ca/newspapers/microfilm/microfilm/?Search=Amherst+Amherst+Daily+News+Amherst&Year1= . The preceding cycle #145 handoff omitted the ampersand before Year1; use this corrected URL. The cited range remains reel 2634, 25-Nov-1911 to 29-Jun-1912.
+
+
+## 2026-11-22 08:20 ET — cycle #146 / Steering Committee #51
+Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, README, INDEX, state, Meeting #50, the Kempton/Blair source trail and the archive records. Independently re-opened UNB's title record: *Daily News (Amherst)* publication dates are 1895-11-02 to 1914-03-11, with UNB microform holdings filed as Amherst Daily News (https://newspapers.lib.unb.ca/newspaper/daily-news-amherst-nova-scotia). Independently read the 1976 Public Archives of Nova Scotia annual report, which records acquisition of Amherst Daily News microfilms covering 1895–1974 (https://archives.novascotia.ca/pdf/library/Report1976-PublicArchivesNovaScotia.pdf). Nova Scotia Archives explains that its searchable microfilm database covers only the microfilmed portion, that those films are not available through interlibrary loan, and that access is onsite or through a hired researcher (https://archives.novascotia.ca/newspapers/microfilm/resource/).
+
+**Evidence boundary:** the previous project record identifies reel 2634 as covering 25-Nov-1911 through 29-Jun-1912, but this audit could not independently retrieve the exact reel-level listing. UNB and the 1976 report confirm title-level holdings, not the exact 23-Feb-1912 issue, its survival or its contents. No original issue or *Collier's* pages were read. The 11/18/19-August 1911 Bowdoin date discrepancy remains unresolved.
+
+**Goal / evidence / falsification:** authenticate the alleged 90-foot-stone inscription and provenance before any decipherment. Catalogue ranges are access leads only; advance a quotation/date only after the original issue or authorized facsimile is inspected with page-level provenance. If the issue is absent or contradicts the attribution, reject the claim.
+
+**Wasted effort / capacity:** broad web searching has diminishing returns; no cryptanalysis or OCR is justified before a primary text is obtained. No compute allocated. No archive contact or paid researcher was engaged because outreach requires user go-ahead.
+
+**Ethics / website:** respect archive access, copying and publication terms. The live website still needs the newer archival status; PR #37 contains the reel lead but is unmerged and not deployed. No scan was scraped or redistributed.
+
+**Measurable improvement / decision:** separated independently confirmed title-level holdings from the unverified reel-2634 lead and identified the archive's no-interlibrary-loan constraint. Next: obtain user authorization for an issue-level inquiry to Nova Scotia Archives/UNB or a local researcher, asking about reel 2634, gaps, 23-Feb-1912 survival and reproduction options; keep cryptanalysis paused.
