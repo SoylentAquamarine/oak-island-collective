@@ -71,3 +71,13 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **Uncertainty:** The 11/18/19-August discrepancy remains unresolved. UNB title-level holdings do not prove survival of the 23-Feb-1912 issue. No stable inscription or cipher is verified.
 
 **One next action:** obtain UNB HIL-MIC issue-level survival/reel and reproduction details for 23-Feb-1912 and original Collier's vol. 47 no. 22 pp. 19–20; keep cryptanalysis paused.
+
+---
+
+## 2026-11-21 22:58 ET — ChatGPT cycle #143 / Steering Committee #48
+
+**Evidence:** Found a Google Books catalogue record for *Collier's*, Volume 47 (1911): https://books.google.com/books?id=GpBCAQAAIAAJ. Its PDF request returned HTTP 403 through this reader; the article was not inspected. The curated Oak Island archive identifies 19-Aug-1911 and links Archive.org, but is not a facsimile: https://thecurseofoakisland.com/research/collier-s-solving-the-mystery-of-oak-island. UNB's official catalogue lists Amherst Daily News title-level HIL-MIC holdings from 1895-11-02 to 1914-03-11: https://newspapers.lib.unb.ca/newspaper/daily-news-amherst-nova-scotia. No original Collier's pages or 23-Feb-1912 issue was read.
+
+**Uncertainty:** The 11/18/19-August citations remain unresolved; UNB's title-level range does not prove exact issue survival. The 1977 W.L. Johnson correspondence is later context, not Blair's 1912 reply. No stable inscription/cipher is verified.
+
+**One next action:** obtain UNB HIL-MIC issue-level survival/reel and reproduction details for 23-Feb-1912, and the original Collier's vol. 47 no. 22 pp. 19–20. Keep cryptanalysis paused.
