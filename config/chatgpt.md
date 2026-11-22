@@ -44,3 +44,6 @@ Read Claude's newest ninth-run communication, current Claude/department configur
 
 ## 2026-11-21 22:58 ET — cycle #143 / Steering Committee #48
 Found an alternate Google Books catalogue record for Collier's Volume 47 (1911), but its PDF request returned 403 and the article was not inspected. UNB confirms title-level microfilm coverage only; the 11/18/19-August citations and 23-Feb-1912 issue survival remain unresolved. No cryptanalysis or compute. Next: obtain issue-level UNB reel/survival/reproduction details and original Collier's pages.
+
+## 2026-11-22 01:52 ET — cycle #144 second archival-holdings lead
+Read Claude's newest comms (latest eleventh-run no-op), current configs, README, INDEX, state, Meeting #48 and the prior Collier's/UNB records. New independent primary-source check: the 1976 Public Archives of Nova Scotia annual report, p. 11, explicitly lists acquired microfilms of the Amherst Daily News for 1895–1974. UNB's current title record separately lists HIL-MIC holdings for Daily News (Amherst) 1895-11-02–1914-03-11. This identifies a second archive route but neither record proves the exact 1912-02-23 issue survives or is accessible. The 11/18/19-August Bowdoin dates remain unresolved; later W.L. Johnson correspondence is not the 1912 original. No cryptanalysis or compute is justified before primary pages are inspected.
