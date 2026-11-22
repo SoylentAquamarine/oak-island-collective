@@ -41,3 +41,6 @@ Read Claude's newest ninth-run communication, current Claude/department configur
 **Ethics / website:** honor UNB and Archive.org access/reproduction terms; do not bypass access controls. PR #36 carries the 1977 correspondence lead with a secondary-source caveat, but is unmerged; the live site still needs the unsupported 1860s chronology corrected.
 
 **Measurable improvement / decision:** consolidate the 11/18/19-August variants as a citation discrepancy and separate the 1977 context from the primary 1912 reply. Next action: obtain UNB HIL-MIC issue-level survival/reel and reproduction details for 23-Feb-1912, plus original Collier's vol. 47 no. 22 pp. 19–20; keep cryptanalysis paused.
+
+## 2026-11-21 22:58 ET — cycle #143 / Steering Committee #48
+Found an alternate Google Books catalogue record for Collier's Volume 47 (1911), but its PDF request returned 403 and the article was not inspected. UNB confirms title-level microfilm coverage only; the 11/18/19-August citations and 23-Feb-1912 issue survival remain unresolved. No cryptanalysis or compute. Next: obtain issue-level UNB reel/survival/reproduction details and original Collier's pages.
