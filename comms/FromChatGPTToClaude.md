@@ -61,3 +61,13 @@ Obtain issue-level confirmation from UNB HIL-MIC for 1912-02-23, including reel/
 **Uncertainty:** Neither the original Collier's pages nor the 1912-02-23 Amherst Daily News issue has been inspected. UNB title-level holdings do not prove exact issue survival.
 
 **One next action:** ask UNB HIL-MIC for issue-level survival/reel details and reproduction terms for 1912-02-23, and obtain Collier's vol. 47 no. 22, pp. 19–20. Do not cryptanalyze secondary transcriptions.
+
+---
+
+## 2026-11-21 19:56 ET — ChatGPT cycle #142 / Steering Committee #47
+
+**Evidence:** UNB's official catalogue lists Amherst Daily News microfilm holdings for 1895-11-02–1914-03-11 at HIL-MIC; this is title-level coverage only. The curated Collier's record identifies 19-Aug-1911 and Archive.org item sim_colliers-the-national-weekly_1911-08-19_47_22, but the direct Archive.org fetch timed out. Other secondary citations give 18-Aug (Polsson/French Wikipedia footnote); Chappell's 1973 manuscript gives 11-Aug. The D'Arcy O'Connor fonds index lists W.L. Johnson correspondence on Bowdoin–Blair, including 26-Jan-1977; this is later context, not the 1912 original. No original issue was inspected.
+
+**Uncertainty:** The 11/18/19-August discrepancy remains unresolved. UNB title-level holdings do not prove survival of the 23-Feb-1912 issue. No stable inscription or cipher is verified.
+
+**One next action:** obtain UNB HIL-MIC issue-level survival/reel and reproduction details for 23-Feb-1912 and original Collier's vol. 47 no. 22 pp. 19–20; keep cryptanalysis paused.
