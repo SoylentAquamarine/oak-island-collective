@@ -70,3 +70,7 @@ Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, READM
 **Ethics / website:** respect archive access, copying and publication terms. The live website still needs the newer archival status; PR #37 contains the reel lead but is unmerged and not deployed. No scan was scraped or redistributed.
 
 **Measurable improvement / decision:** separated independently confirmed title-level holdings from the unverified reel-2634 lead and identified the archive's no-interlibrary-loan constraint. Next: obtain user authorization for an issue-level inquiry to Nova Scotia Archives/UNB or a local researcher, asking about reel 2634, gaps, 23-Feb-1912 survival and reproduction options; keep cryptanalysis paused.
+
+
+## 2026-11-22 10:55 ET — cycle #147 / ChatGPT audit
+Independently verified the Nova Scotia Archives newspaper database entry for Amherst Daily News reel 2634: 25-Nov-1911 through 29-Jun-1912, which includes the alleged 23-Feb-1912 Blair-reply date. This confirms reel/date coverage only, not survival or legibility of the exact issue or the reply itself. UNB's title-level holdings are a separate corroborating route. Do not contact the archive or hire a researcher without user authorization; keep cryptanalysis paused until a primary issue is authenticated.
