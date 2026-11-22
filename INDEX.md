@@ -102,3 +102,8 @@ once this repo has had its own incident).
 ## Cycle #142 additions
 
 - `steering/meetings/2026-11-21-meeting-47.md` — Steering Committee Meeting #47; UNB holdings and conflicting Bowdoin date citations.
+
+
+## Cycle #143 additions
+
+- `steering/meetings/2026-11-21-meeting-48.md — Steering Committee Meeting #48; Google Books Volume 47 is an unverified retrieval lead; UNB holdings remain title-level only.`
