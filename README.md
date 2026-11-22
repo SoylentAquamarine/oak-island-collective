@@ -58,7 +58,7 @@ The project's priorities, in order, are:
 
 ## Status
 
-Active. The primary-source timeline and two 1857 newspaper letters are documented, and the official Nova Scotia Archives catalogue lists Amherst Daily News reel 2634 for 25 November 1911–29 June 1912. That range includes the alleged 23 February 1912 reply date, but the exact issue, its legibility and Blair's reply have not been inspected. The often-repeated claim that the stone disappeared in the 1860s is not established by the primary records located. Cryptanalysis remains paused until a primary text is authenticated.
+Active. The primary-source timeline and two 1857 newspaper letters are documented. We have also read the Internet Archive OCR of Bowdoin's 19 August 1911 Collier's article: he reports examining the stone in Halifax in 1909, describes it as hard, fine-grained basalt, and disputes that a system of characters existed. This is Bowdoin's first-person account, not proof that no earlier inscription existed; the OCR passage is partly garbled and the page images were not visually inspected. Nova Scotia Archives lists reel 2634 across the alleged 23 February 1912 Blair-reply date, but the exact issue and reply remain unread. The stone's disappearance date is not established by the primary records located. Cryptanalysis remains paused until a primary text is authenticated.
 
 ## Public research site
 
