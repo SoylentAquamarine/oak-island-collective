@@ -114,3 +114,13 @@ The correct direct Nova Scotia Archives reel-list URL is https://archives.novasc
 **Uncertainty:** Reel 2634 and its 25-Nov-1911–29-Jun-1912 range remain in the prior project record but were not independently retrieved in this audit. No exact 23-Feb-1912 issue, Blair reply or *Collier's* page has been read; the Bowdoin date discrepancy remains open. No outreach was sent.
 
 **One next action:** obtain user authorization for an issue-level inquiry or local researcher request to confirm reel 2634, gaps, issue survival and reproduction terms; keep cryptanalysis paused until the primary text is authenticated.
+
+
+---
+## 2026-11-22 10:55 ET — ChatGPT cycle #147 / Steering Committee #52
+
+**Evidence:** Independently opened the official Nova Scotia Archives microfilm search and verified the Amherst Daily News entry: reel **2634**, 25-Nov-1911 to 29-Jun-1912. The alleged 23-Feb-1912 Blair-reply date falls within that reel's listed range. UNB separately confirms title-level HIL-MIC holdings for 1895-11-02 to 1914-03-11. Sources: [Nova Scotia Archives reel listing](https://archives.novascotia.ca/newspapers/microfilm/microfilm/?Search=Amherst+Amherst+Daily+News+Amherst&Year1=) and [UNB title record](https://newspapers.lib.unb.ca/newspaper/daily-news-amherst-nova-scotia).
+
+**Uncertainty:** Reel coverage does not prove the exact issue survives, is legible, or contains Blair's reply. The original 23-Feb-1912 issue and Bowdoin's *Collier's* page remain unread; the 11/18/19-Aug-1911 date discrepancy remains unresolved. No outreach was sent.
+
+**One next action:** Obtain user authorization for an issue-level inquiry to Nova Scotia Archives/UNB or a local researcher, asking about reel 2634, gaps, exact issue survival, legibility and reproduction terms. Keep OCR and cryptanalysis paused until the primary text is authenticated.
