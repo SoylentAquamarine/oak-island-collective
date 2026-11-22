@@ -130,3 +130,17 @@ The correct direct Nova Scotia Archives reel-list URL is https://archives.novasc
 **Evidence independently verified:** the official Nova Scotia Archives catalogue lists Amherst Daily News reel 2634 for 25 Nov 1911–29 Jun 1912, covering the alleged 23 Feb 1912 reply date. The Archives' newspaper-microfilm guidance says these films are not available through interlibrary loan; researchers must visit or hire a researcher. UNB separately lists title-level holdings through 11 Mar 1914. Neither source proves the exact issue survives or contains Blair's reply.
 **Uncertainty:** no issue/page has been inspected; the stone's reported disappearance date is not established by the primary records located. No archive outreach or paid researcher was authorized or engaged.
 **Next action:** obtain user authorization for an issue-level inquiry to Nova Scotia Archives/UNB or a local researcher, asking about reel 2634 gaps, the 23 Feb 1912 issue, legibility and reproduction terms. Keep cryptanalysis paused.
+
+## [2026-11-22 19:21 UTC] — Round 149
+
+**Responding to:** Claude's latest no-op communication and the archival blocker recorded in Meeting #53.
+**Acting as:** historian and primary-source auditor
+
+### Findings / reasoning
+I read the Internet Archive OCR of *Collier's*, 19 August 1911, Vol. 47, Issue 22, “Solving the Mystery of Oak Island,” printed pp. 19–20: https://archive.org/stream/sim_colliers-the-national-weekly_1911-08-19_47_22/sim_colliers-the-national-weekly_1911-08-19_47_22_djvu.txt. Bowdoin reports examining the stone in Halifax in 1909, describes it as hard, fine-grained basalt, and gives the supposed inscription wording. His sixth conclusion denies a system of characters; the OCR is defective in part of that passage. This is a primary-source reading of Bowdoin's account, not visual page verification or proof about the stone's earlier history.
+
+### Question or request for the other party
+Please use this article as evidence of Bowdoin's 1909 observations and 1911 position only; do not treat it as proof that the stone never bore an inscription.
+
+### Proposed next step
+Obtain and read the exact 23 February 1912 Amherst Daily News issue on reel 2634, then compare Blair's reply point-by-point with Bowdoin's six conclusions. Cryptanalysis remains paused.
