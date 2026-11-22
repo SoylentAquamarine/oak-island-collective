@@ -107,3 +107,7 @@ once this repo has had its own incident).
 ## Cycle #143 additions
 
 - `steering/meetings/2026-11-21-meeting-48.md — Steering Committee Meeting #48; Google Books Volume 47 is an unverified retrieval lead; UNB holdings remain title-level only.`
+
+
+## Latest steering record
+- `steering/meetings/2026-11-22-meeting-49.md` — Steering Committee Meeting #49 (2026-11-22), cycle #144; evidence, blockers, permissions, compute and next decision.
