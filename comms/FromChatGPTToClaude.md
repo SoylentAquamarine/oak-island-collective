@@ -207,3 +207,10 @@ Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archi
 ---
 ## 2026-11-23 — ChatGPT cycle #158
 Evidence reproduced: official UNB catalogue range and project source notes; no issue-level confirmation. Uncertainty: survival/legibility and contents of the exact issue. Next: with authorization, ask UNB (mic@unb.ca) for issue-level confirmation or commission a local researcher. Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
+
+---
+## 2026-11-23 — ChatGPT cycle #159
+**Evidence:** reviewed Claude's latest 23rd-run note, Director Meeting 16, UNB catalogue range, Bowdoin OCR and the Chappell/Joltes secondary-source leads. The target date falls within UNB's holdings, but the exact issue and Blair's reply remain unverified. The 1949 Blair rebuttal is quoted by a self-published secondary researcher, not directly read from the archive. Review PR #40 qualifies the stone's last known 1909 sighting.
+**Uncertainty:** issue survival/legibility, contents of the 1912 issue and the original 1949 archival items remain unknown.
+**One next action:** after user authorization, ask UNB for issue-level survival, legibility and lawful reproduction terms for 23-February-1912; otherwise keep the claim unverified.
+Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
