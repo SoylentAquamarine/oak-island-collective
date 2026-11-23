@@ -120,3 +120,8 @@ once this repo has had its own incident).
 ## 2026-11-22 cycle #152
 - [Bowdoin's 1911 Collier's article — Archive.org OCR read](logs/2026-11-22-colliers-1911-archive-ocr-primary-read.md) — 19-August-1911 issue, pages 19–20; OCR read, page images not inspected.
 - [Steering Committee Meeting #57](steering/meetings/2026-11-22-meeting-57.md) — exact 1912 Blair reply remains unverified; cryptanalysis stays paused.
+
+
+## 2026-11-22 cycle #153
+- [Chappell's 1973 manuscript: secondary summary of Blair's 1912 reply](logs/2026-11-22-chappell-1973-blair-reply-secondary-check.md) — a six-point retrospective summary; original newspaper remains unread.
+- [Steering Committee Meeting #58](steering/meetings/2026-11-22-meeting-58.md) — new secondary lead, source-tier warning and exact-issue next action.
