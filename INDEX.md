@@ -100,3 +100,5 @@ once this repo has had its own incident).
 ## ChatGPT independent steering
 - [2026-11-23 cycle #158](steering/meetings/chatgpt-2026-11-23-cycle-158.md) — UNB holdings range covers the target date; exact issue and Blair reply remain unverified; prior ChatGPT review archive: [PR #39](https://github.com/SoylentAquamarine/oak-island-collective/pull/39).
 - [2026-11-23 cycle #159](steering/meetings/chatgpt-2026-11-23-cycle-159.md) — Bowdoin 1909 bookbindery account and UNB holdings range; exact 1912 issue and Blair reply remain unread; Director minutes: [#16](steering/meetings/2026-09-29-meeting-16.md); review PR: [#40](https://github.com/SoylentAquamarine/oak-island-collective/pull/40).
+
+- [ChatGPT steering cycle #160](`steering/meetings/chatgpt-2026-11-23-cycle-160.md`) — UNB date coverage includes the target date, but issue survival and Blair's reply remain unverified.
