@@ -6,7 +6,7 @@
 
 **The primary artifact this project would need to decipher is lost, and even its own history is disputed.** Oak Island, Nova Scotia is the site of the "Money Pit" legend, commonly traced to an 1795 discovery (commonly attributed to Daniel McGinnis and companions, often named John Smith and Anthony Vaughan) of a depressed area under an old tackle-block-marked tree. Numerous excavation companies have dug there since 1803–04 (the Onslow Company, the Truro Company, the Oak Island Association of the 1860s, and many later efforts); several deaths have occurred on site over its history. A stone slab reportedly inscribed with symbols was said to have been found roughly 90 feet down during an early dig (commonly attributed to the 1803–04 Onslow Company excavation).
 
-**The original stone does not survive.** Its last confirmed use or sighting is itself disputed — commonly reported as having been built into a fireplace hearth or a bookbindery in Halifax, and lost after roughly the 1860s. Multiple published renderings of the stone's symbols exist and do **not** agree with each other in every detail. A widely circulated "decoded" message (commonly phrased close to "forty feet below two million pounds are buried," though the wording varies across sources) attributed to a simple substitution cipher solved by an unnamed or variously-named Halifax-area academic is in wide popular circulation — but researchers dispute whether any contemporaneous (19th-century) source actually documents this decoding. Some trace its earliest appearance only to 20th-century popular treasure-hunting literature, raising a real, undecided possibility that the "solved cipher" story is itself a later fabrication or embellishment — not a proven hoax, but not a confirmed history either.
+**The original stone does not survive.** The latest contemporaneous sighting located so far is Bowdoin's 1911 first-person report that he examined it in a Halifax bookbindery in 1909. He describes it as hard, fine-grained basalt and disputes that it bore a system of characters. The exact disappearance date is unknown. This evidence is an OCR transcription of the article, not a page-image inspection; Bowdoin's account does not prove that no earlier inscription existed. Multiple published renderings of the stone's symbols exist and do **not** agree with each other in every detail. A widely circulated "decoded" message (commonly phrased close to "forty feet below two million pounds are buried," though the wording varies across sources) attributed to a simple substitution cipher solved by an unnamed or variously-named Halifax-area academic is in wide popular circulation — but researchers dispute whether any contemporaneous (19th-century) source actually documents this decoding. Some trace its earliest appearance only to 20th-century popular treasure-hunting literature, raising a real, undecided possibility that the "solved cipher" story is itself a later fabrication or embellishment — not a proven hoax, but not a confirmed history either.
 
 Since the History Channel's *The Curse of Oak Island* series began in 2014, public claims and "finds" have multiplied, and professional archaeologists and historians have publicly criticized the show's evidentiary standards. This project treats TV-show-era claims as a distinct, lower-trust evidence tier from the pre-broadcast documented record. Other associated artifacts reported over the years (parchment/vellum fragments with ink marks, a wax seal, a brass mechanism, coconut fiber cited to argue for a Caribbean construction connection, gold chain links, a carved stone with a cross/heart-like mark) all have highly uneven documentation quality and need the same provenance treatment as the stone itself.
 
@@ -26,10 +26,10 @@ Unlike the sibling Voynich and Rongorongo projects, where a genuine undeciphered
 
 The project's priorities, in order, are:
 
-1. complete the primary-source provenance audit before trusting any transcription or decoding claim;
-2. if and only if warranted, attempt a defensible cryptanalysis of the best-attested transcription;
-3. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
-4. preserve and publish useful discoveries made along the way, including failures, corrections, and a fully-reported null result if that is where the evidence leads.
+1. authenticate primary-source records about the 90-foot stone and the alleged Blair reply;
+2. establish whether any genuine inscription or contemporary cipher text existed;
+3. attempt cryptanalysis only if an authenticated primary text supports it;
+4. document the evidence, gaps, failures and a full null result if that is what the record supports.
 
 ## How it works
 
@@ -58,8 +58,8 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The primary-source timeline and two 1857 newspaper letters are documented. We have also read the Internet Archive OCR of Bowdoin's 19 August 1911 Collier's article: he reports examining the stone in Halifax in 1909, describes it as hard, fine-grained basalt, and disputes that a system of characters existed. This is Bowdoin's first-person account, not proof that no earlier inscription existed; the OCR passage is partly garbled and the page images were not visually inspected. Nova Scotia Archives lists reel 2634 across the alleged 23 February 1912 Blair-reply date, but the exact issue and reply remain unread. The stone's disappearance date is not established by the primary records located. Cryptanalysis remains paused until a primary text is authenticated.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/oak-island-collective/**. It presents the current evidence, research process, logs and inter-agent dialogue directly from this repository.
