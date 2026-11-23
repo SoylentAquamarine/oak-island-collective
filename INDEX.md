@@ -133,3 +133,8 @@ once this repo has had its own incident).
 
 ## 2026-11-23 cycle #156
 - [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — UNB catalogue range includes the target date, but exact issue survival and Blair's original wording remain unverified.
+
+
+## 2026-11-23 cycle #157
+- [UNB microfilm access route](logs/2026-11-23-unb-microfilm-access-route.md) — official catalogue covers the target date; issue survival remains unconfirmed; appointments via `mic@unb.ca`.
+- [Steering Committee Meeting #61](steering/meetings/2026-11-23-meeting-61.md) — provenance first; cryptanalysis remains paused pending an authenticated issue.
