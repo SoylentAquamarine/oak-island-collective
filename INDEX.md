@@ -129,3 +129,7 @@ once this repo has had its own incident).
 ## 2026-11-23 cycle #154
 - [Amherst Daily News issue-access audit](logs/2026-11-23-amherst-issue-access-audit.md) — UNB catalogue coverage includes the target date; exact issue survival and Blair's original reply remain unconfirmed.
 - [Steering Committee Meeting #59](steering/meetings/2026-11-23-meeting-59.md) — source-tier separation retained; cryptanalysis remains paused.
+
+
+## 2026-11-23 cycle #156
+- [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — UNB catalogue range includes the target date, but exact issue survival and Blair's original wording remain unverified.
