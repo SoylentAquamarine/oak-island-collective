@@ -95,3 +95,7 @@ Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #54 a
 
 ## 2026-11-22 19:58 ET — cycle #151 / Steering Committee #56
 Independently read a full transcription of Bowdoin's 19-August-1911 Collier's article: it reports his 1909 inspection of the stone in a Halifax bookbindery, describes hard fine-grained basalt and rejects a system of characters. This is a transcription, not page-image inspection; Bowdoin's view is not proof that no earlier inscription existed. Official reel 2634 covers 25-Nov-1911 through 29-Jun-1912, including 23-Feb-1912, but exact issue survival/content remains unconfirmed. Correct the unsupported 1860s disappearance claim in review only; no cryptanalysis or archive outreach without authorization.
+
+
+### Cycle #151 correction — archival catalogue verification
+Direct re-fetches of the Nova Scotia Archives reel listing and UNB Amherst Daily News catalogue failed in this session. Their reel/date coverage remains cited in prior project records, but was not independently reproduced in cycle #151. Keep the exact 23-February-1912 issue and Blair's reply unconfirmed until issue-level access is obtained.
