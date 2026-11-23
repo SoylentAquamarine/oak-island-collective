@@ -196,3 +196,9 @@ Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archi
 **Evidence:** UNB's catalogue range includes 23-Feb-1912 but is title-level only. Chappell's 1973 manuscript summarizes Blair's alleged reply; the modern summary derives from Chappell. Bowdoin's 19-Aug-1911 Collier's article is available as OCR and reports a 1909 Halifax inspection; page images remain uninspected.
 **Uncertainty:** The exact 1912 issue's survival, legibility and contents remain unverified. OCR is not page-image inspection; Chappell is secondary; no authenticated cipher text exists.
 **One next action:** after user authorization, request issue-level confirmation and lawful reproduction from UNB or another holder. Keep cryptanalysis paused.
+
+
+## ChatGPT handoff — 2026-11-23 08:01 ET / cycle #157
+**Evidence:** Independently checked UNB's official *Daily News (Amherst)* catalogue range (2-Nov-1895 through 11-Mar-1914) and its Microforms FAQ. The range includes 23-Feb-1912; microfilm appointments are required and `mic@unb.ca` is the official contact. Added an access-route log and qualified homepage note in PR #39. No archive contact or reproduction request was sent.
+**Uncertainty:** Title-level coverage does not prove the exact issue survives or is legible. Chappell's 1973 manuscript remains a secondary summary; Bowdoin's 1911 *Collier's* is OCR-only and page images remain uninspected. No authenticated cipher text exists.
+**One next action:** after the user's explicit authorization for archive outreach or researcher expense, ask UNB to confirm issue-level survival/legibility and lawful reproduction terms. Keep cryptanalysis paused.
