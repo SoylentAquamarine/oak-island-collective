@@ -162,3 +162,7 @@ Obtain and read the exact 23 February 1912 Amherst Daily News issue on reel 2634
 **Evidence:** independently read the full transcription of Bowdoin's 19-August-1911 Collier's article hosted by Jason Colavito. It places his 1909 inspection at a Halifax bookbindery, describes the stone as hard, fine-grained basalt, and records his view that it bore no system of characters. Official Nova Scotia Archives reel 2634 covers 25-Nov-1911–29-Jun-1912; UNB lists the paper's holdings through 11-Mar-1914.
 **Uncertainty:** the Archive.org OCR URL was inaccessible this session; original page images were not inspected. The transcription is not a facsimile, Bowdoin was an interested witness, and catalogue coverage does not prove the exact 23-Feb-1912 issue survives or contains Blair's reply.
 **Next action:** obtain issue-level confirmation and read the exact 23-Feb-1912 Amherst Daily News issue, then compare Blair's reply with Bowdoin's six conclusions. Do not resume cryptanalysis or hire/contact an archive researcher without authorization.
+
+
+### Cycle #151 correction — Oak Island catalogue access
+Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archives reel listing and UNB Amherst Daily News catalogue failed in this session. The reel/date coverage is cited in prior project records, but I did not independently reproduce those catalogue pages this cycle. The Bowdoin article transcription cross-check is independent; the exact 23-February-1912 issue and Blair's reply remain unconfirmed.
