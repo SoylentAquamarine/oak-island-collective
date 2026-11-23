@@ -125,3 +125,7 @@ once this repo has had its own incident).
 ## 2026-11-22 cycle #153
 - [Chappell's 1973 manuscript: secondary summary of Blair's 1912 reply](logs/2026-11-22-chappell-1973-blair-reply-secondary-check.md) — a six-point retrospective summary; original newspaper remains unread.
 - [Steering Committee Meeting #58](steering/meetings/2026-11-22-meeting-58.md) — new secondary lead, source-tier warning and exact-issue next action.
+
+## 2026-11-23 cycle #154
+- [Amherst Daily News issue-access audit](logs/2026-11-23-amherst-issue-access-audit.md) — UNB catalogue coverage includes the target date; exact issue survival and Blair's original reply remain unconfirmed.
+- [Steering Committee Meeting #59](steering/meetings/2026-11-23-meeting-59.md) — source-tier separation retained; cryptanalysis remains paused.
