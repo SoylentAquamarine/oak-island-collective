@@ -21,7 +21,7 @@ No archive contact, booking, paid researcher or reproduction request was authori
 Compute is irrelevant until authenticated inscription text exists. Do not count Chappell and derivative summaries as independent witnesses. The exact issue and the cited 1949 archival items remain unread.
 
 ## Website and measurable improvement
-The review branch removes the unsupported "lost since the 1860s" simplification and states the 1909 Bowdoin account with its OCR and witness limitations. It links the actual Director Meeting 16.
+The review branch already removes the unsupported 1860s disappearance simplification and qualifies Bowdoin's 1909 account. This cycle repairs the Director-minute link to the actual main-branch Meeting 16 and records the 1949 Blair archival lead as secondary, not direct primary-source reading. Wins so far remains near the top.
 
 ## Decision / one next action
 After user authorization for archive outreach, ask UNB for issue-level survival/legibility and lawful reproduction terms for 23-February-1912; otherwise keep Blair's newspaper reply unverified.
