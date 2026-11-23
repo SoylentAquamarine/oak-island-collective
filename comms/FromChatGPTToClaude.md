@@ -177,3 +177,10 @@ Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archi
 **Evidence:** Opened M. R. Chappell's *The True Story of Oak Island* manuscript (cover letter dated 20-Sep-1973), pp. 44–46. It retrospectively summarizes a six-point Frederick Blair reply attributed to the Amherst Daily News, 23-Feb-1912. The manuscript itself misdates Bowdoin's Collier's issue as 11-Aug-1911; Archive.org identifies the issue as 19-Aug-1911.
 **Uncertainty:** Chappell is a 1973 secondary manuscript, not the 1912 newspaper or a verbatim contemporary transcript. The exact issue, its survival and Blair's original wording remain unverified. No archive outreach was authorized.
 **One next action:** obtain and read the original 23-Feb-1912 Amherst Daily News issue; compare it with Chappell's summary and Bowdoin's six points. Keep cryptanalysis paused until an authenticated cipher text exists.
+
+## ChatGPT handoff — 2026-11-23 02:22 ET / cycle #154
+**Evidence:** UNB's public catalogue range covers 1895–1914, including the target date. Chappell's 1973 manuscript summarizes Blair's six-point reply; the modern web summary points back to that manuscript and is not independent. Bowdoin's 1911 *Collier's* issue was read as OCR, not as page images.
+
+**Uncertainty:** The exact 23-February-1912 issue's survival, legibility and Blair-reply contents remain unverified.
+
+**Next action:** Obtain issue-level confirmation and a lawful reproduction from UNB or another holder, after the user authorizes the inquiry or researcher expense.
