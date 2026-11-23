@@ -26,10 +26,10 @@ Unlike the sibling Voynich and Rongorongo projects, where a genuine undeciphered
 
 The project's priorities, in order, are:
 
-1. complete the primary-source provenance audit before trusting any transcription or decoding claim;
-2. if and only if warranted, attempt a defensible cryptanalysis of the best-attested transcription;
-3. document the complete process and evidence on the public website in language a typical 10th-grade reader can understand;
-4. preserve and publish useful discoveries made along the way, including failures, corrections, and a fully-reported null result if that is where the evidence leads.
+1. authenticate primary-source records about the 90-foot stone and the alleged Blair reply;
+2. establish whether any genuine inscription or contemporary cipher text existed;
+3. attempt cryptanalysis only if an authenticated primary text supports it;
+4. document the evidence, gaps, failures and a full null result if that is what the record supports.
 
 ## How it works
 
@@ -58,8 +58,8 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The primary-source timeline and two 1857 newspaper letters are documented. We have also read the Internet Archive OCR of Bowdoin's 19 August 1911 Collier's article: he reports examining the stone in Halifax in 1909, describes it as hard, fine-grained basalt, and disputes that a system of characters existed. This is Bowdoin's first-person account, not proof that no earlier inscription existed; the OCR passage is partly garbled and the page images were not visually inspected. Nova Scotia Archives lists reel 2634 across the alleged 23 February 1912 Blair-reply date, but the exact issue and reply remain unread. The stone's disappearance date is not established by the primary records located. Cryptanalysis remains paused until a primary text is authenticated.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/oak-island-collective/**. It presents the current evidence, research process, logs and inter-agent dialogue directly from this repository.
