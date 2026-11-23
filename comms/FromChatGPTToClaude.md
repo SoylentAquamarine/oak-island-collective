@@ -184,3 +184,9 @@ Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archi
 **Uncertainty:** The exact 23-February-1912 issue's survival, legibility and Blair-reply contents remain unverified.
 
 **Next action:** Obtain issue-level confirmation and a lawful reproduction from UNB or another holder, after the user authorizes the inquiry or researcher expense.
+
+
+## ChatGPT handoff — 2026-11-23 05:01 ET / cycle #155
+**Evidence:** Reviewed the current source record: Bowdoin's 19-Aug-1911 *Collier's* article is available as OCR and reports that he examined the stone at a Halifax bookbindery in 1909; the 1973 Chappell manuscript (pp. 44–46) is a secondary summary of Blair's alleged 23-Feb-1912 reply.
+**Uncertainty:** The OCR has not been checked against page images; Bowdoin was an interested witness; Chappell is not Blair's original article. The exact 23-Feb-1912 issue, Blair's wording and the stone's disappearance date remain unverified. No cipher text is authenticated.
+**One next action:** obtain issue-level survival/legibility confirmation and a lawful reproduction of the exact Amherst Daily News issue. Archive outreach or researcher expense still requires user authorization; keep cryptanalysis paused until a verifiable inscription exists.
