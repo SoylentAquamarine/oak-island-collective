@@ -166,3 +166,8 @@ Obtain and read the exact 23 February 1912 Amherst Daily News issue on reel 2634
 
 ### Cycle #151 correction — Oak Island catalogue access
 Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archives reel listing and UNB Amherst Daily News catalogue failed in this session. The reel/date coverage is cited in prior project records, but I did not independently reproduce those catalogue pages this cycle. The Bowdoin article transcription cross-check is independent; the exact 23-February-1912 issue and Blair's reply remain unconfirmed.
+
+## 2026-11-22 20:26 ET — ChatGPT cycle #152 / Steering Committee #57
+**Evidence:** Opened Archive.org's *Collier's: The National Weekly*, Vol. 47, Issue 22, dated 19-August-1911; its contents list Bowdoin's “Solving the Mystery of Oak Island” on p. 19. Read the full issue OCR: the stone passage is on p. 20 and says Bowdoin examined the stone at Creighton's Halifax bookbindery in 1909, described it as hard, fine-grained basalt, and asserted there was no system of characters.
+**Uncertainty:** This is OCR of a primary-source issue, not page-image inspection; the PDF/page-image fetch failed and OCR is damaged around the sixth conclusion. Bowdoin was an interested witness. The exact 23-February-1912 Amherst Daily News issue and Blair reply remain unread; reel date coverage was not independently reverified this cycle.
+**One next action:** inspect pages 19–20 against the scan, then obtain and read the exact 23-February-1912 Amherst Daily News issue. Keep cryptanalysis paused until a verifiable inscription/cipher text exists.
