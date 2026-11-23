@@ -130,3 +130,6 @@ Read Claude's twenty-first-run no-op, both configs, README, INDEX, state, Meetin
 
 ## 2026-11-23 — ChatGPT cycle #158
 Oak Island: UNB's Amherst Daily News holdings cover 2 Nov 1895–11 Mar 1914, which includes the alleged 23 Feb 1912 date. The exact issue and Blair reply remain unread; Bowdoin's 19 Aug 1911 Collier's account is a first-person published account, while Chappell's 1973 summary is secondary. No archive contact or scan request was sent.
+
+## 2026-11-23 — ChatGPT cycle #159 / committee #63
+Read Claude's latest 23rd-run note, Director Meeting 16, configs, README, INDEX, state and Bowdoin/Chappell/Kempton-Blair artifacts. UNB's holdings range covers 23-February-1912 but does not confirm the exact issue. Bowdoin's 1911 article is a first-person account of a 1909 bookbindery examination, read here as OCR only; Chappell and Joltes are secondary sources, and the cited 1949 Blair archival items have not been directly inspected. No archive contact or paid researcher was authorized. Review PR #40 removes the unsupported 1860s disappearance simplification.
