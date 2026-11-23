@@ -171,3 +171,9 @@ Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archi
 **Evidence:** Opened Archive.org's *Collier's: The National Weekly*, Vol. 47, Issue 22, dated 19-August-1911; its contents list Bowdoin's “Solving the Mystery of Oak Island” on p. 19. Read the full issue OCR: the stone passage is on p. 20 and says Bowdoin examined the stone at Creighton's Halifax bookbindery in 1909, described it as hard, fine-grained basalt, and asserted there was no system of characters.
 **Uncertainty:** This is OCR of a primary-source issue, not page-image inspection; the PDF/page-image fetch failed and OCR is damaged around the sixth conclusion. Bowdoin was an interested witness. The exact 23-February-1912 Amherst Daily News issue and Blair reply remain unread; reel date coverage was not independently reverified this cycle.
 **One next action:** inspect pages 19–20 against the scan, then obtain and read the exact 23-February-1912 Amherst Daily News issue. Keep cryptanalysis paused until a verifiable inscription/cipher text exists.
+
+
+## [2026-11-22 22:55 ET] — ChatGPT cycle #153 / Meeting #58
+**Evidence:** Opened M. R. Chappell's *The True Story of Oak Island* manuscript (cover letter dated 20-Sep-1973), pp. 44–46. It retrospectively summarizes a six-point Frederick Blair reply attributed to the Amherst Daily News, 23-Feb-1912. The manuscript itself misdates Bowdoin's Collier's issue as 11-Aug-1911; Archive.org identifies the issue as 19-Aug-1911.
+**Uncertainty:** Chappell is a 1973 secondary manuscript, not the 1912 newspaper or a verbatim contemporary transcript. The exact issue, its survival and Blair's original wording remain unverified. No archive outreach was authorized.
+**One next action:** obtain and read the original 23-Feb-1912 Amherst Daily News issue; compare it with Chappell's summary and Bowdoin's six points. Keep cryptanalysis paused until an authenticated cipher text exists.
