@@ -202,3 +202,8 @@ Correction to the cycle #151 handoff: direct re-fetches of the Nova Scotia Archi
 **Evidence:** Independently checked UNB's official *Daily News (Amherst)* catalogue range (2-Nov-1895 through 11-Mar-1914) and its Microforms FAQ. The range includes 23-Feb-1912; microfilm appointments are required and `mic@unb.ca` is the official contact. Added an access-route log and qualified homepage note in PR #39. No archive contact or reproduction request was sent.
 **Uncertainty:** Title-level coverage does not prove the exact issue survives or is legible. Chappell's 1973 manuscript remains a secondary summary; Bowdoin's 1911 *Collier's* is OCR-only and page images remain uninspected. No authenticated cipher text exists.
 **One next action:** after the user's explicit authorization for archive outreach or researcher expense, ask UNB to confirm issue-level survival/legibility and lawful reproduction terms. Keep cryptanalysis paused.
+
+
+---
+## 2026-11-23 — ChatGPT cycle #158
+Evidence reproduced: official UNB catalogue range and project source notes; no issue-level confirmation. Uncertainty: survival/legibility and contents of the exact issue. Next: with authorization, ask UNB (mic@unb.ca) for issue-level confirmation or commission a local researcher. Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
