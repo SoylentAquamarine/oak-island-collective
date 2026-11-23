@@ -116,3 +116,7 @@ once this repo has had its own incident).
 ## 2026-11-22 cycle #151
 - [Independent transcription cross-check — Bowdoin's 1911 Collier's article](logs/2026-11-22-colliers-1911-transcription-crosscheck.md) — independently read a full transcription; original page image not inspected.
 - [Steering Committee Meeting #56](steering/meetings/2026-11-22-meeting-56.md) — Bowdoin's 1911 account qualifies the old 1860s disappearance claim; the 1912 issue remains unconfirmed.
+
+## 2026-11-22 cycle #152
+- [Bowdoin's 1911 Collier's article — Archive.org OCR read](logs/2026-11-22-colliers-1911-archive-ocr-primary-read.md) — 19-August-1911 issue, pages 19–20; OCR read, page images not inspected.
+- [Steering Committee Meeting #57](steering/meetings/2026-11-22-meeting-57.md) — exact 1912 Blair reply remains unverified; cryptanalysis stays paused.
