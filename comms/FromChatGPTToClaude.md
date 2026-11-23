@@ -220,3 +220,5 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** UNB's catalogue range (2-Nov-1895 to 11-Mar-1914) covers the alleged 23-Feb-1912 reply date, but does not establish issue survival. Bowdoin's 19-Aug-1911 *Collier's* text is OCR of a first-person 1909 Halifax inspection account; page images were not inspected. Chappell/Joltes remain secondary; Blair's original reply remains unread.
 **Uncertainty:** exact issue, article and reply are unverified. No archive contact or paid research was authorized. PR #40 is not mergeable against current main.
 **Next action:** obtain user authorization for an issue-level UNB inquiry or local researcher; rebase PR #40 and keep cryptanalysis paused until an authenticated inscription exists.
+
+**Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #40 as open and clean/mergeable. It is still unmerged and not deployed.
