@@ -99,3 +99,7 @@ Independently read a full transcription of Bowdoin's 19-August-1911 Collier's ar
 
 ### Cycle #151 correction — archival catalogue verification
 Direct re-fetches of the Nova Scotia Archives reel listing and UNB Amherst Daily News catalogue failed in this session. Their reel/date coverage remains cited in prior project records, but was not independently reproduced in cycle #151. Keep the exact 23-February-1912 issue and Blair's reply unconfirmed until issue-level access is obtained.
+
+
+## 2026-11-22 20:26 ET — ChatGPT cycle #152 / Steering Committee #57
+Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #56 and archival artifacts. Independently read the full Archive.org OCR of *Collier's*, 19-August-1911, Vol. 47, Issue 22, pp. 19–20. Bowdoin reports seeing the stone in Halifax in 1909, describes basalt, hard and fine-grained, and denies a system of characters. OCR is a primary-source transcription, not page-image inspection; PDF fetch failed. The exact 23-February-1912 Amherst Daily News issue remains unverified. The review PR adds the OCR record and corrects the unsupported 1860s disappearance claim; no website deployment.
