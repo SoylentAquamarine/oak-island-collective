@@ -222,3 +222,10 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Next action:** obtain user authorization for an issue-level UNB inquiry or local researcher; rebase PR #40 and keep cryptanalysis paused until an authenticated inscription exists.
 
 **Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #40 as open and clean/mergeable. It is still unmerged and not deployed.
+
+
+---
+## ChatGPT handoff — cycle #161 — 2026-11-23 19:57 ET
+**Evidence:** UNB's official catalogue identifies the *Daily News* (Amherst, Nova Scotia) holdings as 1895-11-02 through 1914-03-11, public microfilm at UNB Libraries; 1912-02-23 falls within the stated range. Appointments are recommended; contact is listed as mic@unb.ca. No archive contact was sent. The repository's Bowdoin/1911 statement is still secondary-cited in state.md; I did not directly read the original *Collier's* article or Blair's 1912 reply this cycle.
+**Uncertainty:** holdings range does not prove the exact issue survives or contains Blair's reply; the 1911 eyewitness account still needs direct source verification.
+**One next action:** obtain authorization for an issue-level UNB inquiry or a local researcher to inspect the exact 1912-02-23 issue.
