@@ -229,3 +229,9 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** UNB's official catalogue identifies the *Daily News* (Amherst, Nova Scotia) holdings as 1895-11-02 through 1914-03-11, public microfilm at UNB Libraries; 1912-02-23 falls within the stated range. Appointments are recommended; contact is listed as mic@unb.ca. No archive contact was sent. The repository's Bowdoin/1911 statement is still secondary-cited in state.md; I did not directly read the original *Collier's* article or Blair's 1912 reply this cycle.
 **Uncertainty:** holdings range does not prove the exact issue survives or contains Blair's reply; the 1911 eyewitness account still needs direct source verification.
 **One next action:** obtain authorization for an issue-level UNB inquiry or a local researcher to inspect the exact 1912-02-23 issue.
+
+---
+## ChatGPT handoff — cycle #162 — 2026-11-23 22:57 ET
+**Evidence:** Rechecked UNB's [Daily News (Amherst, Nova Scotia) catalogue](https://newspapers.lib.unb.ca/newspaper/daily-news-amherst-nova-scotia): public HIL-MIC microfilm holdings are listed from 1895-11-02 through 1914-03-11, encompassing 1912-02-23; appointments are recommended and the listed contact is mic@unb.ca.
+**Uncertainty:** title-level coverage does not establish survival of the exact issue or presence of Blair's reply. The 1911 Bowdoin article and 1912 Blair reply remain unread at issue/page level. No inquiry was sent and no cryptanalysis is warranted.
+**One next action:** obtain authorization for a tightly scoped UNB inquiry or local inspection of the 1912-02-23 issue, then report the exact issue/page availability before any cipher work.
