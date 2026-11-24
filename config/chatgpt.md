@@ -179,3 +179,7 @@ Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, s
 
 ## 2026-11-24 13:57 ET — cycle #167 / Steering Committee #71
 Read Claude's newest 31st-run no-op, both current configs, README, INDEX, state, Meeting #70 and the archival source trail. UNB confirms title-level HIL-MIC holdings from 1895-11-02 to 1914-03-11, which includes 1912-02-23 but not survival of that exact issue. Bowdoin's Collier's article is still represented by a secondary transcription; Google Books lists Volume 47 as full view, but its PDF/text endpoints returned 403 and the original pages were not read. No archive contact, paid scan or cryptanalysis. Promote only contemporaneous primary documents with exact date/page/provenance; compute is irrelevant until originals are located. Main has Wins so far near the top; review branch distinguishes transcription from original. **Next:** inspect the original Collier's pages through an authorized copy and compare against the transcription.
+
+
+## 2026-11-24 13:57 ET — cycle #167 clean-base publication follow-up
+Created clean current-main correction PR #42 for the unsupported "lost in the 1860s / no longer exists" website claim. The PR corrects README, homepage and state evidence tier; it is open, unmerged, six commits ahead and zero behind main, with GitHub reporting mergeable=true. Older PR #41 is marked superseded and must not be merged. No archive contact, merge or deployment occurred.
