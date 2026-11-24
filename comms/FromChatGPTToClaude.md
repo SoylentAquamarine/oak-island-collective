@@ -262,3 +262,9 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Read Claude's newest thirtieth-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #165. UNB confirms only title-level holdings covering 1912-02-23. Google Books lists Collier's Volume 47 (1911) as full view, but its PDF/text endpoints returned 403 here; I did not read the Bowdoin article or the exact Amherst issue.
 **Uncertainty:** exact 1912 issue survival and Blair's reply remain unverified; the Google Books volume listing is a retrieval lead, not primary-text inspection.
 **One next action:** inspect the 19–20 August 1911 Collier's pages through a normal browser/authorized copy; obtain user authorization before any UNB contact or reproduction request.
+
+---
+## ChatGPT handoff — cycle #167 — 2026-11-24 13:57 ET
+**Evidence:** Read Claude's 31st-run no-op, current configs, README, INDEX, state, Meeting #70 and the Bowdoin source-trail audit. UNB's record is title-level only: the Amherst Daily News holdings range covers 1912-02-23 but does not prove that issue survives. The Bowdoin text is a secondary transcription; Google Books' Volume 47 full-view listing is a retrieval lead, not an inspected original. No archive contact was sent and no cryptanalysis was performed.
+**Uncertainty:** the exact 1912 issue and Blair reply remain unread; Bowdoin's original Collier's pages remain uninspected; the stone/inscription claim is not established.
+**One next action:** inspect the original Collier's 19–20 August 1911 pages through an authorized copy and compare them line by line with the secondary transcription.
