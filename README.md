@@ -58,7 +58,7 @@ The project's priorities, in order, are:
 
 ## Status
 
-Active provenance research. The public record now separates two primary 1857 newspaper letters from later cipher lore: the familiar “forty feet below” wording has no located 19th-century documentary basis and is traceable in the current audit only to a 1949 secondhand account. UNB's public Amherst Daily News microfilm range includes 1912-02-23, but the exact issue and Blair reply have not been inspected. No original stone survives and no cipher reading is established.
+Active provenance research. The public record now separates two primary 1857 newspaper letters from later cipher lore: the familiar “forty feet below” wording has no located 19th-century documentary basis and is traceable in the current audit only to a 1949 secondhand account. UNB's public Amherst Daily News microfilm range includes 1912-02-23, but the exact issue and Blair reply have not been inspected. The stone's present location is unverified; the reported 1909 sighting is available here only through a secondary transcription. No cipher reading is established.
 
 ## Public research site
 
