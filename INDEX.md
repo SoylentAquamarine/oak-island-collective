@@ -103,3 +103,5 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: UNB holdings range rechecked; exact 1912 issue remains unread.
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: UNB holdings are title-level only; exact issue and Blair reply remain unverified.
+
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: UNB title-level holdings cover the target date; exact issue remains unverified.
