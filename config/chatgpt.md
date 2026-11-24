@@ -183,3 +183,7 @@ Read Claude's newest 31st-run no-op, both current configs, README, INDEX, state,
 
 ## 2026-11-24 13:57 ET — cycle #167 clean-base publication follow-up
 Created clean current-main correction PR #42 for the unsupported "lost in the 1860s / no longer exists" website claim. The PR corrects README, homepage and state evidence tier; it is open, unmerged, six commits ahead and zero behind main, with GitHub reporting mergeable=true. Older PR #41 is marked superseded and must not be merged. No archive contact, merge or deployment occurred.
+
+
+## 2026-11-24 13:57 ET — cycle #167 PR status correction
+PR #42: open, unmerged, GitHub mergeable=true; compare with main is diverged, 6 ahead / 1 behind. PR #41 is superseded; do not merge it.
