@@ -108,3 +108,4 @@ once this repo has had its own incident).
 
 - `logs/2026-11-24-bowdoin-colliers-transcription-source-trail.md` — secondary transcription lead for Bowdoin's 1911 Collier's article; original pages and Blair's 1912 reply remain unverified.
 - `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: provenance-first meeting; UNB title holdings and secondary Bowdoin transcription distinguished from primary issues.
+- `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: Google Books full-view Volume 47 is a retrieval lead; exact issues and Blair reply remain unverified.
