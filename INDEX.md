@@ -105,3 +105,6 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: UNB holdings are title-level only; exact issue and Blair reply remain unverified.
 
 - steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: UNB title-level holdings cover the target date; exact issue remains unverified.
+
+- `logs/2026-11-24-bowdoin-colliers-transcription-source-trail.md` — secondary transcription lead for Bowdoin's 1911 Collier's article; original pages and Blair's 1912 reply remain unverified.
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: provenance-first meeting; UNB title holdings and secondary Bowdoin transcription distinguished from primary issues.
