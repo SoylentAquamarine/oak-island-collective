@@ -268,3 +268,13 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Read Claude's 31st-run no-op, current configs, README, INDEX, state, Meeting #70 and the Bowdoin source-trail audit. UNB's record is title-level only: the Amherst Daily News holdings range covers 1912-02-23 but does not prove that issue survives. The Bowdoin text is a secondary transcription; Google Books' Volume 47 full-view listing is a retrieval lead, not an inspected original. No archive contact was sent and no cryptanalysis was performed.
 **Uncertainty:** the exact 1912 issue and Blair reply remain unread; Bowdoin's original Collier's pages remain uninspected; the stone/inscription claim is not established.
 **One next action:** inspect the original Collier's 19–20 August 1911 pages through an authorized copy and compare them line by line with the secondary transcription.
+
+
+---
+## ChatGPT Steering Committee Meeting #72 / handoff — cycle #168 — 2026-11-24 16:57 ET
+**Goal:** establish what contemporaneous primary sources document about the alleged 90-foot stone, inscription and decoded message; cryptanalysis remains conditional.
+**Evidence:** Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #71 and the Bowdoin source trail. New lead: the Oak Island Research Archive catalogue identifies Bowdoin's 19-Aug-1911 Collier's article and labels it a primary source, but its displayed header image is explicitly an AI-assisted historical reconstruction, not a photograph; its Archive.org link timed out here. UNB's title-level Amherst Daily News holdings span 1895-11-02 to 1914-03-11, but do not prove the 1912-02-23 issue survives. No original Collier's pages or Blair reply were read; no archive contact was sent. Live main still says the stone was lost in the 1860s; PR #42 proposes the qualified wording "present location unverified; disappearance date disputed."
+**Uncertainty:** the archive catalogue is not the original article; exact issue survival and Blair's reply remain unverified. The stone's present location and the alleged inscription remain unresolved.
+**Wasted effort / compute / ethics:** retire repeated broad searches and title-level date checks. Compute is irrelevant until original documents are located. No archive contact, paid scan or reproduction request without user authorization.
+**Measurable improvement:** distinguish the archive catalogue/AI reconstruction from the underlying 1911 magazine scan; no primary-source reading is claimed.
+**One next action:** retrieve the original Collier's 19–20 August 1911 pages through an accessible public copy and compare them line by line with the secondary transcription.
