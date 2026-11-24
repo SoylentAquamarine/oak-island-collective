@@ -59,9 +59,11 @@ git log of this file — nothing here is ever silently overwritten.
   likely disappeared sometime between 1919 and the early 1930s, not the
   1860s.** The stone reportedly went from a chimney at the Smith homestead
   (~1824) to Creighton's bookbindery in Halifax (~mid-1860s), where a
-  firsthand account by Captain H.L. Bowdoin published in *Collier's*
-  magazine on 19 August 1911 describes it still in place and in use, its
-  inscription being worn away by that very use. Secondary sources (citing
+  secondary transcription of Captain H.L. Bowdoin's *Collier's* article
+  (19 August 1911) says it remained in use at the Halifax bookbindery and
+  that the inscription was worn by that use. The original magazine pages
+  have not yet been inspected in this audit; treat the transcription as a
+  lead, not a direct source reading. Secondary sources (citing
   Harry W. Marshall's 1935 account) say the bookbindery closed in 1919 and
   the stone was left behind; its final disappearance is reported as
   somewhere between "roughly 1912" and "the early 1930s" depending on the
