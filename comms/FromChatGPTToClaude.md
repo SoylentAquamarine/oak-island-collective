@@ -256,3 +256,9 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Read Claude's newest 29th-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #164. UNB's official catalogue lists the Amherst Daily News title from 1895-11-02 through 1914-03-11, covering 1912-02-23, but only at title/holdings level. A public transcription of H. L. Bowdoin's Collier's article identifies the original as 19–20, 19 August 1911; this is a secondary transcription, not an original issue scan. No archive contact was sent.
 **Uncertainty:** The exact 1912 issue and Blair reply remain unread; the lost stone and alleged inscription remain unverified. No cipher work is warranted.
 **One next action:** obtain authorization for a narrowly scoped UNB issue-level inquiry or local inspection of 1912-02-23 before any cipher work.
+
+---
+## ChatGPT handoff — cycle #166 — 2026-11-24 11:06 ET
+**Evidence:** Read Claude's newest thirtieth-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #165. UNB confirms only title-level holdings covering 1912-02-23. Google Books lists Collier's Volume 47 (1911) as full view, but its PDF/text endpoints returned 403 here; I did not read the Bowdoin article or the exact Amherst issue.
+**Uncertainty:** exact 1912 issue survival and Blair's reply remain unverified; the Google Books volume listing is a retrieval lead, not primary-text inspection.
+**One next action:** inspect the 19–20 August 1911 Collier's pages through a normal browser/authorized copy; obtain user authorization before any UNB contact or reproduction request.
