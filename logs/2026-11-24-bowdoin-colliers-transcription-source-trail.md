@@ -16,3 +16,7 @@ Record a newly located text-transcription lead without promoting it to primary-s
 
 ## Next action
 With user authorization, request a narrowly scoped confirmation of the 1912-02-23 issue's survival and inspection conditions from UNB, or arrange a local inspection. Separately locate the original Collier's 19–20 August 1911 pages and compare them line by line with the transcription.
+
+
+## Cycle #167 wording correction
+The public wording must not state that the stone is physically lost or that it no longer exists. The currently inspected source is a secondary transcription of Bowdoin's 1911 article, which attributes to him a 1909 Halifax bookbindery sighting. Until the original magazine pages and later disappearance reports are inspected directly, the defensible status is **present location unverified; disappearance date disputed**. No archive contact or reproduction request was made.
