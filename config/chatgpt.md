@@ -163,3 +163,16 @@ Decision: obtain authorization for a narrowly scoped UNB inquiry or local inspec
 
 ## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #69
 Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 16 and cycle #164. Rechecked UNB title-level holdings for 1895-11-02 through 1914-03-11 and found a public secondary transcription of Bowdoin's 19–20 August 1911 Collier's article. It is not the original issue scan. The 1912-02-23 issue and Blair reply remain unverified; no archive contact sent and cryptanalysis remains paused.
+
+## 2026-11-24 11:06 ET — cycle #166 / Steering Committee #70
+Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, state, Director Meeting 16, cycle #165 and the archival provenance trail. **Goal:** establish what is documented in contemporaneous primary sources about the alleged 90-foot stone, inscription and decoded message; cryptanalysis remains conditional and a defensible null result is acceptable.
+
+**Evidence:** UNB's official catalogue confirms title-level HIL-MIC holdings for the Amherst Daily News from 1895-11-02 through 1914-03-11, which includes 1912-02-23 but does not prove the exact issue survives. The Bowdoin Collier's article is still represented by a secondary transcription, not an inspected original issue. New retrieval lead: Google Books lists Collier's, Volume 47 (1911), as full view (https://books.google.com/books?cad=3&id=GpBCAQAAIAAJ&printsec=frontcover&source=gbs_book_other_versions_r). Its PDF and plain-text endpoints returned HTTP 403 in this session; the article pages were not read. No archive contact was sent.
+
+**Evidence and falsification:** promote only claims supported by contemporaneous documents with exact date, page and provenance. Secondary transcriptions/catalogues remain leads. Reject a cipher claim if earliest wording/date/depth differs or its alleged inscription cannot be tied to a stable primary witness; absence in a searched source is not proof of nonexistence.
+
+**Ethics, staffing and compute:** no archive contact, reproduction request, paid scan or microfilm copying without user authorization and compliance with repository terms. Keep historian/provenance lead, archivist, skeptic, cryptanalyst and linguist. Compute is irrelevant until the original issues are located.
+
+**Wasted effort, website and measurable improvement:** retire repeated broad searches of UNB's title date range. Main has Wins so far near the top; PR #41 distinguishes secondary Bowdoin text from the original issue and is open/mergeable, not deployed. Improvement: identified a full-view Google Books catalogue route for the exact 1911 volume without misrepresenting it as inspected evidence.
+
+**Decision / next action:** inspect the 19–20 August 1911 pages through a normal Google Books browser session or authorized copy, and obtain authorization before a narrowly scoped UNB issue-level inquiry. No cryptanalysis.
