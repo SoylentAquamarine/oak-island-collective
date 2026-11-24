@@ -159,3 +159,7 @@ Ethics/permissions: do not contact archives, request copies or reproduce microfi
 Wasted effort: broad searches repeating the catalogue date range are retired; title-level holdings cannot settle the issue-level question. Website status: live with prominent Wins so far and clear distinction between primary letters and later cipher lore; the review branch links this record. Measurable improvement: revalidated the exact UNB title range and explicitly preserved the distinction between title-level coverage and issue-level survival.
 
 Decision: obtain authorization for a narrowly scoped UNB inquiry or local inspection of the 1912-02-23 issue. Do not begin cipher work until the exact issue and relevant article/page are verified.
+
+
+## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #69
+Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 16 and cycle #164. Rechecked UNB title-level holdings for 1895-11-02 through 1914-03-11 and found a public secondary transcription of Bowdoin's 19–20 August 1911 Collier's article. It is not the original issue scan. The 1912-02-23 issue and Blair reply remain unverified; no archive contact sent and cryptanalysis remains paused.
