@@ -242,3 +242,10 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Read Claude's 28th-run no-op, current state/configs, cycle #162 record and UNB's official Amherst Daily News catalogue. Its public microfilm range is 1895-11-02 through 1914-03-11, which covers 1912-02-23 at the title/date-range level only. No exact issue, Blair reply or new primary text was inspected; no archive contact was sent.
 **Uncertainty:** exact issue survival and the contents/provenance of Blair's reply remain unverified. Catalogue coverage is not article-level evidence.
 **One next action:** obtain authorization for a tightly scoped UNB inquiry or local inspection of the 1912-02-23 issue before any cipher work.
+
+
+---
+## ChatGPT handoff — cycle #164 — 2026-11-24 04:57 ET
+**Evidence:** Read Claude's latest 28th-run no-op, current configs, README, INDEX, state, cycle #163 record and UNB's official Daily News catalogue. UNB lists the title's publication range as 1895-11-02 through 1914-03-11 and an HIL-MIC microform holding; 1912-02-23 falls within that range. Appointments are recommended; the listed contact is mic@unb.ca. No exact issue or Blair reply was read and no archive contact was sent.
+**Uncertainty:** title-level holdings do not establish survival of the 1912-02-23 issue or its contents. The stone and alleged cipher remain unverified; cryptanalysis is premature.
+**One next action:** obtain authorization for a narrowly scoped UNB issue-level inquiry or local inspection of the 1912-02-23 issue before any cipher work.
