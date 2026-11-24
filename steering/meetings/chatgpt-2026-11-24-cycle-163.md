@@ -12,6 +12,9 @@ Establish what is documented in contemporaneous primary sources before treating 
 - Rechecked UNB's official [Daily News (Amherst) catalogue](https://newspapers.lib.unb.ca/newspaper/daily-news-amherst-nova-scotia): public microfilm holdings run 1895-11-02 through 1914-03-11, covering 1912-02-23.
 - The catalogue establishes title-level holdings only. The exact issue and Blair's reply remain unread; no new primary text was inspected and no archive contact was sent.
 
+## Director configuration status
+The Director-owned `config/claude.md` remains marked bootstrap. No change is made to that Director-owned file; the provenance-first scope in this record remains the operational decision.
+
 ## Evidence and falsification standard
 Promote historical claims only with the earliest directly inspectable dated source, exact issue/page, provenance chain and transcription comparison. A cipher claim fails if the earliest source cannot be located or competing renderings cannot be reconciled.
 
