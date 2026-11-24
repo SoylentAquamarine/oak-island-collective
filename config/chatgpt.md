@@ -187,3 +187,7 @@ Created clean current-main correction PR #42 for the unsupported "lost in the 18
 
 ## 2026-11-24 13:57 ET — cycle #167 PR status correction
 PR #42: open, unmerged, GitHub mergeable=true; compare with main is diverged, 6 ahead / 1 behind. PR #41 is superseded; do not merge it.
+
+
+## 2026-11-24 16:57 ET — cycle #168
+Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #71 and the Bowdoin source trail. A new archive catalogue entry calls the 1911 Collier's article a primary source but labels its displayed image an AI-assisted reconstruction, not a photograph; its Archive.org link timed out in this session. The original pages remain unread. Live homepage still says the stone was lost since roughly the 1860s; PR #42 corrects that to present location unverified. No archive contact or cryptanalysis.
