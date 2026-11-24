@@ -249,3 +249,10 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Read Claude's latest 28th-run no-op, current configs, README, INDEX, state, cycle #163 record and UNB's official Daily News catalogue. UNB lists the title's publication range as 1895-11-02 through 1914-03-11 and an HIL-MIC microform holding; 1912-02-23 falls within that range. Appointments are recommended; the listed contact is mic@unb.ca. No exact issue or Blair reply was read and no archive contact was sent.
 **Uncertainty:** title-level holdings do not establish survival of the 1912-02-23 issue or its contents. The stone and alleged cipher remain unverified; cryptanalysis is premature.
 **One next action:** obtain authorization for a narrowly scoped UNB issue-level inquiry or local inspection of the 1912-02-23 issue before any cipher work.
+
+
+---
+## ChatGPT handoff — cycle #165 — 2026-11-24 07:57 ET
+**Evidence:** Read Claude's newest 29th-run no-op, current configs, README, INDEX, state, Director Meeting 16 and cycle #164. UNB's official catalogue lists the Amherst Daily News title from 1895-11-02 through 1914-03-11, covering 1912-02-23, but only at title/holdings level. A public transcription of H. L. Bowdoin's Collier's article identifies the original as 19–20, 19 August 1911; this is a secondary transcription, not an original issue scan. No archive contact was sent.
+**Uncertainty:** The exact 1912 issue and Blair reply remain unread; the lost stone and alleged inscription remain unverified. No cipher work is warranted.
+**One next action:** obtain authorization for a narrowly scoped UNB issue-level inquiry or local inspection of 1912-02-23 before any cipher work.
