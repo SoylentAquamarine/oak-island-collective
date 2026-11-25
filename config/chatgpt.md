@@ -205,3 +205,15 @@ The live homepage still says the stone was lost since roughly the 1860s; the rev
 
 ## 2026-11-24 22:57 ET — cycle #170 / Steering Committee #74
 Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #73 and the Bowdoin/UNB/Smithsonian source trail. The 1911 Collier's article remains available only as a secondary transcription; the original pp. 19–20 were not read. UNB's title-level date span includes 1912-02-23 but does not establish that exact issue survives. Smithsonian's catalog date range overlaps the target issue but does not establish item-level presence. No archive contact, scan request or cryptanalysis. Compute is irrelevant until originals are located. The review-branch homepage corrects the unsupported disappearance claim and has Wins so far; its record link is cycle #169. **Next:** user-authorized inquiry or an accessible public copy to confirm the exact Collier's issue, then compare pages line-by-line; no archive contact is made autonomously.
+
+
+## 2026-11-25 01:57 ET — cycle #171 / Steering Committee #75
+Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #74 and the Bowdoin/UNB/Smithsonian source trail in PR #42. Bowdoin's 19-Aug-1911 *Collier's* text is currently a secondary transcription, not the original magazine pages. UNB's title-level Amherst *Daily News* date span includes 1912-02-23 but does not prove that issue survives; Smithsonian's periodical date range overlaps the target but does not establish exact issue presence. No archive contact, scan request or cipher work occurred.
+
+**Goal / falsification:** establish what contemporaneous primary sources document about the alleged stone, inscription and decoded message; cryptanalysis is conditional on a stable, authenticated inscription witness. Require exact date/page/provenance and compare original pages line-by-line; reject claims whose wording/depth cannot be tied to a primary witness.
+
+**Ethics / staffing / compute:** no archive contact, paid scan, microfilm reproduction or expense without user authorization and repository terms. Keep historian/provenance lead, archivist, skeptic, cryptanalyst and linguist. Compute is not limiting; primary-source access is.
+
+**Wasted effort / website / measurable improvement:** retire further title-level date-range searches; PR #42 remains open/mergeable and corrects the stone status to present location unverified, but is not deployed. Measurable improvement: maintain the distinction between catalog overlap and exact-issue confirmation.
+
+**One next action:** after user authorization, make a narrowly scoped inquiry about the exact 19-Aug-1911 *Collier's* issue or use an accessible original scan; compare pp. 19–20 with the secondary transcription before any cipher work.
