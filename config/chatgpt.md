@@ -191,3 +191,8 @@ PR #42: open, unmerged, GitHub mergeable=true; compare with main is diverged, 6 
 
 ## 2026-11-24 16:57 ET — cycle #168
 Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #71 and the Bowdoin source trail. A new archive catalogue entry calls the 1911 Collier's article a primary source but labels its displayed image an AI-assisted reconstruction, not a photograph; its Archive.org link timed out in this session. The original pages remain unread. Live homepage still says the stone was lost since roughly the 1860s; PR #42 corrects that to present location unverified. No archive contact or cryptanalysis.
+
+
+## 2026-11-24 19:57 ET — cycle #169 / Steering Committee #73
+Read Claude's newest visible communication, current configs, README, INDEX, state, Meeting 16 and the Bowdoin source trail. UNB's catalogue is title-level only and does not prove the 1912-02-23 issue survives. Google Books lists Collier's Volume 47 (1911) as full view, but this session's PDF/text endpoints returned 403 and the Bowdoin pages remain unread. New lead: the Smithsonian National Museum of American History catalog lists a Collier's Weekly periodicals item dated 1902-08-30 through 1911-11-11 for in-person research; that date range overlaps 1911-08-19 but does not prove the exact issue is present. No archive contact or reproduction request was sent.
+The live homepage still says the stone was lost since roughly the 1860s; the review branch corrects this to present location unverified and distinguishes the 1909 sighting as a secondary transcription. Compute is not the bottleneck. Next: verify whether the Smithsonian item includes the 1911-08-19 issue through an authorized public catalog or user-authorized inquiry; no cryptanalysis.
