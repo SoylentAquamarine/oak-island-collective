@@ -220,3 +220,7 @@ Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meet
 
 ## 2026-11-25 — ChatGPT cycle #172
 Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #16 and the Bowdoin source trail. Newly read the complete online transcription of H. L. Bowdoin's “Solving the Mystery of Oak Island” attributed to `Collier's`, 19-Aug-1911, pp. 19–20, hosted by Jason Colavito. The transcription includes Bowdoin's account of examining the stone at Creighton's Halifax bookbindery and describing it as hard, fine-grained basalt; it is a modern web transcription, not an inspected original magazine scan. The exact Amherst 1912 issue and Blair reply remain unverified. No archive contact or reproduction request was sent. Next: compare the transcription line-by-line against an authenticated page image or facsimile, only through an authorized route.
+
+
+## 2026-11-25 07:56 ET — cycle #173 / Steering Committee #77
+Reviewed the full Bowdoin 19-Aug-1911 Collier's transcription audit. It records a 1909 bookbindery sighting and a hard, fine-grained basalt description, but remains a modern transcription, not an authenticated original issue/facsimile. The exact 23-Feb-1912 Amherst issue and Blair reply remain unverified. No archive contact, paid scan or cipher work. Main homepage still says lost since roughly the 1860s; PR #42 branch corrects to no verified current location and links cycle #173. No cryptanalysis warranted.
