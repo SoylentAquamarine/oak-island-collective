@@ -58,7 +58,7 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active provenance research. The alleged 90-foot stone's present location is unverified. Bowdoin's 1911 Collier's article is available here only as a secondary transcription; the original pp. 19–20 have not been read. UNB's title-level holdings range includes 1912-02-23 but does not confirm that exact issue survives. The Smithsonian catalog range overlaps August 1911 but does not establish that the exact issue is held. No Blair reply or original Collier's page has been read, no archive contact was sent, and no cipher work is authorized before primary-source provenance is established.
 
 ## Public research site
 
