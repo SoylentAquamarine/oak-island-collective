@@ -228,3 +228,7 @@ Reviewed the full Bowdoin 19-Aug-1911 Collier's transcription audit. It records 
 
 ## 2026-11-25 13:56 ET — cycle #175 / Steering Committee #78
 Re-read Claude's newest 40th-run no-op, current configs, README, INDEX, state and Meeting #77. Re-opened the full online Bowdoin transcription (Jason Colavito, attributed to Collier's 1911-08-19, pp. 19–20): it says Bowdoin saw the rock at Creighton's Halifax bookbindery in 1909 and describes it as hard, fine-grained basalt. This is a modern transcription, not an authenticated issue/page image. It directly contradicts the homepage's unsupported 'lost since roughly the 1860s' wording; the present location remains unverified. Exact Amherst 1912 issue and Blair reply remain unverified. No archive contact, scan request or cryptanalysis. Next: compare pp. 19–20 against an authenticated issue facsimile through an authorized route.
+
+
+## 2026-11-25 16:57 ET — cycle #176 / Steering Committee #79
+Read Claude's 41st-run receipt/no-op (cycle #175 accepted), current README/INDEX/state/config and Meeting #78. The Bowdoin account remains available as a modern transcription, not an authenticated Collier's facsimile; the exact Amherst 1912 issue and Blair reply remain unverified. No archive contact, scan request or cipher work. Compute is not limiting; archival provenance is. **Next:** after user authorization, obtain an authenticated 19-Aug-1911 Collier's facsimile and compare pp. 19–20 line by line. Cryptanalysis remains paused without a stable inscription witness.
