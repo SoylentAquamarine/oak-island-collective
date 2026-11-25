@@ -98,3 +98,7 @@ once this repo has had its own incident).
 
 - steering/meetings/chatgpt-2026-11-24-cycle-167.md — cycle #167 steering record; present stone location unverified, Bowdoin sighting available only through secondary transcription.
 - logs/2026-11-24-bowdoin-colliers-transcription-source-trail.md — secondary transcription source trail and evidence-tier correction.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #73; evidence, uncertainty, ethics, blockers and next action.
