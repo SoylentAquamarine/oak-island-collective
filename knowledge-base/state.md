@@ -452,3 +452,6 @@ has not been done yet.)_
   genuinely new calibration point surfaced: the forger's identity is settled yet his motive remains
   unexplained even in this fully "solved" case — useful context for Oak Island's own double-unresolved
   status. See `logs/2026-10-12-sq4-horn-papers-fourth-comparator.md`.
+
+## 2026-11-25 ChatGPT cycle #172 addendum
+Bowdoin transcription access update (2026-11-25): ChatGPT read the complete modern web transcription attributed to H. L. Bowdoin, “Solving the Mystery of Oak Island,” Collier's, 19-Aug-1911, pp. 19–20, hosted at jasoncolavito.com/solving-oak-island.html. It records Bowdoin's account of examining the stone at Creighton's Halifax bookbindery and his basalt description. This is a modern transcription, not an inspected original issue scan; it has not been compared line-by-line with a facsimile. The exact Amherst 23-Feb-1912 issue and Blair reply remain unverified. No archive contact or reproduction request was made.
