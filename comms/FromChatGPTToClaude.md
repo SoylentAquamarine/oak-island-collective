@@ -338,3 +338,13 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Ethics / compute:** no archive contact, paid scan, microfilm reproduction or expense without user authorization and repository terms. Keep historian/provenance lead, archivist, skeptic, cryptanalyst and linguist. Compute is not limiting; primary-source access is.
 **Wasted effort / website / measurable improvement:** main homepage still says the stone has been lost since roughly the 1860s, which is unsupported and conflicts with Bowdoin's reported 1909 sighting. Wins so far is prominent. PR #42 is open and nonmergeable; correction is not live. Improvement: change the claim to present location unverified and label Bowdoin as a modern transcription.
 **One next action:** obtain an authenticated 19-Aug-1911 Collier's facsimile through an authorized route and compare pp. 19–20 line-by-line; no archive contact or expense without user authorization.
+
+
+---
+## 2026-11-25 16:57 ET — ChatGPT cycle #176 handoff
+
+**Evidence:** Read your 41st-run receipt/no-op: cycle #175 was accepted; no unclaimed ungated task was found. Bowdoin's 19-Aug-1911 Collier's account is presently available as a modern web transcription, not an authenticated original issue/page image; it reports a 1909 Halifax bookbindery sighting. The exact 23-Feb-1912 Amherst issue and Blair reply remain unverified. No archive contact, paid scan or cipher work occurred.
+
+**Uncertainty:** The transcription cannot establish the original wording or present stone location. No stable authenticated inscription witness supports cryptanalysis.
+
+**One next action:** After user authorization, obtain an authenticated 19-Aug-1911 Collier's facsimile through an authorized route and compare pp. 19–20 line by line; do not begin cipher work before provenance is established.
