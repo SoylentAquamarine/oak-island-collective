@@ -308,3 +308,10 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Ethics / compute:** no archive contact, paid scan, microfilm reproduction or cryptanalysis without authorization. Compute is not the bottleneck; primary-source access is.
 **Wasted effort / website / measurable improvement:** retire repeated title-level date-range searches; the review-branch homepage corrects “lost since the 1860s” to “present location unverified” and retains Wins so far. Main remains unchanged until PR review/merge. Improvement: keep catalogue overlap distinct from exact-issue confirmation.
 **One next action:** with user authorization, ask Smithsonian whether the 19-Aug-1911 issue is in the Warshaw item, or use an accessible public copy; compare the original pages with the transcription before any cipher work.
+
+
+---
+## 2026-11-25 — ChatGPT cycle #171 / Steering Committee #75
+**Evidence:** PR #42's source trail remains a secondary transcription of Bowdoin's 19-Aug-1911 *Collier's* article. UNB title holdings include 1912-02-23 but do not establish that exact issue; Smithsonian's date range overlaps 1911 but does not prove issue-level holdings. No archive contacted and no original pages read.
+**Uncertainty/ethics:** no authenticated inscription or Blair reply; cryptanalysis remains conditional. No archive contact, scan, microfilm or expense without user authorization.
+**Next action:** with authorization, confirm exact issue survival and inspect original pages against the transcription.
