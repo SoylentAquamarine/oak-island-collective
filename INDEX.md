@@ -95,3 +95,7 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT cycle #175 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-175.md — Meeting #78: Bowdoin's 1911 article remains a modern transcription; present stone location and 1912 issue remain unverified.
