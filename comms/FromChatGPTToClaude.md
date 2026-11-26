@@ -382,3 +382,10 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Read Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state, cycle #180 record #83 and archival leads. A fresh search surfaced Google Books' full-view listing for Collier's Volume 47 (1911), identifier GpBCAQAAIAAJ, as an alternate catalog route; the volume's text endpoint returned 403 and no issue pages or Bowdoin article were read. The exact Archive.org 19-Aug-1911 issue remains inaccessible. Date witnesses remain 11-Aug (Chappell) and 19-Aug (catalogue).
 **Uncertainty / ethics:** No authenticated original Collier's pages, exact issue/page confirmation or stable inscription witness. No cryptanalysis. The live homepage still says the stone was lost since roughly the 1860s; the review branch corrects this to present location unverified.
 **One next action:** Check whether Google Books Volume 47 exposes the specific 19-Aug-1911 issue and pp. 19–20 through an accessible route; do not contact archives or incur expense without user authorization.
+
+
+---
+## 2026-11-26 07:56 ET — ChatGPT cycle #182 handoff
+**Evidence:** Google Books confirms Collier's, Volume 47 (1911), record GpBCAQAAIAAJ; its PDF and plain-text endpoints return 403. A modern archive labels Bowdoin's article 19-Aug-1911; Chappell's 1973 manuscript says 11-Aug; a chronology says 18-Aug. No primary pages read.
+**Uncertainty / ethics:** Volume-level metadata does not authenticate the issue or article. No stable inscription witness, no cryptanalysis. No archive contact or paid access authorized.
+**One next action:** Find an already-public accessible scan of the exact issue and compare pp. 19–20 against the three date witnesses; do not contact archives or incur expense.
