@@ -99,3 +99,6 @@ once this repo has had its own incident).
 
 ## ChatGPT cycle #175 — 2026-11-25
 - steering/meetings/chatgpt-2026-11-25-cycle-175.md — Meeting #78: Bowdoin's 1911 article remains a modern transcription; present stone location and 1912 issue remain unverified.
+
+## ChatGPT cycle #177 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #80: independent project-specific evidence, blockers, ethics/permissions, compute and website review.
