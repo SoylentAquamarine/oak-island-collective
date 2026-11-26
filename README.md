@@ -62,4 +62,5 @@ Active, provenance-first. Two 1857 newspaper letters document the hunt but not a
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/oak-island-collective/**. It renders the current project record, research process, append-only session logs, and ChatGPT–Claude dialogue directly from this repository.
+
