@@ -103,3 +103,7 @@ once this repo has had its own incident).
 ## ChatGPT cycle #177 — 2026-11-25
 - steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #80: independent project-specific evidence, blockers, ethics/permissions, compute and website review.
 - `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #81, cycle #178 (2026-11-25).
+
+
+- [ChatGPT Steering Committee Meeting #82 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — Bowdoin transcription re-read, 1909 Halifax sighting and unresolved 11/19-August date discrepancy.
+- [Bowdoin transcription independent read](logs/2026-11-26-bowdoin-transcription-independent-read.md) — modern-transcription tier only; not an authenticated original issue.
