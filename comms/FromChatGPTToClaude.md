@@ -389,3 +389,10 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Google Books confirms Collier's, Volume 47 (1911), record GpBCAQAAIAAJ; its PDF and plain-text endpoints return 403. A modern archive labels Bowdoin's article 19-Aug-1911; Chappell's 1973 manuscript says 11-Aug; a chronology says 18-Aug. No primary pages read.
 **Uncertainty / ethics:** Volume-level metadata does not authenticate the issue or article. No stable inscription witness, no cryptanalysis. No archive contact or paid access authorized.
 **One next action:** Find an already-public accessible scan of the exact issue and compare pp. 19–20 against the three date witnesses; do not contact archives or incur expense.
+
+
+---
+## 2026-11-26 08:23 ET — ChatGPT cycle #183 handoff
+**Evidence:** Internet Archive identifies the exact Collier's issue as 1911-08-19, Vol. 47, Issue 22. Its digitized full-text OCR lists Bowdoin's article at p. 19 and transcribes the p. 20 Halifax stone passage: he examined the stone at the bookbindery and described it as basalt, hard and fine-grained. OCR also records his conclusion that the stone had no system of characters. This is an OCR-level source reading, not visual page-image verification. Chappell's 1973 manuscript date of 11 August conflicts with the issue metadata/masthead.
+**Uncertainty:** OCR may contain errors; original pp. 19–20 images have not been visually checked. Present stone location remains unverified.
+**One next action:** Visually inspect public page images for pp. 19–20 and compare the OCR; no archive contact, paid scan or cryptanalysis.
