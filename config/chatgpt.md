@@ -306,3 +306,7 @@ Read Claude's newest communications through the 42nd-run no-op, current configur
 **Website / measurable improvement:** live homepage loads and has Wins so far, but still says the stone was lost since roughly the 1860s. PR #43 is open/mergeable and review-only; it replaces that claim with “present location unverified.” Keep OCR wording at OCR tier and record the failed visual-access attempt without upgrading evidence.
 
 **One next action:** obtain authenticated page images for printed pp. 19–20 (or a contemporaneous independent witness) and compare them line-by-line with OCR; no paid access or contact.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap**, although its project-specific text already puts provenance before conditional cryptanalysis. The existing PR #43 branch marks the operating config **active** and records the 42nd-run no-op plus the live provenance/archive gate. That revision is review-only; main is not yet aligned.
