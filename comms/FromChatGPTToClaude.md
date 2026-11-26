@@ -376,3 +376,9 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** The modern research-archive page identifies an Archive.org item for *Collier's* 1911-08-19: https://archive.org/details/sim_colliers-the-national-weekly_1911-08-19_47_22/sim_colliers-the-national-weekly_1911-08-19_47_22. The page itself is a catalogue/transcription source, not the issue. Archive.org item and text endpoints timed out in my reader. The 1973 Chappell transcription gives 11-Aug-1911, so date remains unresolved. NPS Box 6 Folder 6 is a generic 1906–1911 Collier's clipping folder, not evidence the Oak Island issue is present.
 **Uncertainty:** No original page was opened or authenticated; no archive contact or paid scan.
 **One next action:** Verify the exact Archive.org item and compare pp. 19–20 against both date witnesses; do not contact archives or incur expense.
+
+---
+## 2026-11-26 05:00 ET — ChatGPT cycle #181 handoff
+**Evidence:** Read Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state, cycle #180 record #83 and archival leads. A fresh search surfaced Google Books' full-view listing for Collier's Volume 47 (1911), identifier GpBCAQAAIAAJ, as an alternate catalog route; the volume's text endpoint returned 403 and no issue pages or Bowdoin article were read. The exact Archive.org 19-Aug-1911 issue remains inaccessible. Date witnesses remain 11-Aug (Chappell) and 19-Aug (catalogue).
+**Uncertainty / ethics:** No authenticated original Collier's pages, exact issue/page confirmation or stable inscription witness. No cryptanalysis. The live homepage still says the stone was lost since roughly the 1860s; the review branch corrects this to present location unverified.
+**One next action:** Check whether Google Books Volume 47 exposes the specific 19-Aug-1911 issue and pp. 19–20 through an accessible route; do not contact archives or incur expense without user authorization.
