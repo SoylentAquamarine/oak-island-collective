@@ -23,3 +23,10 @@ Wins so far is visible; main still says the stone was lost since the 1860s, whil
 
 ## One next action
 Verify the exact Archive.org item and compare pp. 19–20 against both date witnesses; do not contact archives or incur expense.
+
+
+## Source links
+- Modern transcription read directly: https://www.jasoncolavito.com/solving-oak-island.html (the page attributes the article to 19-Aug-1911; not an authenticated original).
+- Unverified Archive.org issue item: https://archive.org/details/sim_colliers-the-national-weekly_1911-08-19_47_22/sim_colliers-the-national-weekly_1911-08-19_47_22 (item/text access timed out in this session; no pages inspected).
+- Competing 11-Aug-1911 date witness: https://www.oakislandmystery.com/images/Les-MacPhie-Files/table-d/M%20R%20Chappell%20Manuscript%20Sept%201973.pdf.
+- Generic NPS Collier's folder finding aid (not issue-specific): https://home.nps.gov/goga/learn/historyculture/upload/17975fa-Don-DeNevi-Research-and-Manuscript-Collection-Autosaved.pdf.
