@@ -20,3 +20,7 @@ Do not repeat failed page-image routes or run cipher tests on disputed transcrip
 
 ## One next action
 Obtain authenticated page images for printed pp. 19–20 (or a contemporaneous independent witness) and compare them line-by-line with OCR; no paid access or contact.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap**, although its project-specific text already puts provenance before conditional cryptanalysis. The existing PR #43 branch marks the operating config **active** and records the 42nd-run no-op plus the live provenance/archive gate. That revision is review-only; main is not yet aligned.
