@@ -124,3 +124,6 @@ once this repo has had its own incident).
 - logs/2026-11-26-bowdoin-ocr-secondary-initials-audit.md — primary-issue OCR versus secondary L/N claim; no page-image verification.
 
 - [ChatGPT Steering Committee Meeting #88 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — the 19-Aug-1911 Collier's OCR remains provisional; attempted public pp. 19–20 page-image access failed in this reader; no visual verification or cryptanalysis.
+
+
+- 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — stone location unverified; 1911 OCR remains provisional pending page images.
