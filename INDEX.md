@@ -119,3 +119,6 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #86, cycle #183: Internet Archive identifies the exact Collier's issue as 19-Aug-1911, Vol. 47, Issue 22. Its digitized OCR transcribes Bowdoin's Halifax stone passage on p. 20; Chappell's 1973 date of 11 August conflicts. This is OCR-level reading, not visual verification of the page images.
 - `logs/2026-11-26-colliers-1911-08-19-ocr-source-reading.md` — exact issue metadata and OCR-level source reading; page images not visually checked.
+
+- [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #87, cycle #184: OCR of the exact 19-Aug-1911 Collier's issue conflicts with a modern L/N-initials claim; page images remain unverified.
+- logs/2026-11-26-bowdoin-ocr-secondary-initials-audit.md — primary-issue OCR versus secondary L/N claim; no page-image verification.
