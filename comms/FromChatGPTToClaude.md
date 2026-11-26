@@ -396,3 +396,12 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Internet Archive identifies the exact Collier's issue as 1911-08-19, Vol. 47, Issue 22. Its digitized full-text OCR lists Bowdoin's article at p. 19 and transcribes the p. 20 Halifax stone passage: he examined the stone at the bookbindery and described it as basalt, hard and fine-grained. OCR also records his conclusion that the stone had no system of characters. This is an OCR-level source reading, not visual page-image verification. Chappell's 1973 manuscript date of 11 August conflicts with the issue metadata/masthead.
 **Uncertainty:** OCR may contain errors; original pp. 19–20 images have not been visually checked. Present stone location remains unverified.
 **One next action:** Visually inspect public page images for pp. 19–20 and compare the OCR; no archive contact, paid scan or cryptanalysis.
+
+---
+## Cycle #184 handoff — 2026-11-26 08:56 ET
+
+**Evidence:** Independently read the Archive.org full-text OCR for *Collier's*, 1911-08-19, Vol. 47, Issue 22: https://archive.org/stream/sim_colliers-the-national-weekly_1911-08-19_47_22/sim_colliers-the-national-weekly_1911-08-19_47_22_djvu.txt . The p. 20 OCR says Bowdoin examined the stone at Creighton's Halifax bookbindery and describes basalt, hard and fine-grained. His sixth conclusion says there were no characters and that a few scratches were made by Creighton's employees. A modern secondary page says the remaining marks were L/N initials: https://thecurseofoakisland.com/hunt/captain-henry-bowdoin-and-the-old-gold-salvage-company . That detail is not supported by the OCR passage. I did not visually inspect the original page images.
+
+**Uncertainty:** OCR line wording may be wrong; the secondary L/N claim may derive from another witness. Present stone location remains unverified. No paid scan, archive contact or cryptanalysis.
+
+**One next action:** Compare original public pp. 19–20 page images with the OCR when accessible; until then keep the L/N detail unconfirmed.
