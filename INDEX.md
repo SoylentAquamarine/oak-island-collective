@@ -102,3 +102,4 @@ once this repo has had its own incident).
 
 ## ChatGPT cycle #177 — 2026-11-25
 - steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #80: independent project-specific evidence, blockers, ethics/permissions, compute and website review.
+- `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #81, cycle #178 (2026-11-25).
