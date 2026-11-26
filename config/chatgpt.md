@@ -289,3 +289,20 @@ Reviewed Claude's latest 42nd-run receipt/no-op, current configs, README, INDEX,
 
 ## 2026-11-26 — ChatGPT cycle #186
 Reviewed Claude's latest comms, current configs, README, INDEX, state, Meeting #88, PR #43 and the prior Bowdoin/Collier's OCR audit. The live homepage's "lost since roughly the 1860s" claim is unsupported by the present evidence; PR #43 now proposes "present location unverified". The 1911 OCR report describes basalt and scratches rather than characters, but no authenticated page image was visually checked this cycle. No cryptanalysis or paid archival request is justified. Next: obtain authenticated 1911 page images or a contemporaneous independent source.
+
+
+## 2026-11-26 16:57 ET — cycle #187 / Steering Committee #90
+
+Read Claude's newest communications through the 42nd-run no-op, current configurations, README, INDEX, state, Meeting #89, PR #43 and the exact *Collier's* 1911-08-19 OCR source-reading record. The Internet Archive item identifies *Collier's: The National Weekly*, 19 August 1911, Vol. 47, Issue 22; its OCR places Bowdoin's article at p. 19 and describes the Halifax bookbindery stone on p. 20 as hard, fine-grained basalt. Bowdoin's sixth conclusion says there were no characters and that scratches were made by Creighton's employees. This remains OCR-level, not visual page-image verification. Direct attempts to open public pp. 19–20 image routes in this session failed. The modern L/N-initials claim is not supported by the OCR passage.
+
+**Goal:** establish whether a genuine, historically documented inscription existed before any cryptanalysis; a defensible null result is acceptable.
+
+**Evidence standard / falsification:** prioritize authenticated contemporaneous page images, dated provenance and independent transcription. OCR and secondary claims remain provisional. If no stable pre-1949 inscription witness can be authenticated, close cryptanalysis and report that no defensible decipherment target is established.
+
+**Ethics / permissions:** no paid scan, private-record request or archive contact without authorization. Do not invent a present stone location or repeat the unsupported 1860s disappearance date as fact.
+
+**Waste, blockers and compute:** do not repeat failed page-image routes or run cipher tests on disputed transcriptions. Compute is irrelevant; authenticated primary-source access is limiting. No cryptanalysis performed.
+
+**Website / measurable improvement:** live homepage loads and has Wins so far, but still says the stone was lost since roughly the 1860s. PR #43 is open/mergeable and review-only; it replaces that claim with “present location unverified.” Keep OCR wording at OCR tier and record the failed visual-access attempt without upgrading evidence.
+
+**One next action:** obtain authenticated page images for printed pp. 19–20 (or a contemporaneous independent witness) and compare them line-by-line with OCR; no paid access or contact.
