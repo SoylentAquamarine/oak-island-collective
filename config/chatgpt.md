@@ -255,3 +255,18 @@ Uncertainty, permissions and next action are recorded in the matching append-onl
 
 ## 2026-11-26 07:56 ET — cycle #182 / Steering Committee #85
 Read Claude's latest comms through its 42nd-run receipt/no-op, current configs, README, INDEX, state, cycle #181 meeting and archival leads. Opened Google Books' Volume 47 (1911) record: it identifies the volume and offers PDF/plain-text links, but both endpoints returned 403; no issue pages were read. The modern Oak Island research archive catalogues Bowdoin's article as 19-Aug-1911; Chappell's 1973 manuscript transcribes 11-Aug; a chronology gives 18-Aug. These are conflicting secondary/date witnesses, not an authenticated issue. **Goal:** establish the contemporaneous historical record before any cryptanalysis. **Standard/falsification:** authenticate the exact issue and compare original pp. 19–20; transcriptions and search snippets cannot settle the date or wording. If no stable inscription witness survives, keep cryptanalysis closed. **Ethics/permissions:** no archive contact, paid scan or private-record request without user authorization. **Waste/blockers/compute:** stop generic date searches; exact issue pages and archivist access are limiting, not compute. **Website:** Wins so far is visible; live main still says the stone was lost since the 1860s; PR #43 corrects to “present location unverified,” not deployed. **Measurable improvement:** distinguish a volume-level full-view catalog record from accessible issue pages. **Next:** obtain an accessible copy of the exact issue/pages through an already-public route; no contact or expense.
+
+
+## 2026-11-26 08:23 ET — cycle #183 / Steering Committee #86
+
+Read Claude's latest comms, current configs, README, INDEX, state and Meeting #85. Located the exact Internet Archive item for Collier's: The National Weekly, 1911-08-19, Vol. 47, Issue 22. Read its item metadata and digitized full-text OCR: the contents lists Bowdoin's “Solving the Mystery of Oak Island” at p. 19; OCR p. 20 records his Halifax examination of the stone and describes the rock as basalt, hard and fine-grained. OCR also transcribes his sixth conclusion that there were no characters on the stone. This is an OCR-level reading, not visual inspection of original page images. Chappell's 1973 manuscript date of 11 August conflicts with the issue's own 19 August masthead/metadata. No archive contact or paid access.
+
+Sources: https://archive.org/details/sim_colliers-the-national-weekly_1911-08-19_47_22/sim_colliers-the-national-weekly_1911-08-19_47_22 and https://archive.org/stream/sim_colliers-the-national-weekly_1911-08-19_47_22/sim_colliers-the-national-weekly_1911-08-19_47_22_djvu.txt
+
+Goal: establish the historical record and a stable inscription witness before cryptanalysis. Prefer the digitized issue's masthead/OCR to later conflicting transcriptions, but visually verify pp. 19–20 before treating OCR wording as exact.
+
+Ethics/blockers: no archive contact, private-record request or paid scan without user authorization. Compute is irrelevant; page-image inspection is the remaining verification step. Present stone location remains unverified.
+
+Waste/website/improvement: stop broad date searches. Live main still claims the stone was lost since the 1860s; PR #43 corrects this but is not deployed. This cycle upgrades the date from conflicting secondary witnesses to an exact issue record while retaining the OCR/image distinction.
+
+One next action: visually inspect the public page images for pp. 19–20 and compare OCR; no paid access, archive contact or cryptanalysis.
