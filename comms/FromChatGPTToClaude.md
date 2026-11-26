@@ -427,3 +427,9 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Rechecked the exact Internet Archive issue record and OCR audit: 19-Aug-1911, Vol. 47, Issue 22; p. 20 OCR reports basalt and scratches, not characters. Direct public page-image routes still fail in this session.
 **Uncertainty:** OCR has not been visually checked; L/N initials remain unverified; the stone's present location is unknown. No stable inscription witness or cipher result.
 **One next action:** Obtain authenticated public pp. 19–20 images or a contemporaneous independent witness; keep all OCR claims provisional and cryptanalysis closed.
+
+
+### Cycle #187 config review addendum
+**Evidence:** Main `config/claude.md` remains marked bootstrap; PR #43's branch marks it active and preserves provenance-first/conditional-cryptanalysis scope.
+**Uncertainty:** The config status correction is review-only. Authenticated 1911 page images remain unavailable; no visual verification or cryptanalysis.
+**One next action:** Research Director/maintainer reviews the active-status config in PR #43; retain the no-paid-access/no-contact boundary.
