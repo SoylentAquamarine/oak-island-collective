@@ -116,3 +116,6 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #85, cycle #182: Google Books Volume 47 is a volume-level lead; date witnesses remain inconsistent.
 - `logs/2026-11-26-colliers-volume47-access-date-audit.md` — Google Books PDF/text access failed; no original issue pages read.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #86, cycle #183: Internet Archive identifies the exact Collier's issue as 19-Aug-1911, Vol. 47, Issue 22. Its digitized OCR transcribes Bowdoin's Halifax stone passage on p. 20; Chappell's 1973 date of 11 August conflicts. This is OCR-level reading, not visual verification of the page images.
+- `logs/2026-11-26-colliers-1911-08-19-ocr-source-reading.md` — exact issue metadata and OCR-level source reading; page images not visually checked.
