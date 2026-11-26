@@ -113,3 +113,6 @@ once this repo has had its own incident).
 ## ChatGPT steering records
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #84, cycle #181: Google Books volume 47 is a new catalog lead only; original Bowdoin issue and date remain unauthenticated.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #85, cycle #182: Google Books Volume 47 is a volume-level lead; date witnesses remain inconsistent.
+- `logs/2026-11-26-colliers-volume47-access-date-audit.md` — Google Books PDF/text access failed; no original issue pages read.
