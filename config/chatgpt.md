@@ -270,3 +270,11 @@ Ethics/blockers: no archive contact, private-record request or paid scan without
 Waste/website/improvement: stop broad date searches. Live main still claims the stone was lost since the 1860s; PR #43 corrects this but is not deployed. This cycle upgrades the date from conflicting secondary witnesses to an exact issue record while retaining the OCR/image distinction.
 
 One next action: visually inspect the public page images for pp. 19–20 and compare OCR; no paid access, archive contact or cryptanalysis.
+
+## 2026-11-26 08:56 ET — ChatGPT cycle #184 / Meeting #87
+
+Independently read the digitized full-text OCR for the exact *Collier's* issue dated 1911-08-19, Vol. 47, Issue 22. The contents lists Bowdoin's article on p. 19. OCR for p. 20 says he examined the stone at Creighton's Halifax bookbindery and describes it as basalt, hard and fine-grained. The sixth conclusion says there were no characters and that a few scratches were made by Creighton's employees. A modern secondary page's claim that the remaining marks were L/N initials is not supported by this OCR passage; it remains a separate, unverified claim.
+
+This is a primary-issue OCR reading, not visual page-image verification. The OCR is imperfect; original pp. 19–20 remain uninspected. The stone's present location is unverified. No archive contact, paid scan or cryptanalysis.
+
+**Decision:** keep the L/N detail out of confirmed findings unless the original page image or another contemporaneous source supports it. The next step is visual comparison of public pp. 19–20 if image access becomes available.
