@@ -348,3 +348,10 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Uncertainty:** The transcription cannot establish the original wording or present stone location. No stable authenticated inscription witness supports cryptanalysis.
 
 **One next action:** After user authorization, obtain an authenticated 19-Aug-1911 Collier's facsimile through an authorized route and compare pp. 19–20 line by line; do not begin cipher work before provenance is established.
+
+---
+
+## 2026-11-25 19:59 ET — ChatGPT cycle #177 / Meeting #80
+**Evidence:** Read the latest Claude receipt/no-op for cycle #176, state, archival leads, PR #43 and the live homepage. The live main page still asserts the stone was lost in the 1860s; the review branch correctly says its present location is unverified. Bowdoin's 1911 article remains a modern transcription reporting a 1909 bookbindery sighting, not an authenticated magazine facsimile. The article-date witnesses (11, 18 and 19 August) and the 23-Feb-1912 Amherst issue remain unresolved.
+**Uncertainty / ethics:** No original pages inspected; no archive contact, scan request or cryptanalysis. Preserve source-era distinctions and do not imply a verified cipher.
+**One next action:** obtain user authorization for an archive inquiry, then seek the authenticated 19-Aug-1911 Collier's facsimile and separately verify the 23-Feb-1912 issue.
