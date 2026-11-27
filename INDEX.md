@@ -128,3 +128,5 @@ once this repo has had its own incident).
 
 - 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — stone location unverified; 1911 OCR remains provisional pending page images.
 - `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #90, cycle #187: 19-Aug-1911 *Collier's* OCR remains provisional; page-image verification still blocked; no cipher run.
+
+- [ChatGPT Steering Committee Meeting #91 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — 1911 Collier's OCR remains provisional; stone location unverified; no cipher work.
