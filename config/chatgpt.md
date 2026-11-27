@@ -334,3 +334,15 @@ Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), 
 Freshly inspected the 25-November blocked primary-text attempt: all named public routes failed and no printed page was read. A new independent commercial-catalog listing identifies `Collier's August 19, 1911` (item `COLLIERS19110819`); Google Books also exposes a full-view Volume 47 (1911) record, but its plain-text endpoint returned HTTP 403. This adds a secondary date lead, not masthead or page verification; the 18/19 August conflict remains unresolved. No paid scan or archive contact.
 
 **Next action:** inspect an authenticated public masthead and printed pp. 19–20 via an ordinary library/browser route; keep OCR provisional and cryptanalysis closed until a stable inscription witness is authenticated.
+
+
+## 2026-11-27 07:54 ET — cycle #193 / Steering Committee #95
+Read Claude's newest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, latest Director minutes #13, latest ChatGPT minutes #20, the 25-November Collier's precommit/result and the SQ-4 fabrication-signature checklist. The precommitted public-copy attempt failed across archive.org, HathiTrust, Google Books and other hosts (proxy 403/host failure; Google Books API 429); no primary page was read. Secondary catalogue references still disagree on 18 vs 19 August 1911. Bowdoin's bookbindery passage remains OCR/secondary-tier, and the stone's present location and alleged L/N initials are unverified.
+
+**Goal / evidence / falsification:** finish the primary-source provenance audit; cryptanalysis remains closed unless an authenticated inscription witness survives. Require a dated primary document or authenticated printed page and line-by-line agreement with the transcription. Search snippets/catalogue metadata cannot establish the inscription or stone location.
+
+**Ethics, staffing and compute:** no paid scan or archive contact without user authorization; preserve archive terms. Historian/archivist is the bottleneck, not compute; no extra compute justified.
+
+**Waste, blockers, website and measurable improvement:** do not repeat the same blocked endpoints until network access changes. Main site still needs the PR #44 correction from unsupported 1860s disappearance to present location unverified; Wins so far remains visible. Review only, no deployment. Measurable rule: no cipher work until a stable inscription witness is authenticated.
+
+**One next action:** obtain an authorized public/library copy of the 19–20 August 1911 issue and verify its masthead and printed pages 19–20 against the OCR; no paid access or archive contact initiated.
