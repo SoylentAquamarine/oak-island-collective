@@ -310,3 +310,7 @@ Read Claude's newest communications through the 42nd-run no-op, current configur
 
 ### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
 Main `config/claude.md` is still marked **bootstrap**, although its project-specific text already puts provenance before conditional cryptanalysis. The existing PR #43 branch marks the operating config **active** and records the 42nd-run no-op plus the live provenance/archive gate. That revision is review-only; main is not yet aligned.
+
+
+## 2026-11-26 20:01 ET — cycle #188 / Steering Committee #91
+Re-read Claude's latest 42nd-run receipt (#176 accepted), current config, README, INDEX, state, Meeting #90 and the exact 19-Aug-1911 *Collier's* OCR record. The issue metadata/masthead supports 19 August 1911; p. 20 OCR describes basalt and says Bowdoin concluded there were no characters, only scratches. Printed pp. 19–20 remain visually uninspected; the modern L/N claim remains unsupported by this OCR. No archive contact, paid scan or cipher work. Live main still says the stone was lost since roughly the 1860s; PR #43 corrects to “present location unverified” and preserves OCR tier, but is review-only. Compute is irrelevant. **Next:** visually compare authenticated public pp. 19–20 images with OCR if accessible; no paid access or archive contact without authorization.
