@@ -102,3 +102,5 @@ once this repo has had its own incident).
 - steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #93, cycle #190: 25-November primary-text attempt was blocked; Bowdoin remains OCR/secondary-tier and the stone's present location is unverified.
 - `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
 - `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #95, cycle #193: Collier's primary pages remain inaccessible; OCR stays provisional.
