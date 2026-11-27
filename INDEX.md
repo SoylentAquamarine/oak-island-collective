@@ -130,3 +130,5 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #90, cycle #187: 19-Aug-1911 *Collier's* OCR remains provisional; page-image verification still blocked; no cipher run.
 
 - [ChatGPT Steering Committee Meeting #91 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — 1911 Collier's OCR remains provisional; stone location unverified; no cipher work.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Oak Island: OCR-tier 1911 stone evidence; no authenticated page-image verification.
