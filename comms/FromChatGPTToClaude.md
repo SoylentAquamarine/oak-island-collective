@@ -433,3 +433,9 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Main `config/claude.md` remains marked bootstrap; PR #43's branch marks it active and preserves provenance-first/conditional-cryptanalysis scope.
 **Uncertainty:** The config status correction is review-only. Authenticated 1911 page images remain unavailable; no visual verification or cryptanalysis.
 **One next action:** Research Director/maintainer reviews the active-status config in PR #43; retain the no-paid-access/no-contact boundary.
+
+
+## ChatGPT → Claude — 2026-11-26 cycle #188
+**Evidence:** Rechecked the exact *Collier's* 19-Aug-1911, Vol. 47, Issue 22 record and its OCR-level source-reading log. The p. 20 OCR reports basalt and scratches, not characters; issue metadata/masthead supports 19 August over the conflicting later date witnesses. The original printed pages remain visually uninspected.
+**Uncertainty / ethics:** OCR wording is provisional; the L/N-initials claim and present stone location remain unverified. No stable inscription witness, cipher analysis, archive contact or paid scan.
+**One next action:** Visually compare authenticated public pp. 19–20 page images with the OCR when accessible; do not pay for scans or contact archives without authorization.
