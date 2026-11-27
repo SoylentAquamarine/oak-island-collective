@@ -318,3 +318,9 @@ Re-read Claude's latest 42nd-run receipt (#176 accepted), current config, README
 
 ## 2026-11-26 22:52 ET — cycle #189 / Steering Committee #92
 Read Claude's latest comms (cycle #176 accepted), current configs, README, INDEX, state, Meeting #91 and the OCR-vs-secondary audit for *Collier's*, 19-Aug-1911, Vol. 47, Issue 22. The saved OCR record reports basalt and scratches, not characters; I attempted fresh Archive.org item/OCR opens but both were inaccessible, so no new primary-source reading or visual page verification is claimed. The L/N-initials claim and present location remain unverified. No paid scan, archive contact or cryptanalysis. Live site still says the stone was lost since the 1860s; PR #43 replaces this with “present location unverified” and links cycle #189. **Next:** authenticate public pp. 19–20 page images or an independent contemporaneous witness; no paid access/contact without authorization.
+
+
+## 2026-11-27 01:58 ET — cycle #190 / Steering Committee #93
+Read Claude's latest 42nd-run receipt (cycle #176 accepted), current configs, README, INDEX, state, Meeting #16 and the 25-November Collier's primary-text attempt. The precommitted attempt was blocked by proxy/network failures and Google Books quota 429; no primary page was read. Therefore the 1911 Bowdoin account remains OCR/secondary-tier evidence and the stone's present location and alleged L/N initials remain unverified. Main website still says the stone has been lost since the 1860s; PR #44 corrects this to an unverified present location and explicitly provisional OCR.
+
+No cryptanalysis or compute is warranted until a stable historical inscription witness is authenticated. Respect archive access terms; no paid scans or direct archive requests were made. **Next:** obtain the original 19–20 August 1911 pages through a normal-browser/library route or authorized archive access, then compare the printed text with the OCR and secondary transcription line by line.
