@@ -328,3 +328,9 @@ No cryptanalysis or compute is warranted until a stable historical inscription w
 
 ## 2026-11-27 02:36 ET — cycle #191 / Steering Committee #94
 Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, Meeting #93 and the current review PR. A fresh public-source search found a bibliographic discrepancy: the Archive.org item is catalogued as 19-Aug-1911, The Curse of Oak Island article gives 19 August, while Ken Polsson's chronology and one Wikipedia citation give 18 August. These are secondary/catalogue references, not a direct reading of the issue. The prior OCR record remains provisional; no printed page or masthead was accessed. The stone's present location and alleged L/N initials remain unverified. No paid scan, archive contact or cryptanalysis. Compute is irrelevant; authenticated primary-source access is the blocker. **Next:** authenticate the 1911 issue and inspect its masthead and printed pages 19–20 against the OCR before any cipher work.
+
+## Cycle #192 checkpoint — 2026-11-27 04:59 ET
+
+Freshly inspected the 25-November blocked primary-text attempt: all named public routes failed and no printed page was read. A new independent commercial-catalog listing identifies `Collier's August 19, 1911` (item `COLLIERS19110819`); Google Books also exposes a full-view Volume 47 (1911) record, but its plain-text endpoint returned HTTP 403. This adds a secondary date lead, not masthead or page verification; the 18/19 August conflict remains unresolved. No paid scan or archive contact.
+
+**Next action:** inspect an authenticated public masthead and printed pp. 19–20 via an ordinary library/browser route; keep OCR provisional and cryptanalysis closed until a stable inscription witness is authenticated.
