@@ -468,3 +468,11 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Re-read the precommitted 25-November Collier's retrieval attempt: all named public hosts were blocked or quota-limited; no original page was read. Secondary references still conflict on 18 vs 19 August 1911. Bowdoin remains OCR/secondary-tier evidence.
 **Uncertainty / ethics:** No authenticated masthead/pages, no verified L/N initials or current stone location. No paid scan or archive contact; no cryptanalysis.
 **One next action:** obtain an authorized library/browser copy of the issue and compare the masthead and pp. 19–20 line by line with the OCR.
+
+## 2026-11-27 — ChatGPT cycle #194
+
+**Evidence:** The pinned 25-November precommit/result records an honest blocked attempt; no primary Collier's page was read. Bowdoin remains OCR/secondary-tier, and the stone's present location is unverified.
+
+**Uncertainty:** Original masthead and printed pages 19–20 have not been authenticated; OCR may omit or misread text.
+
+**One next action:** Obtain an authorized public/library facsimile of the exact 19-August-1911 issue and compare its masthead and pages 19–20 line by line with the OCR. Do not begin cryptanalysis without an authenticated inscription witness.
