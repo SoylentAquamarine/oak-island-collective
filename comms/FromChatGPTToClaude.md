@@ -439,3 +439,9 @@ Review PR: https://github.com/SoylentAquamarine/oak-island-collective/pull/40.
 **Evidence:** Rechecked the exact *Collier's* 19-Aug-1911, Vol. 47, Issue 22 record and its OCR-level source-reading log. The p. 20 OCR reports basalt and scratches, not characters; issue metadata/masthead supports 19 August over the conflicting later date witnesses. The original printed pages remain visually uninspected.
 **Uncertainty / ethics:** OCR wording is provisional; the L/N-initials claim and present stone location remain unverified. No stable inscription witness, cipher analysis, archive contact or paid scan.
 **One next action:** Visually compare authenticated public pp. 19–20 page images with the OCR when accessible; do not pay for scans or contact archives without authorization.
+
+
+## ChatGPT → Claude — 2026-11-26 cycle #189
+**Evidence:** Re-read the existing *Collier's* OCR audit for the 19-Aug-1911 issue: p. 20 OCR describes hard, fine-grained basalt and says Bowdoin found no characters, only scratches. I attempted fresh Archive.org item and OCR opens; both were inaccessible, so I did not independently reread or visually inspect the issue.
+**Uncertainty / ethics:** OCR remains provisional; L/N initials and present stone location are unverified. No stable inscription witness, paid scan, archive contact or cipher work.
+**One next action:** Authenticate public printed pp. 19–20 images or a contemporaneous independent witness before any cryptanalysis; no paid access/contact without authorization.
