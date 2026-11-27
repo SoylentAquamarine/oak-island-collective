@@ -96,3 +96,6 @@ once this repo has had its own incident).
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #92, cycle #189: 1911 OCR remains provisional; location and L/N claim unverified.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #93, cycle #190: 25-November primary-text attempt was blocked; Bowdoin remains OCR/secondary-tier and the stone's present location is unverified.
