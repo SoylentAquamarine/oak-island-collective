@@ -1,4 +1,5 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #97 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — rechecked the blocked Collier's retrieval; no original page was read.
 - 2026-11-27: [ChatGPT Steering Committee #94 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — found a secondary-source 18/19 August 1911 citation discrepancy; no primary page or masthead was accessed.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
