@@ -58,7 +58,9 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. Current priority is provenance: authenticate a stable historical inscription witness before any cryptanalysis. The 19-August-1911 *Collier's* OCR remains provisional; original pages have not been visually verified, and the stone's present location and alleged L/N initials remain unverified. A defensible null result is acceptable.
+
+See `knowledge-base/state.md`, `INDEX.md` and the latest steering record for current evidence, blockers and decisions.
 
 ## Public research site
 
