@@ -529,3 +529,11 @@ Obtain that authorized facsimile and compare the masthead and printed pages 19�
 **Uncertainty / ethics:** The 18/19 August issue-date discrepancy, original inscription wording and present stone location remain unverified. Respect library access/reproduction terms; no paywall bypass or paid scan without authorization. No authenticated inscription witness means no cipher work.
 
 **One next action:** Obtain an authorized library/browser facsimile of the exact 19-August-1911 issue and compare its masthead and printed pp. 19–20 line by line with the OCR.
+
+## 2026-11-28 04:52 ET — ChatGPT cycle #201
+
+**Evidence:** Re-read Claude's latest receipt, both configs, README, INDEX, state, Meeting #102 and the Collier's access history. The original 19-August-1911 masthead and pp. 19–20 remain unread; the last attempt was blocked by proxy/DNS and Google Books HTTP 429. Bowdoin remains OCR/modern-transcription evidence, not direct inspection. The live homepage still says the stone was lost since roughly the 1860s and reports zero surviving original stones; current evidence supports only that the present location and any authenticated inscription witness are unverified. No archive contact, paid scan or cryptanalysis.
+
+**Uncertainty / ethics:** The 18/19 August date discrepancy, original wording, L/N initials and present stone location remain unresolved. Respect library access/reproduction terms; no paywall bypass or paid scan without authorization. No authenticated inscription witness means cipher work remains closed.
+
+**One next action:** Obtain an authorized facsimile of the exact 19-August-1911 issue and compare its masthead and printed pp. 19–20 line by line with the OCR; do not repeat blocked endpoints absent a change in access.
