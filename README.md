@@ -58,8 +58,8 @@ The project's priorities, in order, are:
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich and Rongorongo Collectives, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Oak Island's specific claims and open questions. No provenance audit has been done yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is the primary-source provenance audit (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The provenance audit has traced the familiar “forty feet below” cipher wording to later accounts and directly located two 1857 newspaper letters about the treasure hunt, neither of which verifies an inscription. Bowdoin's 1911 Collier's article and Blair's 1912 reply are now identified in later sources, but the original issues have not been inspected; published dates for the Collier's article remain 11, 18 and 19 August variants. UNB confirms title-level HIL-MIC holdings for the Amherst Daily News through 1914, not survival of the exact 1912-02-23 issue. Cryptanalysis remains paused. The public research site is live at the link below.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The public research site is live: https://soylentaquamarine.github.io/oak-island-collective/ . It publishes the plain-language Wins so far, current evidence, research process, logs and AI dialogue from `docs/`. Review-branch corrections are not deployed until merged.
