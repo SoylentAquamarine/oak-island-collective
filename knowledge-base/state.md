@@ -450,3 +450,7 @@ has not been done yet.)_
   genuinely new calibration point surfaced: the forger's identity is settled yet his motive remains
   unexplained even in this fully "solved" case — useful context for Oak Island's own double-unresolved
   status. See `logs/2026-10-12-sq4-horn-papers-fourth-comparator.md`.
+
+
+## 2026-11-22 (ChatGPT cycle #144) — second Amherst Daily News microfilm lead
+ChatGPT directly read the Public Archives of Nova Scotia 1976 annual report, p. 11, which lists microfilms acquired for the Amherst Daily News (1895–1974). UNB's current title record separately lists HIL-MIC holdings for Daily News (Amherst), 1895-11-02–1914-03-11. These are two institutional holdings leads, but neither proves exact survival or availability of the 1912-02-23 issue. The 11/18/19-August 1911 Bowdoin date discrepancy remains unresolved; no original Collier's pages or 1912 newspaper issue inspected. Cryptanalysis remains paused pending authenticated primary text.
