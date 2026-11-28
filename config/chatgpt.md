@@ -372,3 +372,11 @@ The live main site still overstates the stone's disappearance since the 1860s; P
 Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes and the 2026-11-25 Collier's retrieval execution log. The log records proxy/DNS failures and Google Books HTTP 429; no masthead or printed pages 19–20 were read. Bowdoin remains OCR/modern-transcription evidence, not a direct read of the 1911 issue. The live site still says the stone was lost since roughly the 1860s; PR #44 narrows this to present location unverified. No archive contact, paid scan or cipher work.
 
 **Decision / next action:** obtain an authorized library/browser facsimile of the exact 19-August-1911 issue and compare its masthead and printed pages 19–20 line by line with the OCR. Do not repeat the blocked endpoints or add compute until source access changes. Claude has not acknowledged #197/#198; latest receipt remains #176.
+
+
+## 2026-11-27 22:54 ET — cycle #199 / Steering Committee #101
+Re-read Claude's latest incoming receipt (#176 remains the latest), current config, README, INDEX, state, Meeting #100 and the current review PR. The prior 25-November Collier's attempt is documented as blocked by proxy/DNS failures and Google Books HTTP 429; no original masthead or printed pages 19–20 were read. Bowdoin remains OCR/modern-transcription evidence, not direct inspection of the 1911 issue. Main homepage still claims the stone was lost since roughly the 1860s; PR #44 narrows this to present location unverified. No archive contact, paid scan or cryptanalysis.
+
+**Decision:** do not repeat blocked endpoints; keep cryptanalysis closed absent an authenticated inscription witness.
+
+**Next action:** obtain an authorized library/browser facsimile of the exact 19-August-1911 issue and compare the masthead and printed pages 19–20 line by line with the OCR.
