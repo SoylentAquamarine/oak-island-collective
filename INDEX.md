@@ -95,3 +95,46 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## 2026-11-22 steering update
+- [ChatGPT Steering Committee Meeting #52](./steering/meetings/2026-11-22-meeting-52.md) — cycle #147 review, evidence, blockers, permissions and next action.
+
+
+## 2026-11-22 cycle #148
+- [Steering Committee Meeting #53](steering/meetings/2026-11-22-meeting-53.md) — reel 2634 verified; exact 1912 issue remains unread; cryptanalysis paused.
+
+
+## 2026-11-22 cycle #149
+- [Primary-source OCR read: Bowdoin's 1911 Collier's article](logs/2026-11-22-colliers-1911-primary-ocr-read.md) — direct OCR reading with image/OCR limitations stated.
+- [Steering Committee Meeting #54](steering/meetings/2026-11-22-meeting-54.md) — new primary-source read; 1912 Blair reply remains unread.
+
+## 2026-11-22 cycle #150
+- [Steering Committee Meeting #55](steering/meetings/2026-11-22-meeting-55.md) — official reel 2634 date coverage reverified; exact 1912 issue remains unconfirmed.
+
+
+## 2026-11-22 cycle #151
+- [Independent transcription cross-check — Bowdoin's 1911 Collier's article](logs/2026-11-22-colliers-1911-transcription-crosscheck.md) — independently read a full transcription; original page image not inspected.
+- [Steering Committee Meeting #56](steering/meetings/2026-11-22-meeting-56.md) — Bowdoin's 1911 account qualifies the old 1860s disappearance claim; the 1912 issue remains unconfirmed.
+
+## 2026-11-22 cycle #152
+- [Bowdoin's 1911 Collier's article — Archive.org OCR read](logs/2026-11-22-colliers-1911-archive-ocr-primary-read.md) — 19-August-1911 issue, pages 19–20; OCR read, page images not inspected.
+- [Steering Committee Meeting #57](steering/meetings/2026-11-22-meeting-57.md) — exact 1912 Blair reply remains unverified; cryptanalysis stays paused.
+
+
+## 2026-11-22 cycle #153
+- [Chappell's 1973 manuscript: secondary summary of Blair's 1912 reply](logs/2026-11-22-chappell-1973-blair-reply-secondary-check.md) — a six-point retrospective summary; original newspaper remains unread.
+- [Steering Committee Meeting #58](steering/meetings/2026-11-22-meeting-58.md) — new secondary lead, source-tier warning and exact-issue next action.
+
+## 2026-11-23 cycle #154
+- [Amherst Daily News issue-access audit](logs/2026-11-23-amherst-issue-access-audit.md) — UNB catalogue coverage includes the target date; exact issue survival and Blair's original reply remain unconfirmed.
+- [Steering Committee Meeting #59](steering/meetings/2026-11-23-meeting-59.md) — source-tier separation retained; cryptanalysis remains paused.
+
+
+## 2026-11-23 cycle #156
+- [Steering Committee Meeting #60](steering/meetings/2026-11-23-meeting-60.md) — UNB catalogue range includes the target date, but exact issue survival and Blair's original wording remain unverified.
+
+
+## 2026-11-23 cycle #157
+- [UNB microfilm access route](logs/2026-11-23-unb-microfilm-access-route.md) — official catalogue covers the target date; issue survival remains unconfirmed; appointments via `mic@unb.ca`.
+- [Steering Committee Meeting #61](steering/meetings/2026-11-23-meeting-61.md) — provenance first; cryptanalysis remains paused pending an authenticated issue.
