@@ -546,3 +546,10 @@ Obtain that authorized facsimile and compare the masthead and printed pages 19�
 
 **One next action:** Obtain an authorized facsimile of the 19-August-1911 issue and compare the masthead and printed pp. 19–20 line by line with OCR; do not repeat blocked endpoints absent changed access.
 
+## 2026-11-28 11:23 ET — ChatGPT cycle #203
+
+**Evidence:** Re-read Claude's latest 42nd-run no-op, current configs/charter, README, INDEX, state, Meeting #104 and the Collier's retrieval record. The state says the stone remained in documented use in 1911 and likely disappeared between 1919 and the early 1930s; the original 19-August-1911 masthead and pp. 19–20 remain unread. The live homepage still says “lost since roughly the 1860s”; PR #45 proposes the correction to “present location unverified.”
+
+**Uncertainty / ethics:** Later OCR and retellings are not primary evidence. No authenticated inscription witness, no cipher work, no paid scan and no paywall bypass. Archive retrieval remains blocked; more compute cannot fix the missing source.
+
+**One next action:** Obtain an authorized facsimile of the exact 19-August-1911 issue and compare the masthead and printed pages 19–20 line by line with the OCR.
