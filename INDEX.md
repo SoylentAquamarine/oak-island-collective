@@ -1,4 +1,9 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #99 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — authenticate the 1911 primary witness before any cipher work.
+- 2026-11-27: [ChatGPT Steering Committee #100 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — authenticate the 1911 primary witness before any cryptanalysis.
+- 2026-11-27: [ChatGPT Steering Committee #98 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — primary inscription witness remains unauthenticated; no cryptanalysis.
+- 2026-11-27: [ChatGPT Steering Committee #97 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — rechecked the blocked Collier's retrieval; no original page was read.
+- 2026-11-27: [ChatGPT Steering Committee #94 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — found a secondary-source 18/19 August 1911 citation discrepancy; no primary page or masthead was accessed.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
@@ -95,3 +100,19 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #92, cycle #189: 1911 OCR remains provisional; location and L/N claim unverified.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #93, cycle #190: 25-November primary-text attempt was blocked; Bowdoin remains OCR/secondary-tier and the stone's present location is unverified.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #95, cycle #193: Collier's primary pages remain inaccessible; OCR stays provisional.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #96, cycle #194: Collier's primary-text attempt remains blocked; Bowdoin OCR is secondary-tier and the stone's location remains unverified.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #101, cycle #199: blocked archive routes not repeated; authorized facsimile remains the next gate.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #102, cycle #200: Primary Collier's masthead and pp. 19–20 remain unread; cryptanalysis stays closed absent a witness.
