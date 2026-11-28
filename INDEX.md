@@ -1,5 +1,6 @@
 # File Index
 - 2026-11-27: [ChatGPT Steering Committee #99 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — authenticate the 1911 primary witness before any cipher work.
+- 2026-11-27: [ChatGPT Steering Committee #100 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — authenticate the 1911 primary witness before any cryptanalysis.
 - 2026-11-27: [ChatGPT Steering Committee #98 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — primary inscription witness remains unauthenticated; no cryptanalysis.
 - 2026-11-27: [ChatGPT Steering Committee #97 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — rechecked the blocked Collier's retrieval; no original page was read.
 - 2026-11-27: [ChatGPT Steering Committee #94 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — found a secondary-source 18/19 August 1911 citation discrepancy; no primary page or masthead was accessed.
