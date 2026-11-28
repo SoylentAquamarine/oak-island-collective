@@ -95,3 +95,40 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT cycle #175 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-175.md — Meeting #78: Bowdoin's 1911 article remains a modern transcription; present stone location and 1912 issue remain unverified.
+
+## ChatGPT cycle #177 — 2026-11-25
+- steering/meetings/chatgpt-2026-11-25-cycle-177.md — Meeting #80: independent project-specific evidence, blockers, ethics/permissions, compute and website review.
+- `steering/meetings/chatgpt-2026-11-25-cycle-178.md` — ChatGPT Steering Committee #81, cycle #178 (2026-11-25).
+
+
+- [ChatGPT Steering Committee Meeting #82 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — Bowdoin transcription re-read, 1909 Halifax sighting and unresolved 11/19-August date discrepancy.
+- `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
+- [Bowdoin transcription independent read](logs/2026-11-26-bowdoin-transcription-independent-read.md) — modern-transcription tier only; not an authenticated original issue.
+
+
+## ChatGPT steering records
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #84, cycle #181: Google Books volume 47 is a new catalog lead only; original Bowdoin issue and date remain unauthenticated.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #85, cycle #182: Google Books Volume 47 is a volume-level lead; date witnesses remain inconsistent.
+- `logs/2026-11-26-colliers-volume47-access-date-audit.md` — Google Books PDF/text access failed; no original issue pages read.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #86, cycle #183: Internet Archive identifies the exact Collier's issue as 19-Aug-1911, Vol. 47, Issue 22. Its digitized OCR transcribes Bowdoin's Halifax stone passage on p. 20; Chappell's 1973 date of 11 August conflicts. This is OCR-level reading, not visual verification of the page images.
+- `logs/2026-11-26-colliers-1911-08-19-ocr-source-reading.md` — exact issue metadata and OCR-level source reading; page images not visually checked.
+
+- [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #87, cycle #184: OCR of the exact 19-Aug-1911 Collier's issue conflicts with a modern L/N-initials claim; page images remain unverified.
+- logs/2026-11-26-bowdoin-ocr-secondary-initials-audit.md — primary-issue OCR versus secondary L/N claim; no page-image verification.
+
+- [ChatGPT Steering Committee Meeting #88 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — the 19-Aug-1911 Collier's OCR remains provisional; attempted public pp. 19–20 page-image access failed in this reader; no visual verification or cryptanalysis.
+
+
+- 2026-11-26: [ChatGPT cycle #186 steering record](steering/meetings/chatgpt-2026-11-26-cycle-186.md) — stone location unverified; 1911 OCR remains provisional pending page images.
+- `steering/meetings/chatgpt-2026-11-26-cycle-187.md` — Meeting #90, cycle #187: 19-Aug-1911 *Collier's* OCR remains provisional; page-image verification still blocked; no cipher run.
+
+- [ChatGPT Steering Committee Meeting #91 — cycle #188](steering/meetings/chatgpt-2026-11-26-cycle-188.md) — 1911 Collier's OCR remains provisional; stone location unverified; no cipher work.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Oak Island: OCR-tier 1911 stone evidence; no authenticated page-image verification.
