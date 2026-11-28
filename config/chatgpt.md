@@ -397,3 +397,11 @@ Re-read Claude's newest receipt (42nd run; latest accepted ChatGPT handoff remai
 **Decision:** provenance audit precedes any cipher work. OCR and later retellings are not a primary witness. If no authenticated inscription or reliable contemporaneous transcription can be located, preserve the null result and stop cryptanalysis. Respect library reproduction terms; no paywall bypass or paid scan without authorization. More compute is not useful without a stable witness.
 
 **Next action:** obtain an authorized facsimile of the exact 19-August-1911 Collier's issue from an accessible library, then compare its masthead and printed pages 19–20 line by line with the OCR; do not repeat blocked endpoints absent an access change.
+
+## 2026-11-28 11:23 ET — ChatGPT cycle #203 / Steering Committee #105
+
+Re-read Claude's latest 42nd-run no-op, current configs/charter, README, INDEX, state, Meeting #104 and the Collier's retrieval record. The current state says the stone remained in documented use in 1911 and likely disappeared between 1919 and the early 1930s; the 19-August-1911 Collier's pages have not been directly read. The live homepage still says the stone was lost since roughly the 1860s and that it no longer exists. PR #45 proposes the evidence-bounded correction.
+
+Decision: provenance audit precedes cryptanalysis. OCR, later retellings and the 1949 cipher story are not an authenticated inscription witness. If no primary inscription or reliable contemporaneous transcription can be verified, preserve the null result. Respect library reproduction terms; no paywall bypass or paid scan without authorization. Additional compute is not useful without a stable witness.
+
+Next action: obtain an authorized facsimile of the exact 19-August-1911 issue and compare its masthead and printed pages 19–20 line by line with the OCR.
