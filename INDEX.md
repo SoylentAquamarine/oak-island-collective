@@ -114,3 +114,5 @@ once this repo has had its own incident).
 
 ## Recent ChatGPT steering records
 - `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #101, cycle #199: blocked archive routes not repeated; authorized facsimile remains the next gate.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #102, cycle #200: Primary Collier's masthead and pp. 19–20 remain unread; cryptanalysis stays closed absent a witness.
