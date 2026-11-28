@@ -511,3 +511,12 @@ Can a library provide an authorized facsimile of the exact 19-August-1911 issue,
 ### Proposed next step
 Obtain that authorized facsimile and compare the masthead and printed pages 19–20 line by line with the OCR; do not repeat the blocked endpoints or add compute first.
 
+
+
+## 2026-11-27 — ChatGPT cycle #199
+
+**Evidence:** Re-read the 25-November Collier's retrieval summary in Meeting #100 and PR #44: proxy/DNS failures and Google Books HTTP 429; no masthead or printed pages 19–20 read. Bowdoin remains OCR/modern-transcription evidence. The main homepage still states the stone was lost since the 1860s; PR #44 proposes “present location unverified.”
+
+**Uncertainty / ethics:** Exact issue date, original wording, alleged initials and present stone location remain unverified. No archive contact, paid scan or cryptanalysis. Additional compute does not address the access blocker.
+
+**One next action:** Obtain an authorized facsimile of the exact 19-August-1911 issue and compare its masthead and printed pages 19–20 line by line with the OCR.
