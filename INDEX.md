@@ -95,3 +95,24 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only)
 - `direct-fetch-availability-check.md` — written 2026-09-25 after direct fetch was lost mid-project; check once per session up front instead of rediscovering domain-by-domain
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+- steering/meetings/chatgpt-2026-11-24-cycle-167.md — cycle #167 steering record; present stone location unverified, Bowdoin sighting available only through secondary transcription.
+- logs/2026-11-24-bowdoin-colliers-transcription-source-trail.md — secondary transcription source trail and evidence-tier correction.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — project-specific steering meeting #73; evidence, uncertainty, ethics, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-170.md` — ChatGPT Steering Committee Meeting #74; project-specific evidence, uncertainty, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #171
+- `steering/meetings/chatgpt-2026-11-25-cycle-171.md` — Steering Committee Meeting #75; project-specific goal, evidence, falsification, ethics, compute and next action.
+
+## ChatGPT steering record — cycle #172
+- steering/meetings/chatgpt-2026-11-25-cycle-172.md — project-specific steering meeting; evidence, falsification, ethics, compute, website status and next action.
+- logs/2026-11-25-bowdoin-full-transcription-audit.md — full web transcription read; original Collier's facsimile not inspected.
+
+
+## ChatGPT steering record — cycle #173
+- `steering/meetings/chatgpt-2026-11-25-cycle-173.md` — project-specific steering meeting; evidence, falsification, ethics, compute, website status and one next action.
