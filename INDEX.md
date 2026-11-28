@@ -99,3 +99,4 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-28-cycle-201.md` — Meeting #103, cycle #201: primary historical record first; stone's present location unverified; no cipher work without an authenticated witness.
 
 - `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #104, cycle #202: independent evidence review, project-specific blockers and next action.
+- `steering/meetings/chatgpt-2026-11-28-cycle-203.md` — Meeting #105, cycle #203: 1911 use documented in state; exact primary pages unread; no cipher work without witness.
